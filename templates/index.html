@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chess Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+        .container {
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 400px;
+        }
+        h1 {
+            font-size: 24px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+        input, select, button {
+            margin-bottom: 15px;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            width: 100%;
+        }
+        button {
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .result {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #e7f7e7;
+            border: 1px solid #b7e1b7;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Chess Prediction</h1>
+        <form id="predictionForm">
+            <label for="white_rating">White Rating:</label>
+            <input type="number" id="white_rating" name="white_rating" required>
+            
+            <label for="black_rating">Black Rating:</label>
+            <input type="number" id="black_rating" name="black_rating" required>
+            
+            <label for="opening_name">Opening Name:</label>
+            <select id="opening_name" name="opening_name" required>
+                <!-- Add the options dynamically or manually -->
+                <option value="King's Pawn Game">King's Pawn Game</option>
+<option value="Queen's Pawn">Queen's Pawn</option>
+<option value="Philidor Defense">Philidor Defense</option>
+<option value="Scandinavian Defense: Mieses-Kotroc Variation">Scandinavian Defense: Mieses-Kotroc Variation</option>
+<option value="Van't Kruijs Opening">Van't Kruijs Opening</option>
+<option value="French Defense">French Defense</option>
+<option value="Four Knights Game: Italian Variation">Four Knights Game: Italian Variation</option>
+<option value="Italian Game">Italian Game</option>
+<option value="Horwitz Defense">Horwitz Defense</option>
+<option value="Sicilian Defense">Sicilian Defense</option>
+<option value="Queen's Gambit Refused: Marshall Defense">Queen's Gambit Refused: Marshall Defense</option>
+<option value="Indian Game">Indian Game</option>
+<option value="Scandinavian Defense">Scandinavian Defense</option>
+<option value="English Opening: King's English Variation">English Opening: King's English Variation</option>
+<option value="Scotch Game">Scotch Game</option>
+<option value="Modern Defense">Modern Defense</option>
+<option value="Queen's Gambit Accepted: Old Variation">Queen's Gambit Accepted: Old Variation</option>
+<option value="Queen's Gambit Declined">Queen's Gambit Declined</option>
+<option value="Caro-Kann Defense">Caro-Kann Defense</option>
+<option value="Hungarian Opening">Hungarian Opening</option>
+<option value="Giuoco Piano">Giuoco Piano</option>
+<option value="Pirc Defense #4">Pirc Defense #4</option>
+<option value="Owen Defense">Owen Defense</option>
+<option value="Bishop's Opening">Bishop's Opening</option>
+<option value="Three Knights Opening">Three Knights Opening</option>
+<option value="Ruy Lopez: Steinitz Defense">Ruy Lopez: Steinitz Defense</option
+                <!-- Add more openings as per your dataset -->
+            </select>
+            
+            <button type="button" id="submitBtn">Predict</button>
+        </form>
+        <div id="result" class="result" style="display: none;"></div>
+    </div>
+
+    <script>
+        document.getElementById('submitBtn').addEventListener('click', function() {
+            const whiteRating = document.getElementById('white_rating').value;
+            const blackRating = document.getElementById('black_rating').value;
+            const openingName = document.getElementById('opening_name').value;
+
+            fetch('/predict', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    white_rating: whiteRating,
+                    black_rating: blackRating,
+                    opening_name: openingName
+                })
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.error) {
+                    document.getElementById('result').style.display = 'block';
+                    document.getElementById('result').innerHTML = `<strong>Error:</strong> ${data.error}`;
+                    return;
+                }
+
+                const turns = data.predicted_turns;
+                const probs = data.winner_probabilities;
+                const resultHTML = `
+                    <p><strong>Predicted Turns:</strong> ${turns.toFixed(2)}</p>
+                    <p><strong>Winner Probabilities:</strong></p>
+                    <ul>
+                        <li><strong>Draw:</strong> ${(probs.draw * 100).toFixed(2)}%</li>
+                        <li><strong>White:</strong> ${(probs.white * 100).toFixed(2)}%</li>
+                        <li><strong>Black:</strong> ${(probs.black * 100).toFixed(2)}%</li>
+                    </ul>
+                `;
+                document.getElementById('result').style.display = 'block';
+                document.getElementById('result').innerHTML = resultHTML;
+            })
+            .catch(error => {
+                document.getElementById('result').style.display = 'block';
+                document.getElementById('result').innerHTML = `<strong>Error:</strong> ${error.message}`;
+            });
+        });
+    </script>
+</body>
+</html>

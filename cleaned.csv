@@ -1,0 +1,3626 @@
+,turns,winner,increment_code,white_rating,black_rating,opening_name
+0,61,white,5+10,1496,1500,King's Pawn Game
+1,61,white,20+0,1439,1454,Queen's Pawn
+2,95,white,30+3,1523,1469,Philidor Defense
+3,119,white,10+0,1381,1209,Scandinavian Defense: Mieses-Kotroc Variation
+4,39,white,20+60,1381,1272,Van't Kruijs Opening
+5,60,black,5+40,1381,1936,French Defense
+6,31,black,8+0,1381,1607,French Defense
+7,31,white,15+15,1094,1141,Four Knights Game: Italian Variation
+8,52,black,15+15,1094,1141,Four Knights Game: Italian Variation
+9,66,black,15+16,1141,1094,Four Knights Game: Italian Variation
+10,101,black,15+15,1094,1300,Philidor Defense
+11,25,white,11+0,1500,1094,Queen's Pawn
+12,14,black,15+15,1094,1676,Italian Game
+13,3,white,30+60,1094,1068,Horwitz Defense
+14,17,white,15+5,1500,1094,Sicilian Defense
+15,13,black,10+0,1113,1423,Sicilian Defense
+16,69,white,10+10,1078,1219,Queen's Pawn
+17,54,black,10+10,1328,1038,Queen's Pawn
+18,66,black,10+10,1077,1148,Queen's Gambit Refused: Marshall Defense
+19,64,black,10+10,1358,1036,Sicilian Defense
+20,54,white,10+10,1203,1019,Sicilian Defense
+21,11,white,18+0,1422,975,Sicilian Defense
+22,22,black,15+0,978,1500,Indian Game
+23,30,white,30+0,1500,978,Sicilian Defense
+24,41,white,20+0,1500,978,Sicilian Defense
+25,49,white,15+0,1500,978,Sicilian Defense
+26,3,black,15+0,978,1500,Scandinavian Defense
+27,7,white,10+0,1343,978,Sicilian Defense
+28,41,white,40+40,2436,978,Scandinavian Defense: Mieses-Kotroc Variation
+29,5,black,10+0,978,1500,French Defense
+30,36,black,10+0,1500,978,English Opening: King's English Variation
+31,44,black,10+0,1457,1294,Scotch Game
+32,37,black,8+10,1207,1579,French Defense
+33,49,white,8+12,1567,1573,Modern Defense
+34,32,black,8+12,1578,1605,Horwitz Defense
+35,40,black,5+10,1618,1568,French Defense
+36,57,white,15+10,1561,1596,Indian Game
+37,61,white,15+5,1544,1461,Queen's Pawn
+38,44,black,20+5,1563,1335,Queen's Pawn
+39,62,black,20+5,1579,1470,Queen's Pawn
+40,87,white,20+5,1617,1590,Indian Game
+41,54,black,15+5,1595,1547,Queen's Pawn
+42,37,white,15+5,1855,1599,French Defense
+43,50,white,15+5,1589,1547,Horwitz Defense
+44,61,white,15+5,1552,1436,Queen's Pawn
+45,71,white,15+5,1537,1408,Queen's Pawn
+46,114,white,15+5,1522,1512,Queen's Pawn
+47,48,black,30+0,1556,1539,Queen's Pawn
+48,34,black,20+10,1409,1548,French Defense
+49,85,white,20+10,1513,1784,Horwitz Defense
+50,113,draw,15+0,1745,1714,Queen's Gambit Refused: Marshall Defense
+51,62,white,15+0,1734,1748,Queen's Gambit Refused: Marshall Defense
+52,75,white,10+0,1724,1855,Scotch Game
+53,81,white,10+0,1726,1388,Philidor Defense
+54,70,black,10+0,1597,1728,French Defense
+55,137,white,10+0,1746,1487,Queen's Gambit Accepted: Old Variation
+56,28,black,10+0,1769,1396,Queen's Gambit Accepted: Old Variation
+57,33,white,10+0,1770,1872,Queen's Pawn
+58,23,white,15+15,1215,921,Italian Game
+59,120,draw,15+15,1139,1212,Four Knights Game: Italian Variation
+60,26,black,15+15,1234,1359,Italian Game
+61,24,black,15+15,1132,1276,Queen's Gambit Refused: Marshall Defense
+62,47,white,30+2,1276,1308,Italian Game
+63,9,white,15+15,1338,1277,Queen's Pawn
+64,85,white,15+15,1316,1273,English Opening: King's English Variation
+65,97,white,15+15,1227,1216,Queen's Gambit Refused: Marshall Defense
+66,12,draw,15+15,1215,1219,Italian Game
+67,30,white,15+15,1227,1227,Four Knights Game: Italian Variation
+68,18,black,25+0,1228,1626,Queen's Gambit Declined
+69,85,white,15+15,1212,1212,Modern Defense
+70,76,black,15+0,1861,1844,Italian Game
+71,59,white,10+0,1851,1890,French Defense
+72,107,white,10+10,1885,1856,Sicilian Defense
+73,58,white,30+0,1847,1802,Queen's Pawn
+74,44,black,15+0,1860,1820,French Defense
+75,105,white,10+0,1895,1859,Sicilian Defense
+76,144,draw,10+0,1866,1843,Sicilian Defense
+77,40,black,15+0,1834,1835,Sicilian Defense
+78,59,white,15+5,1846,1845,Caro-Kann Defense
+79,110,black,10+0,1845,1917,Queen's Gambit Refused: Marshall Defense
+80,30,black,15+0,1858,1790,Scandinavian Defense: Mieses-Kotroc Variation
+81,54,black,10+0,1871,1847,Sicilian Defense
+82,69,black,10+0,1846,1869,Philidor Defense
+83,136,black,15+0,1800,1826,Sicilian Defense
+84,96,black,10+4,1290,1270,Hungarian Opening
+85,39,white,10+0,1304,1292,Van't Kruijs Opening
+86,10,black,10+0,1305,1293,French Defense
+87,106,black,30+0,968,1305,Four Knights Game: Italian Variation
+88,38,black,15+15,1293,1466,Philidor Defense
+89,111,white,7+2,1288,1232,Caro-Kann Defense
+90,15,white,7+2,1806,1289,Scotch Game
+91,42,white,7+2,1289,1311,Philidor Defense
+92,34,black,7+2,1289,1484,Giuoco Piano
+93,66,black,7+2,1806,1289,Scotch Game
+94,21,white,5+8,1289,1500,Philidor Defense
+95,159,white,15+1,1280,1485,Italian Game
+96,74,white,15+0,1280,1211,Scandinavian Defense: Mieses-Kotroc Variation
+97,150,draw,15+1,1259,1663,Italian Game
+98,137,draw,10+0,1568,1617,Italian Game
+99,33,black,10+2,1384,1325,Pirc Defense #4
+100,91,white,20+10,1377,1249,Scandinavian Defense: Mieses-Kotroc Variation
+101,49,white,10+2,1378,1361,Philidor Defense
+102,20,black,10+9,1380,1429,Sicilian Defense
+103,24,white,6+7,1361,1383,Van't Kruijs Opening
+104,34,black,20+0,1474,1387,Scandinavian Defense
+105,103,white,15+2,1377,1351,Philidor Defense
+106,22,black,30+15,1389,1400,Philidor Defense
+107,38,white,10+0,1849,1389,Scotch Game
+108,31,white,45+30,1354,1217,Italian Game
+109,38,black,15+15,1245,1346,Queen's Gambit Accepted: Old Variation
+110,43,white,10+4,1346,1099,Italian Game
+111,110,black,8+0,1426,1527,French Defense
+112,57,white,10+2,1497,1730,Owen Defense
+113,57,white,7+3,1437,1552,Italian Game
+114,29,white,7+3,1513,1456,Sicilian Defense
+115,97,white,10+0,1638,1614,Italian Game
+116,48,black,8+0,1776,1587,Queen's Pawn
+117,87,white,10+0,1515,1379,Scandinavian Defense: Mieses-Kotroc Variation
+118,54,black,10+0,1511,1516,Queen's Gambit Declined
+119,48,black,10+0,1942,1611,Van't Kruijs Opening
+120,29,white,15+15,1453,1496,Modern Defense
+121,96,black,10+0,1550,1605,Queen's Pawn
+122,78,black,15+0,1475,1605,Hungarian Opening
+123,51,white,10+0,1861,1863,Caro-Kann Defense
+124,48,draw,10+0,1618,1609,French Defense
+125,20,black,10+0,1620,1607,Van't Kruijs Opening
+126,98,black,10+0,1633,1581,Philidor Defense
+127,19,white,10+0,1612,1614,Italian Game
+128,69,black,10+0,1631,1684,Sicilian Defense
+129,27,white,10+0,1480,1643,Bishop's Opening
+130,71,white,10+0,1630,1638,Italian Game
+131,48,white,10+0,1649,1639,Bishop's Opening
+132,45,white,10+0,1626,1631,Italian Game
+133,92,black,10+0,1634,1603,Bishop's Opening
+134,71,draw,10+0,1570,1555,Italian Game
+135,97,white,10+0,1559,1557,French Defense
+136,60,white,10+0,1546,1571,Indian Game
+137,33,white,10+0,1534,1678,Philidor Defense
+138,64,black,8+2,1629,1887,Queen's Pawn
+139,58,black,10+0,966,1124,Scandinavian Defense
+140,11,white,15+15,1238,985,Van't Kruijs Opening
+141,163,draw,10+0,972,1247,English Opening: King's English Variation
+142,37,black,10+0,974,1129,Queen's Pawn
+143,78,black,10+0,1016,1126,Van't Kruijs Opening
+144,42,black,10+0,1047,1151,Queen's Pawn
+145,101,white,10+0,1127,1044,King's Pawn Game
+146,65,white,10+0,1020,1200,Queen's Pawn
+147,71,draw,10+0,1071,1068,Queen's Pawn
+148,44,black,10+0,1115,1223,Queen's Pawn
+149,20,black,10+0,1190,1213,Queen's Pawn
+150,40,black,10+0,1500,1500,Scandinavian Defense
+151,59,black,15+10,1367,1866,Van't Kruijs Opening
+152,19,white,10+0,1590,1373,Owen Defense
+153,50,black,10+0,1377,1667,Hungarian Opening
+154,15,white,5+8,1476,1367,Owen Defense
+155,52,black,5+8,1376,1469,Van't Kruijs Opening
+156,65,white,5+8,1460,1386,Owen Defense
+157,67,white,10+0,1372,1408,Philidor Defense
+158,130,black,8+0,1500,1395,French Defense
+159,125,white,8+0,1382,1414,French Defense
+160,76,black,15+5,1320,1400,French Defense
+161,53,white,30+0,1383,1242,Queen's Pawn
+162,53,white,25+0,1357,959,Queen's Pawn
+163,38,white,10+0,1559,1423,Horwitz Defense
+164,43,white,5+9,1576,1386,Queen's Pawn
+165,49,white,16+7,1591,1326,Queen's Pawn
+166,148,draw,10+0,1529,1763,Queen's Pawn
+167,2,draw,10+0,1641,1502,Scandinavian Defense
+168,40,black,10+0,1486,1909,Modern Defense
+169,60,black,10+0,1488,2192,Indian Game
+170,45,white,10+0,1470,1684,Queen's Pawn
+171,36,black,10+0,1500,1501,Indian Game
+172,46,draw,7+5,1356,1491,Scandinavian Defense
+173,34,black,10+0,1495,1771,Indian Game
+174,38,white,5+5,1529,1639,French Defense
+175,2,black,5+5,1646,1795,Queen's Pawn
+176,116,draw,5+5,1596,1686,Modern Defense
+177,54,black,5+5,1668,1761,Horwitz Defense
+178,41,white,5+5,1582,1704,French Defense
+179,30,black,5+5,1676,1680,French Defense
+180,64,black,10+3,1142,1679,Queen's Pawn
+181,71,black,5+5,1493,1678,French Defense
+182,60,white,5+5,1525,1693,Queen's Pawn
+183,58,black,5+5,1709,1681,Horwitz Defense
+184,34,black,5+5,1572,1688,French Defense
+185,23,black,15+2,1302,1248,Queen's Gambit Refused: Marshall Defense
+186,32,black,10+0,1314,1270,Queen's Gambit Accepted: Old Variation
+187,43,white,15+2,1318,1449,Queen's Gambit Refused: Marshall Defense
+188,41,white,15+2,1290,1367,Queen's Gambit Accepted: Old Variation
+189,6,white,40+20,1814,1299,Italian Game
+190,67,white,15+2,1348,1308,King's Pawn Game
+191,56,black,15+2,1318,1366,Queen's Gambit Accepted: Old Variation
+192,40,black,15+2,1345,1187,Queen's Gambit Accepted: Old Variation
+193,39,white,15+2,1322,1072,Queen's Gambit Accepted: Old Variation
+194,33,white,15+15,1350,1265,Scotch Game
+195,58,black,15+15,1270,1299,Queen's Pawn
+196,31,white,15+15,1223,1282,Scandinavian Defense: Mieses-Kotroc Variation
+197,15,white,15+15,1289,1306,Four Knights Game: Italian Variation
+198,22,black,15+15,1273,1160,Queen's Pawn
+199,27,white,10+0,1154,974,Philidor Defense
+200,74,black,10+0,1250,1156,Hungarian Opening
+201,40,black,15+15,1089,1165,Giuoco Piano
+202,50,black,15+15,1030,1162,Queen's Pawn
+203,61,white,15+15,1184,1184,Scotch Game
+204,12,black,15+15,1034,1149,Queen's Pawn
+205,86,draw,15+15,1156,886,Italian Game
+206,27,white,15+15,1142,1226,French Defense
+207,86,black,15+15,1042,1133,King's Pawn Game
+208,53,white,15+15,1247,1122,King's Pawn Game
+209,50,black,15+15,1070,1112,Van't Kruijs Opening
+210,45,white,15+15,914,1133,Three Knights Opening
+211,60,black,15+15,1133,1234,Giuoco Piano
+212,56,black,15+15,1126,1054,Philidor Defense
+213,115,white,10+0,2100,1960,Indian Game
+214,56,draw,10+0,1982,1960,Scandinavian Defense
+215,62,black,5+5,1627,2050,French Defense
+216,35,white,11+5,1164,1435,Scandinavian Defense: Mieses-Kotroc Variation
+217,70,black,10+0,1287,1099,Sicilian Defense
+218,75,white,10+0,1211,1230,Sicilian Defense
+219,61,white,10+0,1344,1500,Sicilian Defense
+220,36,black,10+0,1378,1318,French Defense
+221,53,white,15+15,1721,1643,Queen's Gambit Declined
+222,64,black,10+2,1170,1662,Scandinavian Defense
+223,88,black,5+5,1302,875,King's Pawn Game
+224,38,black,10+0,1983,2313,Horwitz Defense
+225,41,white,10+0,2312,1663,Ruy Lopez: Steinitz Defense
+226,78,black,10+0,1380,2239,Queen's Gambit Declined
+227,31,white,10+5,2104,1344,Philidor Defense
+228,66,black,10+5,1918,2086,Sicilian Defense
+229,44,black,10+5,1701,2100,Sicilian Defense
+230,27,white,10+5,2091,1704,Scandinavian Defense: Mieses-Kotroc Variation
+231,21,white,180+0,1408,1396,Queen's Gambit Declined
+232,91,white,10+0,1398,1383,Queen's Gambit Declined
+233,50,black,10+0,1394,1512,Queen's Gambit Refused: Marshall Defense
+234,56,black,10+0,1479,1381,Sicilian Defense
+235,37,white,10+0,1371,1374,Queen's Gambit Declined
+236,66,black,10+0,1372,1360,Sicilian Defense
+237,65,black,30+0,1528,1369,Queen's Pawn
+238,43,white,15+15,1392,1500,Sicilian Defense
+239,49,white,15+0,1905,1852,Owen Defense
+240,77,white,10+0,1478,1500,Sicilian Defense
+241,33,white,10+0,1478,1362,Pirc Defense #4
+242,83,white,15+0,1478,1490,Scotch Game
+243,102,black,8+5,1453,1466,Ruy Lopez: Steinitz Defense
+244,29,white,5+5,1466,1592,Scotch Game
+245,91,white,5+8,1466,1582,Philidor Defense
+246,59,black,10+0,1479,1454,Scotch Game
+247,41,white,6+5,1566,1493,Ruy Lopez: Steinitz Defense
+248,122,black,10+0,1417,1447,Queen's Pawn
+249,62,black,10+3,1325,1174,Queen's Pawn
+250,65,white,5+8,1322,913,Queen's Pawn
+251,23,white,15+0,1224,1332,Sicilian Defense
+252,58,black,10+9,1131,1347,Queen's Pawn
+253,64,black,10+0,1197,1340,Owen Defense
+254,43,white,10+0,1348,1381,Queen's Pawn
+255,29,white,5+5,1352,1408,Queen's Pawn
+256,48,black,10+3,2035,1352,Sicilian Defense
+257,76,black,5+8,1602,1791,Sicilian Defense
+258,68,black,5+8,1415,1788,Sicilian Defense
+259,30,black,8+0,1815,1889,Owen Defense
+260,59,white,8+0,1800,1831,Scandinavian Defense: Mieses-Kotroc Variation
+261,76,black,8+0,1830,1809,Scandinavian Defense: Mieses-Kotroc Variation
+262,33,draw,5+5,2465,2384,Queen's Pawn
+263,36,black,8+0,2255,2425,Queen's Pawn
+264,28,black,5+5,2083,2415,Queen's Pawn
+265,21,black,5+5,2281,2400,Queen's Pawn
+266,68,black,10+0,1437,1476,Ruy Lopez: Steinitz Defense
+267,59,white,10+0,1672,1701,Sicilian Defense
+268,31,black,10+0,1706,1698,Sicilian Defense
+269,72,black,10+1,1648,1719,Sicilian Defense
+270,66,black,15+15,1648,1710,Queen's Pawn
+271,23,white,10+0,1833,1740,Italian Game
+272,118,black,10+0,1433,1737,Queen's Pawn
+273,91,white,15+15,1713,1659,Italian Game
+274,56,black,10+0,1605,1698,Van't Kruijs Opening
+275,71,white,10+0,1690,1613,French Defense
+276,48,black,10+0,1622,1681,Van't Kruijs Opening
+277,84,black,10+0,1707,1699,French Defense
+278,51,white,10+0,1453,1724,Italian Game
+279,77,black,5+8,1854,1730,Scotch Game
+280,54,black,10+0,1705,1719,Ruy Lopez: Steinitz Defense
+281,89,white,10+0,1694,1825,Philidor Defense
+282,62,black,10+0,1651,1684,King's Pawn Game
+283,49,white,10+0,1706,1695,Sicilian Defense
+284,67,white,10+0,1683,1717,Philidor Defense
+285,73,white,10+0,1707,1693,Queen's Pawn
+286,43,white,10+0,1758,1702,Queen's Pawn
+287,16,black,10+0,1730,1882,Sicilian Defense
+288,52,black,10+0,1680,1789,Owen Defense
+289,78,black,10+0,1711,1760,Owen Defense
+290,103,white,10+0,1710,1618,Van't Kruijs Opening
+291,49,black,15+3,1858,1730,French Defense
+292,27,white,10+0,1864,1449,Scandinavian Defense: Mieses-Kotroc Variation
+293,42,black,10+5,1704,1824,English Opening: King's English Variation
+294,5,white,10+0,1894,1539,Van't Kruijs Opening
+295,115,draw,5+60,1923,1887,Queen's Pawn
+296,51,white,15+0,2215,2147,Sicilian Defense
+297,33,black,10+0,1805,2195,French Defense
+298,38,black,10+0,1500,2098,Queen's Pawn
+299,27,white,10+0,1904,1544,Philidor Defense
+300,62,black,10+0,1540,1540,Sicilian Defense
+301,123,white,10+0,1534,1467,Scandinavian Defense: Mieses-Kotroc Variation
+302,44,black,10+0,1545,1554,Caro-Kann Defense
+303,20,white,15+15,1432,1559,Sicilian Defense
+304,88,black,10+0,1369,1553,Sicilian Defense
+305,96,black,10+0,1553,1542,Sicilian Defense
+306,120,white,10+0,1543,1553,Sicilian Defense
+307,32,white,10+0,813,841,King's Pawn Game
+308,39,white,10+2,1478,859,Scandinavian Defense
+309,27,white,5+10,1186,871,Scandinavian Defense
+310,68,white,45+0,1271,883,Scandinavian Defense
+311,40,black,20+3,901,1339,Sicilian Defense
+312,27,white,45+0,1500,901,Scandinavian Defense
+313,78,black,30+10,922,1120,King's Pawn Game
+314,4,black,30+0,1026,1121,Queen's Pawn
+315,44,black,8+0,1057,1240,Horwitz Defense
+316,45,black,30+0,1057,1341,French Defense
+317,15,white,30+0,1331,1083,Sicilian Defense
+318,37,white,20+5,1266,1130,Owen Defense
+319,22,black,12+0,1155,1484,Scandinavian Defense: Mieses-Kotroc Variation
+320,58,black,20+0,1222,1351,Queen's Pawn
+321,33,white,15+15,1214,1222,Scandinavian Defense
+322,46,white,7+7,1535,1273,French Defense
+323,36,black,10+10,1500,1409,Queen's Pawn
+324,62,black,20+0,1647,1566,Queen's Gambit Declined
+325,35,white,6+6,1500,1647,Three Knights Opening
+326,60,black,30+0,1887,1760,Queen's Pawn
+327,58,black,15+0,1297,1230,King's Pawn Game
+328,38,black,10+0,1625,1754,Queen's Pawn
+329,80,black,10+0,1474,1862,Philidor Defense
+330,54,black,10+0,1862,1807,Philidor Defense
+331,78,black,10+0,1396,1862,Four Knights Game: Italian Variation
+332,51,white,10+0,1674,1862,Queen's Gambit Refused: Marshall Defense
+333,12,white,10+0,1598,1862,Philidor Defense
+334,56,black,10+0,1862,1500,Queen's Pawn
+335,24,black,10+0,1862,1513,Queen's Gambit Declined
+336,45,black,10+0,1862,1500,Scandinavian Defense: Mieses-Kotroc Variation
+337,18,black,10+0,1862,1769,Scotch Game
+338,90,black,10+0,1701,1862,Giuoco Piano
+339,34,black,10+0,1862,1701,Philidor Defense
+340,129,white,10+0,1937,2090,French Defense
+341,25,white,10+0,1951,1664,French Defense
+342,19,black,10+0,1236,1941,Caro-Kann Defense
+343,83,white,180+0,1500,1500,French Defense
+344,66,white,180+0,1500,1500,Scotch Game
+345,89,white,180+0,1500,1500,French Defense
+346,129,draw,180+180,1500,1500,Van't Kruijs Opening
+347,27,white,180+180,1500,1500,Owen Defense
+348,76,white,180+180,1500,1500,Owen Defense
+349,63,white,10+0,1803,1737,French Defense
+350,64,black,4+6,1670,1692,Three Knights Opening
+351,15,white,5+8,1500,1329,Italian Game
+352,107,white,20+0,1712,1714,Scotch Game
+353,43,white,10+0,1500,1712,Queen's Pawn
+354,72,black,6+10,1705,1712,Sicilian Defense
+355,34,black,10+25,1712,1832,Caro-Kann Defense
+356,51,black,3+10,1712,1615,Scandinavian Defense: Mieses-Kotroc Variation
+357,16,black,10+1,1328,1712,Van't Kruijs Opening
+358,27,white,10+0,1726,1589,French Defense
+359,30,black,10+0,1577,1534,English Opening: King's English Variation
+360,49,white,10+0,1603,1594,French Defense
+361,86,black,10+0,1592,1783,English Opening: King's English Variation
+362,96,black,10+0,1516,1593,French Defense
+363,114,black,10+0,1475,1585,French Defense
+364,40,black,10+0,1585,1632,English Opening: King's English Variation
+365,68,black,10+0,1950,1997,Scandinavian Defense
+366,63,white,10+0,1819,2020,Sicilian Defense
+367,150,black,10+0,1651,1657,King's Pawn Game
+368,33,white,20+0,1663,1758,Scandinavian Defense: Mieses-Kotroc Variation
+369,161,white,5+5,1779,1794,English Opening: King's English Variation
+370,52,black,10+0,1690,1913,French Defense
+371,47,white,10+0,1873,1651,Scandinavian Defense: Mieses-Kotroc Variation
+372,39,white,10+0,1860,1770,Caro-Kann Defense
+373,50,black,10+0,1748,1852,French Defense
+374,19,black,10+0,1365,1850,French Defense
+375,52,black,10+0,1560,1892,Sicilian Defense
+376,132,black,10+0,1901,1993,Philidor Defense
+377,78,black,10+0,1750,1885,Queen's Pawn
+378,45,white,10+0,1882,1602,Ruy Lopez: Steinitz Defense
+379,66,black,20+5,1712,1875,Philidor Defense
+380,121,white,10+0,1881,1828,French Defense
+381,75,white,10+0,1868,1824,French Defense
+382,89,white,10+0,1894,1506,Philidor Defense
+383,36,black,15+20,1750,1741,Giuoco Piano
+384,55,white,5+7,1686,1681,Italian Game
+385,118,black,6+8,1713,1637,Queen's Pawn
+386,55,white,10+15,1791,1716,Queen's Pawn
+387,78,black,20+0,1804,1931,Sicilian Defense
+388,68,black,15+5,1701,1500,Three Knights Opening
+389,29,white,15+5,1148,1057,Queen's Pawn
+390,59,white,10+0,1625,1384,Giuoco Piano
+391,9,white,10+15,1805,1384,Philidor Defense
+392,80,black,3+8,1500,1644,Van't Kruijs Opening
+393,81,black,30+5,1687,1771,Queen's Pawn
+394,103,white,30+5,1678,1595,Queen's Pawn
+395,10,black,20+0,2313,2168,Owen Defense
+396,32,black,20+0,1855,2313,Giuoco Piano
+397,50,black,10+0,2344,2215,Giuoco Piano
+398,57,white,10+0,1432,1916,Philidor Defense
+399,21,white,20+8,1870,1479,Ruy Lopez: Steinitz Defense
+400,48,black,10+10,1859,1479,Ruy Lopez: Steinitz Defense
+401,68,black,6+9,1299,1513,Hungarian Opening
+402,40,black,8+5,1501,1513,Italian Game
+403,9,black,8+5,1513,1501,Queen's Gambit Refused: Marshall Defense
+404,36,black,180+0,1126,1513,King's Pawn Game
+405,132,black,8+5,1510,1461,Scandinavian Defense: Mieses-Kotroc Variation
+406,48,black,20+0,1534,1581,Queen's Gambit Declined
+407,75,black,20+0,1602,1502,Van't Kruijs Opening
+408,59,white,15+0,1627,1496,Philidor Defense
+409,77,white,5+5,1740,1500,Caro-Kann Defense
+410,104,draw,14+8,1638,1417,Queen's Pawn
+411,99,white,10+0,1885,1607,Owen Defense
+412,62,black,6+4,1707,1734,Van't Kruijs Opening
+413,57,white,10+0,1185,1222,Van't Kruijs Opening
+414,100,black,10+0,1277,1173,French Defense
+415,44,black,10+0,1136,1301,Queen's Pawn
+416,87,white,10+0,1291,1262,Philidor Defense
+417,75,white,10+0,1278,1173,French Defense
+418,52,black,10+0,1175,1270,Queen's Pawn
+419,40,black,10+0,1173,1262,King's Pawn Game
+420,73,white,10+0,1329,1271,Scotch Game
+421,52,black,10+0,1235,1272,Van't Kruijs Opening
+422,104,black,10+0,1239,1269,King's Pawn Game
+423,55,white,10+0,1152,1284,Queen's Gambit Declined
+424,72,black,10+0,1268,1392,Ruy Lopez: Steinitz Defense
+425,84,black,5+5,1342,1248,Queen's Pawn
+426,19,black,10+0,1257,1380,Philidor Defense
+427,137,white,10+0,1501,1199,Italian Game
+428,53,white,10+0,1597,1501,Queen's Gambit Accepted: Old Variation
+429,65,white,10+0,1501,1619,Ruy Lopez: Steinitz Defense
+430,8,black,10+0,1567,1501,Giuoco Piano
+431,55,white,10+0,1585,1501,Ruy Lopez: Steinitz Defense
+432,73,white,10+0,1514,1501,Queen's Pawn
+433,27,black,10+0,1501,1500,Philidor Defense
+434,50,black,10+0,1501,1511,Philidor Defense
+435,130,draw,10+0,1501,1760,French Defense
+436,51,white,10+0,1694,1501,Queen's Pawn
+437,24,black,10+0,1501,1503,Pirc Defense #4
+438,94,black,10+0,1694,1501,Queen's Pawn
+439,57,white,10+0,1500,1501,Hungarian Opening
+440,47,white,10+0,1787,1501,Scotch Game
+441,27,white,10+0,1501,1501,Bishop's Opening
+442,50,black,10+0,1501,1626,Sicilian Defense
+443,20,black,10+0,1501,1759,French Defense
+444,85,white,10+0,1500,1501,Four Knights Game: Italian Variation
+445,87,white,10+0,1501,1500,Philidor Defense
+446,45,white,10+0,1501,1513,Three Knights Opening
+447,38,black,10+0,1500,1501,Giuoco Piano
+448,39,white,10+0,1585,1501,Queen's Gambit Accepted: Old Variation
+449,90,black,10+0,1501,1500,Philidor Defense
+450,37,white,15+15,1104,1343,English Opening: King's English Variation
+451,6,white,15+15,1104,1228,English Opening: King's English Variation
+452,94,black,15+15,1104,1419,Modern Defense
+453,29,white,15+15,1104,1069,English Opening: King's English Variation
+454,58,black,15+15,1104,1290,Queen's Pawn
+455,44,black,15+15,1273,1104,Italian Game
+456,35,white,15+5,1500,1104,Philidor Defense
+457,87,white,15+5,1481,1104,Philidor Defense
+458,64,black,15+5,1104,1500,Queen's Pawn
+459,36,black,15+5,1500,1104,King's Pawn Game
+460,57,white,15+5,1336,1104,Queen's Pawn
+461,42,black,15+5,1104,1430,Indian Game
+462,77,white,15+5,1408,1104,Philidor Defense
+463,43,white,15+5,1499,1104,Bishop's Opening
+464,81,white,15+5,1412,1104,Italian Game
+465,94,black,180+0,1072,1231,Scandinavian Defense: Mieses-Kotroc Variation
+466,92,black,15+15,1245,1264,Sicilian Defense
+467,78,black,15+15,1251,1177,Sicilian Defense
+468,66,black,15+15,1007,1208,Scandinavian Defense: Mieses-Kotroc Variation
+469,41,white,15+15,1277,1241,Scandinavian Defense
+470,49,white,15+15,1233,1013,French Defense
+471,17,white,15+0,1390,1339,Queen's Pawn
+472,68,black,10+1,1327,1327,Van't Kruijs Opening
+473,52,black,10+0,1327,1490,Four Knights Game: Italian Variation
+474,97,white,10+0,1313,1360,Four Knights Game: Italian Variation
+475,38,black,10+0,1313,1500,Bishop's Opening
+476,84,white,10+0,1291,1313,Sicilian Defense
+477,17,white,10+0,1428,1313,Sicilian Defense
+478,73,white,10+0,1313,1078,Philidor Defense
+479,35,white,10+0,1307,1313,Sicilian Defense
+480,30,black,10+0,1313,1500,Sicilian Defense
+481,77,white,10+0,1412,1313,Sicilian Defense
+482,30,black,9+0,1327,1420,Sicilian Defense
+483,36,black,10+10,1337,1382,Sicilian Defense
+484,77,white,15+15,1516,1345,Giuoco Piano
+485,40,black,10+0,1802,1691,French Defense
+486,76,black,10+0,1827,1933,Sicilian Defense
+487,55,white,10+0,1723,1859,French Defense
+488,67,white,10+0,1853,1675,Italian Game
+489,48,black,10+0,1804,1837,French Defense
+490,47,white,10+0,1834,1856,French Defense
+491,56,black,10+0,1844,1793,Italian Game
+492,60,black,10+0,1778,1757,French Defense
+493,113,white,5+10,1225,1086,Philidor Defense
+494,42,black,10+1,1312,1237,Giuoco Piano
+495,53,white,7+3,1197,1190,Caro-Kann Defense
+496,60,black,5+5,1176,1658,Queen's Pawn
+497,17,black,5+5,1678,1017,Philidor Defense
+498,124,white,5+5,2186,1017,Philidor Defense
+499,125,white,10+0,1108,1017,Philidor Defense
+500,23,draw,10+0,1697,1171,Italian Game
+501,117,draw,10+0,1705,1628,Philidor Defense
+502,39,white,10+5,1401,1467,English Opening: King's English Variation
+503,64,black,45+0,1500,1426,Sicilian Defense
+504,27,black,20+0,1549,1426,Sicilian Defense
+505,56,black,30+0,1464,1413,Hungarian Opening
+506,39,white,20+0,1413,1500,King's Pawn Game
+507,48,black,15+15,1259,1184,Queen's Gambit Declined
+508,32,black,15+15,1288,1138,Queen's Gambit Declined
+509,7,black,10+0,1154,1191,Horwitz Defense
+510,23,white,10+0,1217,1176,Sicilian Defense
+511,122,black,10+0,1210,1183,King's Pawn Game
+512,35,white,15+0,1699,1457,Queen's Pawn
+513,75,white,25+0,1500,1545,Queen's Pawn
+514,90,black,10+0,1324,1365,Scotch Game
+515,29,black,10+0,1340,1366,Van't Kruijs Opening
+516,39,draw,10+0,1250,1382,Queen's Pawn
+517,94,black,10+0,1388,1238,Italian Game
+518,129,white,10+0,1390,1423,Philidor Defense
+519,68,black,10+0,1384,1393,Queen's Pawn
+520,56,black,10+0,1403,1387,French Defense
+521,86,black,10+0,1405,1362,Scandinavian Defense: Mieses-Kotroc Variation
+522,107,draw,10+0,1397,1405,Sicilian Defense
+523,13,white,10+0,1374,1408,Van't Kruijs Opening
+524,63,white,10+0,1306,1429,Queen's Pawn
+525,40,black,10+0,1423,1610,Italian Game
+526,88,black,10+0,1437,1635,French Defense
+527,62,black,10+0,1412,1427,Sicilian Defense
+528,110,black,10+0,1261,1397,Queen's Pawn
+529,39,white,10+0,1349,1419,Four Knights Game: Italian Variation
+530,15,white,10+0,1413,1434,Horwitz Defense
+531,86,black,10+0,1343,1406,French Defense
+532,41,white,10+0,1596,1711,Bishop's Opening
+533,94,black,10+0,1721,1754,Sicilian Defense
+534,130,black,10+0,1228,1732,King's Pawn Game
+535,33,white,10+0,1685,1609,Caro-Kann Defense
+536,84,white,15+15,1472,1218,Queen's Pawn
+537,35,white,20+0,1493,1500,Queen's Pawn
+538,61,white,12+0,1493,1463,Queen's Pawn
+539,78,black,10+0,1482,1744,Queen's Pawn
+540,49,white,10+0,1477,1189,Queen's Pawn
+541,115,white,10+0,1476,1524,Queen's Gambit Refused: Marshall Defense
+542,82,black,10+0,1170,1500,King's Pawn Game
+543,22,black,15+15,1229,1160,Bishop's Opening
+544,88,black,30+0,1037,1669,Sicilian Defense
+545,84,black,10+0,1500,1311,English Opening: King's English Variation
+546,52,black,10+0,1361,1370,Philidor Defense
+547,66,black,10+0,1327,1343,Giuoco Piano
+548,111,white,10+0,1347,1186,Four Knights Game: Italian Variation
+549,27,white,10+0,1334,1400,French Defense
+550,27,black,10+0,1329,1466,Sicilian Defense
+551,62,black,10+0,1099,1279,Queen's Pawn
+552,63,white,10+0,1383,1286,Four Knights Game: Italian Variation
+553,50,black,10+0,1297,1313,Italian Game
+554,32,black,10+0,1306,1298,Four Knights Game: Italian Variation
+555,92,black,10+0,1195,1298,Van't Kruijs Opening
+556,57,white,10+0,1282,1492,Philidor Defense
+557,43,draw,10+0,1386,1279,Hungarian Opening
+558,17,white,10+0,1264,1367,Giuoco Piano
+559,51,white,10+0,1393,1272,Queen's Pawn
+560,24,black,10+0,1278,1474,Philidor Defense
+561,39,white,10+0,1267,1370,Scandinavian Defense: Mieses-Kotroc Variation
+562,49,white,10+0,1349,1276,King's Pawn Game
+563,40,black,10+0,1285,1383,French Defense
+564,95,white,10+0,1526,1290,Hungarian Opening
+565,64,black,10+0,1299,1647,Sicilian Defense
+566,51,white,10+0,1279,1625,Four Knights Game: Italian Variation
+567,23,black,15+5,1258,1481,Queen's Pawn
+568,78,black,10+0,2179,2115,Hungarian Opening
+569,83,white,10+0,2173,1831,Bishop's Opening
+570,124,black,10+0,2179,2090,Horwitz Defense
+571,32,black,10+0,1450,1390,Three Knights Opening
+572,100,black,10+0,1492,1560,Pirc Defense #4
+573,64,white,10+0,1558,1526,Bishop's Opening
+574,53,white,10+0,1491,1438,Three Knights Opening
+575,71,white,10+0,1447,1439,Pirc Defense #4
+576,7,white,7+2,1238,1500,Bishop's Opening
+577,7,white,7+2,1500,1238,Bishop's Opening
+578,18,black,7+2,1500,1238,Sicilian Defense
+579,23,white,15+5,1443,1500,Scotch Game
+580,12,black,10+5,1500,1626,Bishop's Opening
+581,28,black,10+0,1317,1401,Scotch Game
+582,32,white,10+0,1258,1331,Sicilian Defense
+583,104,black,10+0,1340,1433,Queen's Pawn
+584,127,draw,10+0,1134,1346,Sicilian Defense
+585,73,white,10+0,1336,1292,Modern Defense
+586,117,white,10+0,1278,1463,Queen's Pawn
+587,123,white,10+0,1363,1287,Indian Game
+588,105,white,15+15,966,937,Scandinavian Defense
+589,8,black,15+15,951,955,French Defense
+590,79,white,15+0,1148,972,Scandinavian Defense: Mieses-Kotroc Variation
+591,21,white,15+15,958,1008,King's Pawn Game
+592,28,draw,15+15,1015,956,Sicilian Defense
+593,105,white,10+0,964,1029,Queen's Pawn
+594,66,black,10+0,1058,943,Queen's Pawn
+595,47,white,10+0,808,973,Van't Kruijs Opening
+596,11,white,10+0,1095,986,Scandinavian Defense: Mieses-Kotroc Variation
+597,62,black,10+0,999,1092,Hungarian Opening
+598,13,white,10+0,912,1024,Scandinavian Defense: Mieses-Kotroc Variation
+599,20,black,10+0,1029,914,Hungarian Opening
+600,128,black,10+0,1048,1077,Queen's Pawn
+601,33,white,10+0,1082,1070,Scandinavian Defense
+602,30,white,10+0,1070,1069,Scandinavian Defense
+603,63,black,30+0,1099,1326,Queen's Pawn
+604,21,draw,8+7,1196,946,Owen Defense
+605,105,white,10+0,1649,1672,Queen's Pawn
+606,80,black,10+0,1676,1637,Bishop's Opening
+607,90,black,10+0,1655,1668,Sicilian Defense
+608,69,black,10+0,1645,1655,Italian Game
+609,103,white,10+0,1648,1672,Three Knights Opening
+610,25,white,10+0,1660,1665,Three Knights Opening
+611,148,black,10+0,1693,1693,Sicilian Defense
+612,87,white,10+0,1730,1703,Italian Game
+613,90,black,10+0,1686,1701,Ruy Lopez: Steinitz Defense
+614,97,white,10+0,1701,1680,French Defense
+615,101,white,10+0,1964,1705,Bishop's Opening
+616,94,black,10+0,1755,1717,Italian Game
+617,61,white,10+0,1772,1713,Italian Game
+618,58,black,10+0,1576,1671,King's Pawn Game
+619,33,white,10+0,1661,1675,French Defense
+620,60,black,10+0,1748,1647,Italian Game
+621,141,white,10+0,1637,1661,Sicilian Defense
+622,71,white,10+0,1347,1268,Van't Kruijs Opening
+623,60,black,5+8,1500,1072,Three Knights Opening
+624,72,white,10+10,1605,1367,Sicilian Defense
+625,98,black,20+5,1500,1501,Queen's Pawn
+626,29,white,10+0,1191,1598,King's Pawn Game
+627,95,white,10+0,1301,1616,Philidor Defense
+628,81,black,10+0,1498,1597,Scotch Game
+629,60,black,10+0,1577,1874,Philidor Defense
+630,123,white,10+0,1651,1573,Three Knights Opening
+631,99,white,10+0,1569,1298,Philidor Defense
+632,114,black,10+0,1390,1201,French Defense
+633,9,white,10+0,1395,1273,Owen Defense
+634,12,black,7+2,1500,1378,King's Pawn Game
+635,52,black,10+0,1232,1371,Hungarian Opening
+636,109,draw,10+0,1372,1347,Philidor Defense
+637,22,black,10+0,1384,1353,Italian Game
+638,93,white,10+0,1406,1338,Philidor Defense
+639,122,black,7+2,1243,1378,Queen's Pawn
+640,42,black,4+6,1383,1045,French Defense
+641,26,black,4+6,1383,1045,French Defense
+642,77,white,4+6,1383,1045,French Defense
+643,45,white,4+6,1383,1045,French Defense
+644,112,draw,8+0,1383,1045,French Defense
+645,52,black,8+0,1383,1045,French Defense
+646,62,black,10+0,1446,1359,King's Pawn Game
+647,58,black,10+0,1369,1413,Bishop's Opening
+648,12,black,10+0,1468,1354,King's Pawn Game
+649,84,black,8+0,1331,1434,Bishop's Opening
+650,33,white,10+0,1985,1009,Ruy Lopez: Steinitz Defense
+651,41,white,10+0,1009,1227,French Defense
+652,69,white,8+0,1344,1018,Hungarian Opening
+653,92,black,10+0,1018,1707,Scandinavian Defense
+654,81,white,10+0,1500,1018,Ruy Lopez: Steinitz Defense
+655,19,white,10+0,1166,1034,Italian Game
+656,19,white,10+0,1100,1034,Four Knights Game: Italian Variation
+657,88,draw,8+0,1009,1038,Horwitz Defense
+658,124,black,180+0,1500,1038,King's Pawn Game
+659,2,black,15+0,1038,1331,Scandinavian Defense
+660,26,white,10+0,1067,972,Van't Kruijs Opening
+661,40,black,20+0,1150,1202,Van't Kruijs Opening
+662,60,white,8+0,1353,1364,Philidor Defense
+663,44,black,8+0,1377,1340,Caro-Kann Defense
+664,38,draw,10+0,1323,1365,King's Pawn Game
+665,90,black,10+0,1287,1355,Horwitz Defense
+666,44,black,8+0,1331,1341,Scandinavian Defense
+667,34,black,8+0,1343,1328,Scandinavian Defense: Mieses-Kotroc Variation
+668,34,black,8+0,1343,1328,Scandinavian Defense: Mieses-Kotroc Variation
+669,45,black,10+0,1210,1334,Van't Kruijs Opening
+670,31,white,10+0,1325,1218,Horwitz Defense
+671,102,black,15+15,1690,1712,Van't Kruijs Opening
+672,32,black,15+15,1763,1628,Hungarian Opening
+673,29,white,10+0,1840,1785,Queen's Gambit Refused: Marshall Defense
+674,66,black,10+0,1711,1751,Sicilian Defense
+675,44,black,15+10,1865,1990,Sicilian Defense
+676,45,white,15+10,1805,1870,Sicilian Defense
+677,142,black,15+15,1844,1857,Sicilian Defense
+678,80,black,15+10,1844,1839,Sicilian Defense
+679,99,draw,15+10,1845,1841,Sicilian Defense
+680,51,white,15+10,1810,1835,Sicilian Defense
+681,69,white,20+5,1981,1818,Hungarian Opening
+682,58,black,30+5,1815,1893,Sicilian Defense
+683,63,white,15+10,1946,1828,Sicilian Defense
+684,48,black,15+10,1843,1938,Owen Defense
+685,57,white,15+10,1825,1885,Sicilian Defense
+686,66,black,15+10,1812,1872,Sicilian Defense
+687,143,white,15+10,1873,1833,Ruy Lopez: Steinitz Defense
+688,79,white,15+10,1839,1819,Ruy Lopez: Steinitz Defense
+689,71,white,15+10,1717,1833,Sicilian Defense
+690,38,white,15+10,1770,1789,Sicilian Defense
+691,66,black,15+10,1890,1853,Ruy Lopez: Steinitz Defense
+692,62,black,10+0,1438,1407,Philidor Defense
+693,23,white,10+0,2009,1441,Scotch Game
+694,46,black,10+0,1319,1480,Van't Kruijs Opening
+695,48,black,10+0,1798,1848,Giuoco Piano
+696,62,black,10+0,1788,1853,Giuoco Piano
+697,70,black,10+0,1551,1842,Queen's Gambit Accepted: Old Variation
+698,56,black,10+0,1852,1879,Owen Defense
+699,73,white,10+0,2231,1882,Queen's Pawn
+700,66,black,10+0,1850,1871,Queen's Pawn
+701,77,white,10+0,1870,1412,Modern Defense
+702,62,black,10+0,1889,1907,King's Pawn Game
+703,3,white,10+0,1375,1332,Queen's Pawn
+704,47,white,10+0,1326,1321,King's Pawn Game
+705,29,white,10+0,1308,1339,French Defense
+706,41,white,10+0,1285,1321,Horwitz Defense
+707,48,black,10+0,1270,1322,Queen's Pawn
+708,67,white,10+0,1550,1321,Scandinavian Defense
+709,48,black,10+0,1322,1836,Owen Defense
+710,10,black,10+0,1358,1315,Philidor Defense
+711,30,black,10+0,1319,1633,Philidor Defense
+712,18,black,10+0,1343,1369,Italian Game
+713,13,white,10+0,1335,1355,Philidor Defense
+714,36,black,10+0,1370,1838,Scandinavian Defense: Mieses-Kotroc Variation
+715,1,black,10+0,1464,1355,Hungarian Opening
+716,23,white,10+0,1743,1320,Philidor Defense
+717,12,black,10+0,1317,1392,Scandinavian Defense: Mieses-Kotroc Variation
+718,41,white,10+0,1309,1213,Philidor Defense
+719,16,black,10+0,1321,1259,Pirc Defense #4
+720,2,black,10+0,1336,1516,Scandinavian Defense
+721,55,white,10+0,1351,1357,Philidor Defense
+722,2,black,150+180,1055,1280,Van't Kruijs Opening
+723,8,black,10+0,1086,1148,Van't Kruijs Opening
+724,62,black,10+0,1091,1958,Van't Kruijs Opening
+725,4,black,180+180,1091,1171,Van't Kruijs Opening
+726,2,black,180+180,1091,1529,Van't Kruijs Opening
+727,2,white,180+180,1091,1701,Van't Kruijs Opening
+728,2,black,30+0,1091,1500,Van't Kruijs Opening
+729,26,black,10+0,1185,1171,Van't Kruijs Opening
+730,38,black,10+0,1193,1636,Van't Kruijs Opening
+731,44,black,20+5,1236,1373,Van't Kruijs Opening
+732,64,black,7+10,1264,1506,Van't Kruijs Opening
+733,12,white,9+1,1739,1260,Hungarian Opening
+734,6,black,9+1,1423,1576,French Defense
+735,3,black,10+0,1500,1500,Horwitz Defense
+736,36,black,15+2,1500,2126,Indian Game
+737,138,black,15+0,1537,1500,Sicilian Defense
+738,68,black,15+0,1500,1537,Italian Game
+739,125,white,15+0,1500,1619,Italian Game
+740,31,white,10+0,1513,1026,Horwitz Defense
+741,32,black,10+0,1026,1369,King's Pawn Game
+742,54,white,15+15,1145,1040,Scandinavian Defense
+743,64,black,5+8,1043,1539,Queen's Pawn
+744,171,white,11+0,1666,1044,Philidor Defense
+745,52,black,5+8,971,1500,Scandinavian Defense
+746,114,black,5+8,971,1629,Modern Defense
+747,81,white,10+7,1700,982,Philidor Defense
+748,9,white,6+5,1735,982,King's Pawn Game
+749,34,black,10+0,1359,1411,Scandinavian Defense
+750,30,black,10+0,1365,1708,Scandinavian Defense: Mieses-Kotroc Variation
+751,15,white,10+0,1512,1403,Scotch Game
+752,66,black,10+0,1412,1679,Philidor Defense
+753,19,black,10+0,1479,1387,French Defense
+754,39,white,10+0,1889,1389,Horwitz Defense
+755,37,black,10+0,1392,1816,Giuoco Piano
+756,22,black,10+0,1760,1358,Italian Game
+757,56,black,10+0,1383,1352,Sicilian Defense
+758,58,black,10+0,1376,1418,Four Knights Game: Italian Variation
+759,50,black,10+0,1406,1321,Sicilian Defense
+760,59,white,10+0,1241,1460,Queen's Pawn
+761,68,black,10+0,1370,1425,King's Pawn Game
+762,35,white,10+0,1384,1380,Philidor Defense
+763,65,white,10+0,1435,1429,Scotch Game
+764,61,draw,10+0,1494,1433,Bishop's Opening
+765,100,black,5+8,1375,1529,Caro-Kann Defense
+766,57,white,5+8,1590,1380,Scandinavian Defense: Mieses-Kotroc Variation
+767,21,white,5+8,1371,1291,Scotch Game
+768,145,white,5+8,1741,1371,Scandinavian Defense: Mieses-Kotroc Variation
+769,51,white,10+8,1321,1267,Scandinavian Defense: Mieses-Kotroc Variation
+770,44,black,10+8,1334,1277,Scandinavian Defense: Mieses-Kotroc Variation
+771,107,white,10+8,1324,1280,Scandinavian Defense: Mieses-Kotroc Variation
+772,110,black,10+8,1348,1460,French Defense
+773,40,white,10+8,1160,1369,Hungarian Opening
+774,102,black,10+8,1374,1357,Scandinavian Defense: Mieses-Kotroc Variation
+775,179,white,10+8,1303,1406,Scandinavian Defense: Mieses-Kotroc Variation
+776,57,white,10+8,1400,1529,Sicilian Defense
+777,127,draw,10+8,1398,1465,Sicilian Defense
+778,97,white,20+0,1444,1476,Ruy Lopez: Steinitz Defense
+779,36,black,15+15,1476,1652,Queen's Pawn
+780,75,black,15+15,1492,1476,Queen's Pawn
+781,39,white,20+30,1581,1495,Queen's Pawn
+782,19,white,15+0,1597,1504,Queen's Gambit Declined
+783,143,white,30+3,1684,1511,Ruy Lopez: Steinitz Defense
+784,23,white,14+10,1579,1522,Queen's Gambit Refused: Marshall Defense
+785,118,white,25+10,1502,1695,Philidor Defense
+786,34,black,10+10,1507,1757,Queen's Pawn
+787,55,white,15+15,1605,1517,Four Knights Game: Italian Variation
+788,11,white,15+5,1353,1568,King's Pawn Game
+789,18,black,10+5,1589,1386,Queen's Pawn
+790,117,white,5+8,1721,1621,Ruy Lopez: Steinitz Defense
+791,88,black,10+5,1633,1777,Queen's Pawn
+792,37,black,15+5,1646,1649,Ruy Lopez: Steinitz Defense
+793,62,black,5+30,1500,1649,King's Pawn Game
+794,59,white,10+0,1649,1230,Queen's Pawn
+795,88,black,5+8,1673,1633,Hungarian Opening
+796,45,black,5+8,1649,1838,Queen's Pawn
+797,89,white,10+0,1650,1756,Indian Game
+798,100,draw,10+0,1519,1749,Sicilian Defense
+799,70,black,10+0,1851,1887,French Defense
+800,52,black,10+0,1874,1774,French Defense
+801,87,white,8+1,1232,1581,Queen's Pawn
+802,71,white,10+2,1500,1238,Sicilian Defense
+803,73,black,10+5,1277,1464,Indian Game
+804,23,white,10+5,1371,1284,Philidor Defense
+805,20,black,20+0,1500,1371,Sicilian Defense
+806,44,black,20+0,1401,1382,Sicilian Defense
+807,43,white,10+0,1501,1484,Indian Game
+808,49,white,10+0,1419,1544,English Opening: King's English Variation
+809,40,black,15+10,1419,1865,English Opening: King's English Variation
+810,45,white,10+10,1639,1807,English Opening: King's English Variation
+811,61,white,15+1,1555,1575,Queen's Pawn
+812,35,white,10+0,1555,1755,Queen's Pawn
+813,89,white,30+30,1293,2123,Giuoco Piano
+814,45,white,10+0,2264,1529,French Defense
+815,48,black,10+0,1753,2264,French Defense
+816,59,white,15+0,2264,1455,Ruy Lopez: Steinitz Defense
+817,74,black,15+0,1885,2261,Sicilian Defense
+818,19,white,10+0,1466,1046,Italian Game
+819,122,black,10+0,1349,1449,Queen's Pawn
+820,42,black,10+0,1985,1993,Sicilian Defense
+821,34,black,10+0,1802,1913,Sicilian Defense
+822,122,black,10+0,1726,1946,Indian Game
+823,151,white,10+0,1859,1954,Sicilian Defense
+824,119,white,10+0,1785,1971,Sicilian Defense
+825,58,black,10+5,1702,1474,Sicilian Defense
+826,46,black,2+10,1474,2014,English Opening: King's English Variation
+827,84,black,5+5,1500,1474,Indian Game
+828,56,black,10+7,1363,1474,Sicilian Defense
+829,24,white,15+0,1390,1474,Indian Game
+830,62,black,10+0,1495,1474,Sicilian Defense
+831,145,white,5+8,1474,1607,Ruy Lopez: Steinitz Defense
+832,46,black,10+0,1487,1562,Queen's Pawn
+833,52,black,10+0,1503,1498,Scandinavian Defense
+834,85,white,20+1,1114,1189,Hungarian Opening
+835,51,draw,20+1,1191,1111,Van't Kruijs Opening
+836,36,black,10+0,897,1111,Modern Defense
+837,26,white,10+0,1111,897,Hungarian Opening
+838,139,white,10+0,1115,1013,Hungarian Opening
+839,72,black,10+0,1099,1115,Modern Defense
+840,142,black,10+0,1099,1115,Modern Defense
+841,23,white,0+25,798,1157,Modern Defense
+842,43,white,15+5,1151,964,Hungarian Opening
+843,34,black,7+2,1113,1581,King's Pawn Game
+844,23,white,15+15,1083,1218,Scotch Game
+845,6,black,15+15,1091,1203,Sicilian Defense
+846,37,white,15+15,1236,1098,Scotch Game
+847,19,white,15+15,1112,1109,King's Pawn Game
+848,65,draw,15+15,1116,1173,Scandinavian Defense
+849,28,black,15+15,1139,1104,Scotch Game
+850,47,white,20+5,1614,1711,Pirc Defense #4
+851,38,black,10+5,1696,1659,Pirc Defense #4
+852,41,white,0+15,1525,1657,Pirc Defense #4
+853,68,white,10+5,1782,1651,Pirc Defense #4
+854,25,white,8+6,1700,1635,Pirc Defense #4
+855,88,draw,10+5,1642,1638,Pirc Defense #4
+856,65,white,10+5,1652,1674,Indian Game
+857,56,black,15+14,1201,1871,Queen's Pawn
+858,75,white,15+14,1870,1202,Horwitz Defense
+859,14,black,15+14,1573,1866,Scandinavian Defense: Mieses-Kotroc Variation
+860,21,white,15+14,1799,1866,Scandinavian Defense: Mieses-Kotroc Variation
+861,43,white,15+14,1857,1590,French Defense
+862,41,black,15+14,1594,1852,Scandinavian Defense: Mieses-Kotroc Variation
+863,75,white,15+14,1875,1074,Queen's Gambit Accepted: Old Variation
+864,54,black,15+14,1825,1869,French Defense
+865,93,white,10+0,1940,1879,Scandinavian Defense: Mieses-Kotroc Variation
+866,64,draw,10+0,1815,1882,Van't Kruijs Opening
+867,57,white,15+14,1878,1534,Horwitz Defense
+868,73,white,15+14,1757,1891,Scandinavian Defense: Mieses-Kotroc Variation
+869,60,black,15+14,1426,1885,Scandinavian Defense
+870,55,black,15+14,1730,1893,French Defense
+871,45,white,15+14,1886,1737,Modern Defense
+872,27,white,15+14,1903,1454,Queen's Gambit Refused: Marshall Defense
+873,50,black,15+14,1651,1878,Scandinavian Defense: Mieses-Kotroc Variation
+874,8,black,10+0,1132,1258,Van't Kruijs Opening
+875,22,black,10+0,1303,1248,Scandinavian Defense
+876,84,black,10+0,1257,1296,King's Pawn Game
+877,25,white,10+0,1152,1271,Italian Game
+878,68,black,10+0,1283,1255,King's Pawn Game
+879,82,black,10+0,1295,1226,King's Pawn Game
+880,151,white,10+0,1268,1312,Sicilian Defense
+881,81,white,10+0,1378,1276,Scandinavian Defense: Mieses-Kotroc Variation
+882,34,black,10+0,1284,1370,King's Pawn Game
+883,40,black,10+0,1305,1360,King's Pawn Game
+884,51,white,10+0,1245,1300,Three Knights Opening
+885,70,black,10+0,1315,1189,Sicilian Defense
+886,30,black,10+0,1227,1312,Scandinavian Defense
+887,63,white,10+0,1304,1226,Modern Defense
+888,128,black,10+0,1325,1361,King's Pawn Game
+889,40,black,10+0,1340,1316,King's Pawn Game
+890,15,white,10+0,1328,1295,Italian Game
+891,53,white,10+0,1304,1318,Bishop's Opening
+892,53,white,10+0,1288,1268,Sicilian Defense
+893,46,black,30+0,1291,1318,Indian Game
+894,43,white,10+0,1824,1500,Horwitz Defense
+895,38,black,15+0,1661,1364,Bishop's Opening
+896,68,white,5+8,1390,1364,Van't Kruijs Opening
+897,17,white,15+6,1168,1364,Van't Kruijs Opening
+898,47,white,10+0,2005,1500,Italian Game
+899,71,white,30+0,1531,1500,Queen's Pawn
+900,66,black,10+0,1413,1271,Queen's Pawn
+901,42,black,10+0,1279,1406,Scandinavian Defense
+902,135,white,10+0,1398,1286,Queen's Pawn
+903,27,black,10+0,1407,1461,Sicilian Defense
+904,53,white,10+0,1283,1422,Scandinavian Defense
+905,29,white,20+20,2244,1411,Queen's Gambit Accepted: Old Variation
+906,49,white,10+0,1405,1417,Queen's Pawn
+907,49,white,8+0,1430,1256,Horwitz Defense
+908,55,white,10+0,1335,1444,Scandinavian Defense
+909,76,black,10+0,1355,1428,Scandinavian Defense
+910,41,black,10+0,1441,1338,Bishop's Opening
+911,56,black,10+0,1451,1480,Queen's Pawn
+912,75,white,10+0,1429,1511,Bishop's Opening
+913,131,white,10+0,1416,1491,Queen's Pawn
+914,48,black,10+0,1406,1423,Scandinavian Defense
+915,80,black,10+0,1364,1397,Scandinavian Defense
+916,81,white,10+0,1404,1197,Bishop's Opening
+917,49,white,10+0,1397,1415,Queen's Pawn
+918,79,white,10+0,1405,1408,Queen's Pawn
+919,13,white,10+0,1171,1422,Queen's Pawn
+920,105,white,10+0,1412,1401,French Defense
+921,83,white,10+0,1518,1419,Hungarian Opening
+922,77,white,15+0,1393,1527,Queen's Pawn
+923,55,white,20+0,1527,1393,Queen's Pawn
+924,78,black,15+0,1309,1393,Scandinavian Defense: Mieses-Kotroc Variation
+925,78,black,15+0,1393,1527,Queen's Pawn
+926,63,white,15+0,1428,1730,Queen's Pawn
+927,50,black,20+0,1428,1527,Queen's Pawn
+928,87,white,20+0,1279,1428,Scandinavian Defense: Mieses-Kotroc Variation
+929,65,white,15+0,1730,1428,Queen's Pawn
+930,78,black,15+0,1309,1393,Scandinavian Defense: Mieses-Kotroc Variation
+931,108,black,20+0,1309,1527,Scandinavian Defense: Mieses-Kotroc Variation
+932,37,white,5+5,1845,1507,Queen's Pawn
+933,16,black,5+5,1513,1783,Horwitz Defense
+934,60,black,5+5,1599,1499,Scandinavian Defense
+935,120,black,5+5,1533,1507,Queen's Pawn
+936,24,black,5+5,1513,1695,Hungarian Opening
+937,50,black,5+5,1526,1542,Sicilian Defense
+938,37,white,17+5,1383,1136,Giuoco Piano
+939,11,white,13+10,1372,1003,Sicilian Defense
+940,77,white,10+0,1364,1065,French Defense
+941,20,black,15+0,1196,1348,Queen's Gambit Accepted: Old Variation
+942,37,white,10+0,1336,1088,French Defense
+943,17,draw,5+5,1382,1304,Bishop's Opening
+944,30,white,15+0,1285,1116,Sicilian Defense
+945,77,white,5+10,1271,1328,Four Knights Game: Italian Variation
+946,101,white,15+15,1547,1567,Queen's Gambit Accepted: Old Variation
+947,80,black,10+10,1429,1552,French Defense
+948,64,black,10+0,1805,1727,French Defense
+949,36,black,20+15,1500,1425,Sicilian Defense
+950,105,white,15+15,1403,1428,Sicilian Defense
+951,42,black,15+15,1470,1428,Sicilian Defense
+952,37,white,15+15,1556,1410,Sicilian Defense
+953,47,white,15+15,1410,1300,Owen Defense
+954,39,white,15+15,1469,1453,Sicilian Defense
+955,64,black,15+15,1500,1374,Sicilian Defense
+956,62,black,15+15,1333,1364,Sicilian Defense
+957,43,white,10+0,1275,1308,Italian Game
+958,131,white,10+0,1264,1315,King's Pawn Game
+959,75,white,10+0,1250,1156,Scandinavian Defense
+960,33,white,15+15,1373,1084,Scandinavian Defense: Mieses-Kotroc Variation
+961,121,white,10+60,2286,1373,Queen's Pawn
+962,52,black,3+9,1194,1311,Van't Kruijs Opening
+963,41,white,15+10,1358,886,Sicilian Defense
+964,61,white,10+5,1500,898,Sicilian Defense
+965,27,white,17+11,1397,940,Four Knights Game: Italian Variation
+966,36,white,5+8,1110,1500,Queen's Pawn
+967,20,black,5+10,1500,1595,Scandinavian Defense
+968,12,black,5+10,1500,1595,Scandinavian Defense
+969,21,white,15+0,1649,1500,Queen's Pawn
+970,7,white,15+0,1500,1500,Bishop's Opening
+971,47,white,10+0,1789,1695,Sicilian Defense
+972,12,white,9+1,1739,1260,Hungarian Opening
+973,6,black,9+1,1423,1576,French Defense
+974,3,black,10+0,1500,1500,Horwitz Defense
+975,35,white,10+0,1307,1033,French Defense
+976,43,white,10+0,983,1051,French Defense
+977,42,black,10+0,1058,1249,Scandinavian Defense
+978,65,white,10+0,1308,1079,Scotch Game
+979,119,white,10+0,1125,1124,Queen's Pawn
+980,52,white,15+15,1131,1167,Scandinavian Defense
+981,16,white,15+15,1107,1225,Scandinavian Defense
+982,16,black,10+0,1132,1107,French Defense
+983,67,white,10+0,1208,1123,French Defense
+984,34,black,15+15,1110,1320,Scandinavian Defense
+985,119,white,15+15,1098,1123,Queen's Pawn
+986,44,black,15+15,1138,1368,Owen Defense
+987,30,white,15+15,1114,998,Modern Defense
+988,47,black,15+15,1296,1051,Queen's Pawn
+989,95,white,15+15,1045,1101,Queen's Pawn
+990,86,black,10+0,1253,1956,Horwitz Defense
+991,70,black,10+0,1265,1720,Horwitz Defense
+992,25,white,10+0,1551,1276,Caro-Kann Defense
+993,19,black,10+0,1283,1668,Sicilian Defense
+994,96,black,10+0,1666,1212,Queen's Pawn
+995,39,white,15+15,1725,1402,Scandinavian Defense
+996,35,white,15+15,1355,1352,English Opening: King's English Variation
+997,77,white,20+0,1500,1375,Queen's Pawn
+998,14,white,12+2,1355,1431,English Opening: King's English Variation
+999,24,black,30+0,1616,1504,Ruy Lopez: Steinitz Defense
+1000,58,black,25+0,1504,1612,Scandinavian Defense: Mieses-Kotroc Variation
+1001,58,black,5+15,1500,1504,Queen's Pawn
+1002,38,black,5+15,1500,1504,Queen's Pawn
+1003,81,white,12+6,1504,1500,Scandinavian Defense
+1004,33,draw,8+8,1428,1507,Philidor Defense
+1005,28,black,10+0,1233,1503,Italian Game
+1006,25,white,10+0,1500,1149,Bishop's Opening
+1007,56,black,20+5,1587,1500,Queen's Pawn
+1008,19,draw,5+10,1527,1500,Italian Game
+1009,58,black,5+10,1500,1500,King's Pawn Game
+1010,78,black,25+30,1500,1500,King's Pawn Game
+1011,59,white,30+0,1500,1500,Queen's Pawn
+1012,61,white,10+0,1381,1500,Ruy Lopez: Steinitz Defense
+1013,10,black,15+0,1500,1500,Ruy Lopez: Steinitz Defense
+1014,81,white,15+8,1668,1543,French Defense
+1015,84,black,15+8,1696,1527,French Defense
+1016,66,black,15+2,1579,1664,Queen's Gambit Accepted: Old Variation
+1017,58,black,15+2,1678,1565,Modern Defense
+1018,88,black,15+2,1691,1696,Queen's Pawn
+1019,23,white,15+2,1684,1703,Italian Game
+1020,62,black,15+2,1717,1618,Italian Game
+1021,95,black,15+2,1626,1708,Owen Defense
+1022,80,black,15+2,1656,1729,Queen's Gambit Refused: Marshall Defense
+1023,135,white,15+2,1719,1677,Philidor Defense
+1024,147,draw,15+2,1696,1722,Italian Game
+1025,37,white,15+2,1718,1436,Philidor Defense
+1026,87,white,15+2,1709,1629,Queen's Pawn
+1027,10,black,15+2,1518,1689,Italian Game
+1028,71,white,15+2,1683,1495,Queen's Pawn
+1029,54,black,15+2,1694,1707,Three Knights Opening
+1030,34,black,10+1,1482,1472,Horwitz Defense
+1031,43,white,12+0,1473,1401,Queen's Gambit Declined
+1032,22,black,10+0,1163,1985,Bishop's Opening
+1033,78,black,10+3,1158,1383,Bishop's Opening
+1034,13,white,25+3,1147,1108,Philidor Defense
+1035,102,black,15+10,1206,1132,Van't Kruijs Opening
+1036,67,white,10+5,1103,1146,King's Pawn Game
+1037,97,white,17+1,1111,1198,French Defense
+1038,60,black,15+0,1160,796,Scandinavian Defense: Mieses-Kotroc Variation
+1039,82,black,30+1,1084,1146,Horwitz Defense
+1040,62,black,20+0,1158,1191,Bishop's Opening
+1041,62,white,13+1,1148,1165,French Defense
+1042,60,black,13+1,1161,1200,Bishop's Opening
+1043,42,black,15+15,1160,1070,French Defense
+1044,90,black,10+0,1140,1011,Scandinavian Defense
+1045,33,white,10+0,995,1167,Bishop's Opening
+1046,101,white,10+0,1156,997,Scandinavian Defense
+1047,54,black,10+8,1089,1162,King's Pawn Game
+1048,72,black,20+0,1092,1144,English Opening: King's English Variation
+1049,38,black,20+0,1172,1077,Scandinavian Defense
+1050,17,white,10+5,1742,1218,Owen Defense
+1051,113,white,15+5,1500,1261,Owen Defense
+1052,18,black,10+0,1317,1538,Scandinavian Defense
+1053,46,black,15+0,1317,1500,King's Pawn Game
+1054,63,white,6+5,1504,1500,Owen Defense
+1055,26,black,10+0,1391,1774,Ruy Lopez: Steinitz Defense
+1056,117,white,10+0,1686,1400,Scotch Game
+1057,48,black,30+0,1408,1577,Italian Game
+1058,32,black,10+0,1418,1741,Scandinavian Defense: Mieses-Kotroc Variation
+1059,40,black,10+0,1422,2026,Three Knights Opening
+1060,29,black,10+0,1523,1375,Four Knights Game: Italian Variation
+1061,93,black,7+2,1375,1992,Scandinavian Defense: Mieses-Kotroc Variation
+1062,95,white,8+25,1281,930,French Defense
+1063,18,black,15+0,950,1274,Sicilian Defense
+1064,31,white,15+0,1270,953,Scotch Game
+1065,61,white,10+0,1245,1277,Queen's Pawn
+1066,28,black,20+0,1152,1246,Sicilian Defense
+1067,9,white,19+19,1231,905,Queen's Pawn
+1068,32,black,15+0,1268,1204,Sicilian Defense
+1069,115,white,15+0,1017,1223,Queen's Pawn
+1070,41,white,20+0,1249,1500,Queen's Pawn
+1071,49,black,25+0,1249,1531,Horwitz Defense
+1072,43,white,30+0,1111,1275,Queen's Pawn
+1073,97,white,10+0,1667,1250,Queen's Gambit Accepted: Old Variation
+1074,40,black,10+0,1252,1770,King's Pawn Game
+1075,57,white,10+0,1689,1254,Queen's Pawn
+1076,35,white,10+0,2033,1256,Van't Kruijs Opening
+1077,46,black,10+0,1525,1232,Philidor Defense
+1078,60,black,10+0,1235,1592,Modern Defense
+1079,35,white,10+0,1709,1291,Owen Defense
+1080,31,white,10+0,1755,1293,Queen's Gambit Declined
+1081,64,black,10+0,1296,1702,Sicilian Defense
+1082,45,white,10+0,1680,1299,Bishop's Opening
+1083,31,white,10+0,1809,1314,Italian Game
+1084,30,black,30+1,1324,1599,Philidor Defense
+1085,34,black,30+1,1289,1321,Van't Kruijs Opening
+1086,81,white,10+0,1297,1532,Scandinavian Defense
+1087,84,black,10+0,1300,1749,Pirc Defense #4
+1088,30,black,30+1,1453,1261,Queen's Pawn
+1089,98,black,30+1,1453,1222,Queen's Pawn
+1090,70,black,30+1,1338,1200,Philidor Defense
+1091,74,black,10+0,1213,1519,Sicilian Defense
+1092,53,white,10+0,1833,1214,Queen's Pawn
+1093,88,black,10+0,1188,1605,Hungarian Opening
+1094,68,black,10+0,1374,1553,Queen's Pawn
+1095,56,black,10+0,1669,1481,Horwitz Defense
+1096,46,black,10+0,1453,1412,Queen's Gambit Refused: Marshall Defense
+1097,66,black,10+0,1235,1375,Modern Defense
+1098,19,white,10+0,1306,1546,Scandinavian Defense: Mieses-Kotroc Variation
+1099,21,white,10+0,1258,1673,French Defense
+1100,27,white,10+0,1113,1122,Philidor Defense
+1101,59,white,10+60,1102,1810,Van't Kruijs Opening
+1102,106,black,10+0,1098,1249,Van't Kruijs Opening
+1103,79,white,10+0,1241,1112,French Defense
+1104,124,black,10+0,1130,1210,Van't Kruijs Opening
+1105,60,black,10+0,1169,1104,French Defense
+1106,88,black,10+0,1114,1384,Van't Kruijs Opening
+1107,39,white,10+0,1636,1116,French Defense
+1108,53,white,10+0,1825,1074,French Defense
+1109,28,black,10+0,1074,2151,Van't Kruijs Opening
+1110,61,white,6+8,1429,1416,Indian Game
+1111,64,black,5+10,1425,1447,Italian Game
+1112,127,black,20+0,1451,1414,Sicilian Defense
+1113,43,black,20+0,1436,1389,Scandinavian Defense: Mieses-Kotroc Variation
+1114,51,black,10+25,1472,1498,Caro-Kann Defense
+1115,93,black,20+15,1459,1461,Sicilian Defense
+1116,89,white,8+0,1456,1472,Sicilian Defense
+1117,43,white,9+3,1441,1462,Italian Game
+1118,66,white,8+5,1451,1451,Sicilian Defense
+1119,100,black,8+0,1461,1491,Italian Game
+1120,51,white,12+8,1465,1472,Sicilian Defense
+1121,36,black,15+2,1464,1415,Italian Game
+1122,96,white,10+0,1471,1454,Sicilian Defense
+1123,81,white,45+15,1417,1477,Sicilian Defense
+1124,65,white,5+8,1474,1201,Philidor Defense
+1125,21,white,5+5,1510,1483,Sicilian Defense
+1126,42,black,10+0,1498,1768,Italian Game
+1127,75,white,10+0,1435,1523,Sicilian Defense
+1128,66,black,20+0,1536,1460,Philidor Defense
+1129,113,draw,20+0,1561,1525,Italian Game
+1130,42,draw,10+15,1456,1556,Sicilian Defense
+1131,145,white,25+0,1546,1532,Philidor Defense
+1132,78,black,15+2,1543,1536,Indian Game
+1133,76,white,11+0,1477,1560,Van't Kruijs Opening
+1134,78,black,8+0,1436,1568,Modern Defense
+1135,59,white,5+5,1567,1108,Hungarian Opening
+1136,89,white,9+0,1301,1587,Modern Defense
+1137,103,white,8+8,1292,1622,Modern Defense
+1138,163,white,6+5,1616,1404,Hungarian Opening
+1139,19,white,9+9,1613,1279,Hungarian Opening
+1140,53,white,5+8,1607,1403,Hungarian Opening
+1141,71,white,5+5,1600,1421,Hungarian Opening
+1142,88,black,10+0,1580,1763,Queen's Pawn
+1143,64,black,5+5,1966,2214,Queen's Pawn
+1144,67,black,7+4,2169,2221,Queen's Gambit Refused: Marshall Defense
+1145,7,white,7+4,2173,2189,Scandinavian Defense: Mieses-Kotroc Variation
+1146,122,black,7+4,2176,2027,Sicilian Defense
+1147,87,black,7+4,2018,2167,Queen's Gambit Declined
+1148,84,black,7+4,1989,2160,Queen's Gambit Refused: Marshall Defense
+1149,33,white,7+4,2145,1631,Sicilian Defense
+1150,48,black,7+4,1692,2143,Queen's Gambit Declined
+1151,25,black,7+4,1690,2141,Scotch Game
+1152,93,white,7+4,2129,2088,Sicilian Defense
+1153,78,black,10+0,1852,1874,Queen's Pawn
+1154,87,white,10+0,1828,1767,Horwitz Defense
+1155,54,black,10+0,1863,1831,Queen's Pawn
+1156,17,white,10+0,1846,1561,Queen's Pawn
+1157,136,black,10+0,1565,1831,Sicilian Defense
+1158,79,white,10+0,1814,1569,Queen's Pawn
+1159,42,black,10+0,1741,1771,Queen's Pawn
+1160,63,white,10+0,1712,1752,Queen's Pawn
+1161,42,black,10+0,1581,1767,Sicilian Defense
+1162,138,black,10+0,1410,1736,Sicilian Defense
+1163,52,white,10+0,1688,1414,Horwitz Defense
+1164,42,white,10+0,1732,1653,Queen's Gambit Declined
+1165,64,black,10+0,1634,1715,Philidor Defense
+1166,55,white,10+0,1727,1625,French Defense
+1167,42,black,10+0,973,1173,Van't Kruijs Opening
+1168,73,white,10+0,1272,986,Hungarian Opening
+1169,93,white,10+0,979,1043,Owen Defense
+1170,45,white,10+0,1053,1017,Bishop's Opening
+1171,69,white,10+0,1261,1045,Van't Kruijs Opening
+1172,27,white,10+0,1378,1071,Italian Game
+1173,36,black,10+0,1092,1143,Van't Kruijs Opening
+1174,59,white,10+0,1140,1117,French Defense
+1175,56,black,10+0,1141,1168,Scandinavian Defense
+1176,44,black,10+0,1136,1344,Scandinavian Defense: Mieses-Kotroc Variation
+1177,39,white,10+0,1076,1343,Sicilian Defense
+1178,61,white,10+0,1190,1052,King's Pawn Game
+1179,38,black,10+0,1152,1218,Queen's Pawn
+1180,43,draw,10+0,1500,1770,Philidor Defense
+1181,104,black,10+0,1082,1480,Queen's Pawn
+1182,44,black,10+0,1480,1488,Italian Game
+1183,23,white,10+0,1480,1350,Italian Game
+1184,14,black,10+0,1027,1480,Four Knights Game: Italian Variation
+1185,40,black,10+0,1480,1490,Four Knights Game: Italian Variation
+1186,71,white,10+0,1082,1480,Ruy Lopez: Steinitz Defense
+1187,66,black,10+0,1314,1480,King's Pawn Game
+1188,57,white,10+0,1480,1465,Four Knights Game: Italian Variation
+1189,58,black,10+0,1480,1500,Scandinavian Defense: Mieses-Kotroc Variation
+1190,154,black,10+0,1276,1480,King's Pawn Game
+1191,109,draw,10+0,1475,1480,Scotch Game
+1192,55,white,10+0,1480,1301,Four Knights Game: Italian Variation
+1193,35,white,10+0,1500,1480,Queen's Pawn
+1194,6,white,10+0,1480,1269,Three Knights Opening
+1195,49,white,10+0,1480,944,Four Knights Game: Italian Variation
+1196,29,white,15+0,1269,1136,Queen's Pawn
+1197,25,white,15+5,1637,1205,Queen's Pawn
+1198,15,white,7+2,1123,1256,Queen's Pawn
+1199,35,white,15+0,1545,1500,Scotch Game
+1200,63,white,7+12,1691,1500,Philidor Defense
+1201,26,black,20+0,1500,1542,King's Pawn Game
+1202,10,black,20+0,1500,1827,King's Pawn Game
+1203,79,white,10+10,1837,1900,Queen's Pawn
+1204,64,black,5+8,1935,1875,Philidor Defense
+1205,141,white,8+0,1874,1876,Modern Defense
+1206,68,black,10+0,1932,1951,Bishop's Opening
+1207,92,black,10+0,1972,1919,Sicilian Defense
+1208,126,black,10+0,1929,1955,Bishop's Opening
+1209,54,black,8+0,1259,1704,French Defense
+1210,153,white,7+2,2001,1740,Queen's Pawn
+1211,126,black,7+2,1759,1532,Scandinavian Defense: Mieses-Kotroc Variation
+1212,45,white,7+2,1853,1766,Philidor Defense
+1213,68,draw,7+2,1775,1544,French Defense
+1214,16,white,10+0,1489,1592,Queen's Pawn
+1215,52,black,10+0,1602,1636,Queen's Gambit Declined
+1216,51,white,10+0,1567,1494,Ruy Lopez: Steinitz Defense
+1217,38,black,15+0,1600,1545,Giuoco Piano
+1218,118,black,10+0,1531,1689,Queen's Gambit Accepted: Old Variation
+1219,94,black,30+0,1545,1461,Ruy Lopez: Steinitz Defense
+1220,116,black,10+0,1600,1521,Scandinavian Defense
+1221,99,white,10+0,1532,1472,French Defense
+1222,47,white,10+0,1632,1541,Giuoco Piano
+1223,170,black,10+0,1551,1574,Italian Game
+1224,87,white,10+0,1477,1590,Scandinavian Defense: Mieses-Kotroc Variation
+1225,65,white,10+0,1939,1619,Scandinavian Defense: Mieses-Kotroc Variation
+1226,102,black,10+0,1423,1614,Scandinavian Defense
+1227,41,white,10+10,1838,1610,Queen's Gambit Accepted: Old Variation
+1228,82,white,20+10,2067,1843,Queen's Pawn
+1229,34,black,10+0,1805,1757,Queen's Pawn
+1230,35,white,10+0,1803,1335,Queen's Gambit Refused: Marshall Defense
+1231,41,white,10+0,1813,1874,Queen's Gambit Accepted: Old Variation
+1232,127,white,10+0,1801,1854,Queen's Pawn
+1233,86,draw,15+10,1804,1869,French Defense
+1234,76,black,15+10,1846,1977,French Defense
+1235,96,black,15+0,1693,1455,Queen's Gambit Refused: Marshall Defense
+1236,102,black,15+0,1588,1674,Giuoco Piano
+1237,134,black,15+0,1690,1540,Queen's Gambit Accepted: Old Variation
+1238,119,white,15+0,1718,1205,Queen's Gambit Accepted: Old Variation
+1239,18,black,15+0,1652,1708,Scotch Game
+1240,109,black,10+0,1525,1494,Scotch Game
+1241,65,white,10+0,1514,1108,Scotch Game
+1242,13,black,10+0,1538,1452,Scotch Game
+1243,66,black,10+0,1541,1900,Scotch Game
+1244,79,white,10+0,1708,1548,Pirc Defense #4
+1245,8,black,10+0,1732,1733,Owen Defense
+1246,33,white,10+0,1558,1551,Scandinavian Defense: Mieses-Kotroc Variation
+1247,119,white,10+0,1532,1546,Owen Defense
+1248,50,black,10+0,1377,1520,Scandinavian Defense
+1249,11,white,5+20,1500,1134,Indian Game
+1250,16,black,10+4,1278,1711,Queen's Gambit Refused: Marshall Defense
+1251,58,black,10+4,1278,1500,Scandinavian Defense
+1252,41,white,10+4,1500,1278,Queen's Pawn
+1253,16,black,10+4,1278,1500,Scandinavian Defense
+1254,10,black,10+5,1278,1500,Bishop's Opening
+1255,6,black,10+5,1278,1500,Bishop's Opening
+1256,7,white,15+0,1620,1278,Bishop's Opening
+1257,70,black,5+10,1278,1611,Sicilian Defense
+1258,41,white,10+5,1477,1364,Sicilian Defense
+1259,57,white,25+2,1423,1400,Owen Defense
+1260,73,white,15+10,1530,1400,Owen Defense
+1261,27,white,15+10,1619,1400,Modern Defense
+1262,16,white,25+0,1741,1400,Owen Defense
+1263,106,draw,5+8,1766,1400,Owen Defense
+1264,18,black,15+0,1352,1400,Owen Defense
+1265,25,black,15+15,1171,1400,Owen Defense
+1266,59,white,10+0,1318,1400,Owen Defense
+1267,15,white,20+0,1371,1400,Owen Defense
+1268,38,black,20+0,1675,1400,Owen Defense
+1269,18,black,10+0,1515,1400,Owen Defense
+1270,58,black,5+8,1366,1400,Owen Defense
+1271,31,black,5+5,1589,1400,Owen Defense
+1272,65,white,15+10,1566,1400,Van't Kruijs Opening
+1273,40,black,15+10,1356,1400,Owen Defense
+1274,56,black,15+10,1500,1400,Owen Defense
+1275,50,black,10+10,1532,1503,Queen's Pawn
+1276,42,black,16+2,1470,1528,Giuoco Piano
+1277,15,white,16+2,1477,1541,Ruy Lopez: Steinitz Defense
+1278,48,black,16+2,1556,1420,Scandinavian Defense: Mieses-Kotroc Variation
+1279,15,white,16+2,1552,1314,French Defense
+1280,44,black,20+5,1514,1524,King's Pawn Game
+1281,52,black,10+0,1552,1512,Three Knights Opening
+1282,40,black,10+0,1499,1501,English Opening: King's English Variation
+1283,138,black,20+0,1394,1475,Giuoco Piano
+1284,23,black,20+0,1491,1283,Philidor Defense
+1285,34,black,15+0,1482,1504,Philidor Defense
+1286,46,black,10+0,1507,1494,French Defense
+1287,35,white,10+0,1496,1489,Scandinavian Defense: Mieses-Kotroc Variation
+1288,23,white,10+0,1475,1465,French Defense
+1289,46,black,15+10,1799,2193,French Defense
+1290,51,white,10+3,2105,2047,French Defense
+1291,28,black,12+13,1281,1500,Van't Kruijs Opening
+1292,60,black,10+3,1653,1742,Queen's Pawn
+1293,112,black,8+8,1679,1652,Sicilian Defense
+1294,171,white,10+5,1641,1643,Queen's Pawn
+1295,65,white,15+0,1629,1699,Queen's Pawn
+1296,29,black,45+0,1768,2126,Queen's Gambit Declined
+1297,51,white,10+30,1500,1319,Philidor Defense
+1298,71,white,25+0,1642,1055,Pirc Defense #4
+1299,9,white,15+0,1251,1086,Caro-Kann Defense
+1300,31,black,60+3,1091,1645,Van't Kruijs Opening
+1301,54,black,10+0,1183,1248,Van't Kruijs Opening
+1302,69,white,10+0,1236,1285,Pirc Defense #4
+1303,83,white,10+0,1662,1315,Modern Defense
+1304,96,black,10+5,1549,1425,Three Knights Opening
+1305,60,black,10+0,1488,1478,Ruy Lopez: Steinitz Defense
+1306,23,white,10+0,1825,1463,Scotch Game
+1307,94,white,10+0,1393,1404,Philidor Defense
+1308,83,white,10+0,1298,1398,Ruy Lopez: Steinitz Defense
+1309,133,white,10+0,1423,1418,Ruy Lopez: Steinitz Defense
+1310,46,black,10+0,1333,1361,Philidor Defense
+1311,27,white,20+6,1525,1501,Sicilian Defense
+1312,61,white,13+10,1493,1439,Sicilian Defense
+1313,123,white,10+0,1685,1499,King's Pawn Game
+1314,99,white,10+0,1862,1502,Scandinavian Defense: Mieses-Kotroc Variation
+1315,45,white,10+0,1482,1648,Italian Game
+1316,44,black,20+7,1497,1820,English Opening: King's English Variation
+1317,23,white,25+0,1480,1637,Italian Game
+1318,53,white,1+30,1492,1487,Queen's Pawn
+1319,43,white,10+0,1540,1569,Scandinavian Defense: Mieses-Kotroc Variation
+1320,56,black,10+0,1587,1573,Owen Defense
+1321,48,black,10+0,1299,1583,Queen's Pawn
+1322,56,black,10+0,1507,1573,Queen's Gambit Accepted: Old Variation
+1323,83,white,10+0,1560,1661,Sicilian Defense
+1324,76,black,10+0,1253,1556,Van't Kruijs Opening
+1325,43,white,10+0,1354,1557,Scandinavian Defense: Mieses-Kotroc Variation
+1326,48,white,10+0,1548,1334,Owen Defense
+1327,42,black,10+0,1572,1544,Scandinavian Defense: Mieses-Kotroc Variation
+1328,69,white,16+0,1421,1347,Queen's Gambit Refused: Marshall Defense
+1329,25,white,60+0,1563,1352,Indian Game
+1330,51,white,20+0,1336,1468,Four Knights Game: Italian Variation
+1331,60,black,10+5,1349,1497,Scotch Game
+1332,69,white,15+0,1468,1358,Philidor Defense
+1333,44,black,15+5,1360,1764,Scotch Game
+1334,69,white,8+8,1615,1332,Queen's Gambit Refused: Marshall Defense
+1335,48,black,30+0,1351,1532,Philidor Defense
+1336,30,black,15+5,1353,1485,French Defense
+1337,46,black,4+8,1342,1546,Scotch Game
+1338,12,black,10+5,1372,1461,Owen Defense
+1339,56,black,10+3,1375,1679,French Defense
+1340,30,black,25+5,1392,1488,Scotch Game
+1341,53,white,25+5,1479,1400,King's Pawn Game
+1342,30,black,40+0,1399,1483,Italian Game
+1343,61,white,10+8,1564,1399,Hungarian Opening
+1344,30,black,10+2,1376,1444,French Defense
+1345,11,white,10+0,1429,1404,French Defense
+1346,22,black,10+5,1431,1376,Caro-Kann Defense
+1347,59,white,3+8,2285,2173,English Opening: King's English Variation
+1348,16,white,10+0,1514,1378,Queen's Pawn
+1349,48,black,10+0,1311,1368,Queen's Pawn
+1350,88,black,10+0,1369,2070,Queen's Pawn
+1351,61,white,10+0,1344,1961,Scotch Game
+1352,70,black,10+0,1880,1320,Scandinavian Defense: Mieses-Kotroc Variation
+1353,41,black,10+0,1359,1218,Italian Game
+1354,106,black,10+0,1221,1226,King's Pawn Game
+1355,29,black,10+0,1157,1211,King's Pawn Game
+1356,19,white,10+0,1201,1180,Scotch Game
+1357,61,black,10+0,1166,1061,Scandinavian Defense
+1358,25,white,10+0,1197,1176,Ruy Lopez: Steinitz Defense
+1359,47,white,10+0,1163,1214,Queen's Gambit Declined
+1360,32,black,10+0,1152,1152,King's Pawn Game
+1361,118,black,10+0,1154,1332,Caro-Kann Defense
+1362,27,white,10+0,1322,1147,Sicilian Defense
+1363,14,black,10+0,1153,1370,Bishop's Opening
+1364,74,black,10+0,1064,1144,Van't Kruijs Opening
+1365,8,black,30+0,1144,1500,Bishop's Opening
+1366,120,black,10+0,1157,1092,King's Pawn Game
+1367,55,white,10+0,1151,1202,Horwitz Defense
+1368,85,white,10+0,1301,1143,Owen Defense
+1369,67,black,10+0,1155,1292,Modern Defense
+1370,74,black,5+10,1660,1838,Queen's Gambit Declined
+1371,42,black,15+15,1473,1775,Van't Kruijs Opening
+1372,20,black,15+15,1481,1730,Van't Kruijs Opening
+1373,35,white,15+15,1697,1486,French Defense
+1374,50,black,15+15,1492,1649,Van't Kruijs Opening
+1375,25,white,15+15,1500,1524,Scandinavian Defense
+1376,31,white,12+12,1492,1173,Scotch Game
+1377,74,black,10+0,1208,1311,Three Knights Opening
+1378,13,white,15+0,1175,1142,King's Pawn Game
+1379,52,black,20+0,1175,1673,King's Pawn Game
+1380,9,white,20+0,1175,1673,King's Pawn Game
+1381,11,white,15+15,1473,1166,Bishop's Opening
+1382,44,black,20+15,1155,1170,Bishop's Opening
+1383,68,black,20+15,1097,1902,Caro-Kann Defense
+1384,16,black,30+0,1107,1631,King's Pawn Game
+1385,49,white,30+0,1273,1129,Van't Kruijs Opening
+1386,94,black,30+0,1155,1265,French Defense
+1387,22,black,10+10,1158,1766,King's Pawn Game
+1388,16,draw,15+10,1551,1703,Sicilian Defense
+1389,46,white,15+10,1682,1703,Sicilian Defense
+1390,33,white,15+10,1722,1745,Ruy Lopez: Steinitz Defense
+1391,99,black,15+10,1722,1735,Philidor Defense
+1392,96,draw,15+10,1727,1586,Queen's Gambit Accepted: Old Variation
+1393,63,white,15+10,1670,1744,Sicilian Defense
+1394,54,black,15+10,1744,1924,Queen's Gambit Refused: Marshall Defense
+1395,28,black,15+10,1632,1727,Sicilian Defense
+1396,109,white,15+10,1715,1788,Queen's Gambit Refused: Marshall Defense
+1397,11,white,15+10,1714,1658,Queen's Gambit Refused: Marshall Defense
+1398,32,black,15+10,1714,1709,Queen's Gambit Refused: Marshall Defense
+1399,52,black,15+10,1800,1714,Sicilian Defense
+1400,61,white,15+10,1651,1737,Sicilian Defense
+1401,40,black,10+10,1559,1767,Italian Game
+1402,59,white,5+8,1664,1568,Sicilian Defense
+1403,85,white,15+0,1567,1632,Caro-Kann Defense
+1404,48,black,15+0,1646,1553,Sicilian Defense
+1405,51,white,10+3,1859,1541,Sicilian Defense
+1406,37,white,5+8,1370,1558,Sicilian Defense
+1407,56,black,15+15,1565,1712,Scandinavian Defense: Mieses-Kotroc Variation
+1408,37,white,12+0,1701,1575,Sicilian Defense
+1409,81,white,20+0,1556,1676,Italian Game
+1410,70,black,5+5,1597,1543,Scotch Game
+1411,15,white,5+5,1529,1610,Italian Game
+1412,44,black,10+5,1549,1720,Philidor Defense
+1413,63,white,10+0,1663,1565,Sicilian Defense
+1414,59,white,8+0,1644,1574,Sicilian Defense
+1415,87,draw,5+8,1573,1599,Owen Defense
+1416,26,black,10+5,1559,1839,Van't Kruijs Opening
+1417,119,white,10+0,1822,1562,Indian Game
+1418,101,white,5+8,1805,1548,Sicilian Defense
+1419,88,black,10+0,1500,1769,King's Pawn Game
+1420,2,white,8+0,1500,1784,French Defense
+1421,89,white,10+0,963,975,King's Pawn Game
+1422,46,white,30+0,1306,1275,Caro-Kann Defense
+1423,40,black,15+5,1272,1169,Caro-Kann Defense
+1424,120,black,10+5,1265,1500,Philidor Defense
+1425,53,white,10+10,1366,1402,Owen Defense
+1426,153,black,5+8,1495,1283,French Defense
+1427,2,black,5+30,1264,1507,Pirc Defense #4
+1428,81,white,15+15,1554,1546,Horwitz Defense
+1429,35,white,10+5,2188,2173,Horwitz Defense
+1430,35,white,10+5,2221,2222,Horwitz Defense
+1431,67,white,10+5,2218,2133,Horwitz Defense
+1432,29,black,10+0,1368,1496,Queen's Pawn
+1433,115,white,10+0,1488,1437,French Defense
+1434,109,white,10+0,1470,1499,Philidor Defense
+1435,86,black,10+0,1513,1384,Philidor Defense
+1436,89,white,10+0,1523,1538,Sicilian Defense
+1437,122,black,10+0,1550,1511,Philidor Defense
+1438,33,white,15+1,1209,831,Queen's Pawn
+1439,44,black,1+10,1255,1815,Horwitz Defense
+1440,11,white,5+8,1718,1215,King's Pawn Game
+1441,12,black,15+0,1421,1278,French Defense
+1442,143,white,15+0,1391,1448,Philidor Defense
+1443,13,white,15+0,1180,1358,Scotch Game
+1444,61,white,15+0,1638,1408,Three Knights Opening
+1445,52,black,15+0,1439,1493,Scandinavian Defense: Mieses-Kotroc Variation
+1446,44,white,5+6,1447,1581,Sicilian Defense
+1447,47,white,10+0,1498,1677,Scotch Game
+1448,86,black,5+8,1624,1504,Philidor Defense
+1449,33,white,10+0,1430,1492,Sicilian Defense
+1450,23,black,5+5,1500,1401,Caro-Kann Defense
+1451,16,black,10+0,1508,2016,Queen's Pawn
+1452,93,white,5+7,1508,1403,Horwitz Defense
+1453,37,white,10+6,1693,1500,Queen's Pawn
+1454,60,black,10+6,1500,1693,Queen's Pawn
+1455,2,black,10+0,1761,1579,Sicilian Defense
+1456,77,white,10+0,1809,1700,Sicilian Defense
+1457,42,black,10+0,1801,1686,Queen's Gambit Accepted: Old Variation
+1458,137,draw,15+10,1712,1751,French Defense
+1459,52,black,15+10,1764,1711,Queen's Gambit Accepted: Old Variation
+1460,85,white,5+5,1737,1745,Ruy Lopez: Steinitz Defense
+1461,38,black,8+0,1704,1852,Queen's Pawn
+1462,84,black,8+0,1718,1587,Queen's Pawn
+1463,53,white,7+8,1888,1744,Ruy Lopez: Steinitz Defense
+1464,27,white,3+15,1852,1761,Giuoco Piano
+1465,103,white,5+10,1734,1805,Giuoco Piano
+1466,46,black,10+0,1696,1797,Ruy Lopez: Steinitz Defense
+1467,79,black,1+30,1695,1789,Queen's Pawn
+1468,50,black,10+10,1760,1782,Queen's Pawn
+1469,29,white,5+15,1785,2054,French Defense
+1470,21,white,2+15,1228,1292,King's Pawn Game
+1471,43,white,10+15,1142,1066,Hungarian Opening
+1472,40,black,15+5,1162,1242,Hungarian Opening
+1473,78,white,15+0,1204,1187,Modern Defense
+1474,29,white,6+3,1229,1215,Modern Defense
+1475,12,black,5+30,1336,1190,Modern Defense
+1476,47,white,15+0,1150,1223,Hungarian Opening
+1477,40,white,20+10,1450,1150,Modern Defense
+1478,91,white,180+0,1255,1108,Van't Kruijs Opening
+1479,88,draw,180+0,1108,1255,Queen's Pawn
+1480,32,black,180+0,1107,1352,King's Pawn Game
+1481,25,white,10+0,1493,1517,Sicilian Defense
+1482,90,black,10+0,1572,1484,Queen's Pawn
+1483,37,white,10+0,1511,1502,Sicilian Defense
+1484,52,black,10+0,1478,1503,Queen's Pawn
+1485,31,white,10+0,1504,1509,Sicilian Defense
+1486,132,black,10+0,1497,1491,Sicilian Defense
+1487,42,black,10+0,1430,1482,Sicilian Defense
+1488,37,white,10+0,1476,1432,English Opening: King's English Variation
+1489,117,white,10+0,1501,1486,Sicilian Defense
+1490,39,white,10+0,1480,1592,English Opening: King's English Variation
+1491,104,black,10+0,1479,1462,English Opening: King's English Variation
+1492,97,white,10+0,1476,1469,English Opening: King's English Variation
+1493,33,white,10+0,1489,1478,Sicilian Defense
+1494,21,white,10+0,1532,1475,Sicilian Defense
+1495,26,white,10+0,1536,1471,Sicilian Defense
+1496,61,white,10+0,1422,1469,Sicilian Defense
+1497,5,white,20+0,1937,1407,Queen's Pawn
+1498,53,white,15+10,1184,1269,Four Knights Game: Italian Variation
+1499,26,black,10+0,1203,1140,Philidor Defense
+1500,7,white,5+8,1329,1215,King's Pawn Game
+1501,91,white,10+5,1616,1657,Owen Defense
+1502,52,black,20+3,989,1658,King's Pawn Game
+1503,3,white,10+10,989,1610,Scandinavian Defense
+1504,20,black,15+0,1003,1246,King's Pawn Game
+1505,7,white,5+5,958,1274,King's Pawn Game
+1506,41,white,60+0,1500,963,Van't Kruijs Opening
+1507,71,white,15+15,1172,996,Queen's Pawn
+1508,33,white,15+15,1142,1061,Van't Kruijs Opening
+1509,89,white,5+8,1471,1461,Sicilian Defense
+1510,57,black,10+10,1440,1451,Sicilian Defense
+1511,113,draw,10+10,1450,1468,French Defense
+1512,99,draw,10+10,1454,1489,Three Knights Opening
+1513,32,black,10+10,1508,1440,Sicilian Defense
+1514,33,white,10+10,1425,1576,French Defense
+1515,103,draw,10+10,1580,1420,Queen's Pawn
+1516,111,draw,10+10,1418,1480,Owen Defense
+1517,18,black,10+10,1545,1402,English Opening: King's English Variation
+1518,99,white,10+10,1395,1367,Scotch Game
+1519,38,white,15+15,1500,1423,Queen's Pawn
+1520,112,black,15+0,1421,1754,Scotch Game
+1521,37,white,15+15,1363,1447,Queen's Pawn
+1522,115,white,45+0,1653,1453,Queen's Pawn
+1523,53,white,20+30,1554,1479,Queen's Pawn
+1524,63,white,20+30,1482,1537,Sicilian Defense
+1525,77,draw,20+30,1467,1501,Philidor Defense
+1526,68,black,30+0,1436,1434,Queen's Pawn
+1527,80,black,20+30,1443,1471,Scotch Game
+1528,36,black,10+0,1073,1135,Van't Kruijs Opening
+1529,91,white,10+0,1551,1142,King's Pawn Game
+1530,8,black,10+0,1157,2312,Sicilian Defense
+1531,18,black,10+0,1164,1616,Bishop's Opening
+1532,10,white,10+0,1805,1176,Horwitz Defense
+1533,76,black,10+0,1209,1320,Bishop's Opening
+1534,13,white,6+3,1002,1534,Bishop's Opening
+1535,67,white,10+0,1511,1017,French Defense
+1536,57,white,10+180,1264,1064,French Defense
+1537,16,black,90+0,1073,1939,King's Pawn Game
+1538,39,white,15+0,1793,1076,French Defense
+1539,26,black,180+0,1500,1182,French Defense
+1540,35,white,15+2,1347,1013,Horwitz Defense
+1541,73,white,15+8,1334,1183,Queen's Pawn
+1542,86,black,10+0,1079,1325,Scandinavian Defense
+1543,11,white,15+0,1314,1099,Queen's Pawn
+1544,2,black,5+6,1052,1304,Queen's Pawn
+1545,12,black,10+5,1027,1084,Scandinavian Defense: Mieses-Kotroc Variation
+1546,21,white,10+5,1125,1153,Scandinavian Defense
+1547,2,white,10+5,1112,1283,Scandinavian Defense
+1548,54,black,10+0,1141,1098,King's Pawn Game
+1549,35,white,10+0,1080,1177,Scandinavian Defense
+1550,20,black,10+0,1145,1174,Scandinavian Defense
+1551,4,black,10+0,1141,1175,Scandinavian Defense
+1552,44,black,10+0,1018,1142,Scandinavian Defense
+1553,41,white,15+15,1703,1484,French Defense
+1554,109,white,7+2,1785,1481,French Defense
+1555,121,white,9+2,1093,1119,Philidor Defense
+1556,20,black,15+0,1128,1347,Philidor Defense
+1557,78,black,10+3,1146,1355,Scotch Game
+1558,141,white,10+3,1228,1133,Queen's Pawn
+1559,61,white,10+0,1705,1135,Italian Game
+1560,19,white,10+0,1759,1163,Italian Game
+1561,51,white,10+0,2023,1168,English Opening: King's English Variation
+1562,115,white,7+2,1426,1178,French Defense
+1563,38,draw,15+5,1420,1239,Italian Game
+1564,31,white,20+10,1804,1284,Italian Game
+1565,56,black,14+4,1406,1404,Sicilian Defense
+1566,47,white,15+5,1231,1516,Scandinavian Defense: Mieses-Kotroc Variation
+1567,77,white,30+5,1242,1162,Modern Defense
+1568,94,black,10+0,1629,2001,Scandinavian Defense
+1569,23,white,10+3,1582,1079,Italian Game
+1570,114,black,5+5,1410,1582,Indian Game
+1571,70,black,5+5,1500,1582,Indian Game
+1572,62,black,5+5,1500,1582,King's Pawn Game
+1573,60,black,5+5,1143,1591,French Defense
+1574,9,white,17+3,918,996,Scotch Game
+1575,39,white,20+1,1196,1162,Four Knights Game: Italian Variation
+1576,66,black,10+1,1362,1157,Scandinavian Defense
+1577,46,black,10+0,1555,1844,Scotch Game
+1578,59,white,10+0,1681,1874,Horwitz Defense
+1579,71,black,10+0,1573,1877,King's Pawn Game
+1580,40,black,10+0,1836,1832,Queen's Pawn
+1581,61,white,10+0,1826,1965,Queen's Gambit Declined
+1582,28,black,10+0,1626,1820,French Defense
+1583,61,white,10+0,1901,1827,French Defense
+1584,83,white,10+0,1791,1803,French Defense
+1585,69,white,10+0,2031,1807,Queen's Pawn
+1586,77,white,10+0,2182,1809,French Defense
+1587,65,white,10+0,2062,1814,Horwitz Defense
+1588,76,black,10+0,1828,1697,Queen's Pawn
+1589,62,black,10+0,1810,1817,Queen's Pawn
+1590,75,white,10+0,1784,1871,English Opening: King's English Variation
+1591,72,black,10+0,1461,1785,Queen's Pawn
+1592,62,black,15+0,1094,1047,Italian Game
+1593,29,black,10+0,1109,1227,French Defense
+1594,55,white,15+5,1709,1117,French Defense
+1595,39,white,10+0,1732,1085,French Defense
+1596,49,white,8+5,2022,1085,Queen's Pawn
+1597,9,white,10+25,1319,1096,Van't Kruijs Opening
+1598,94,black,15+3,1092,1247,King's Pawn Game
+1599,11,black,5+5,1121,1105,King's Pawn Game
+1600,70,black,10+0,1121,1501,King's Pawn Game
+1601,27,white,15+0,1778,1126,French Defense
+1602,50,draw,15+0,1186,1126,Van't Kruijs Opening
+1603,73,white,10+0,1476,1131,French Defense
+1604,21,white,10+5,1884,1131,French Defense
+1605,77,white,15+0,2269,2347,French Defense
+1606,48,black,8+3,2193,2181,English Opening: King's English Variation
+1607,46,black,10+3,1657,1638,Sicilian Defense
+1608,76,black,10+3,1696,1629,Queen's Pawn
+1609,126,black,10+3,1669,1792,Modern Defense
+1610,66,black,10+3,1714,1676,Scandinavian Defense: Mieses-Kotroc Variation
+1611,46,black,10+3,1472,1691,Queen's Pawn
+1612,134,black,10+3,1787,1533,Scandinavian Defense: Mieses-Kotroc Variation
+1613,88,black,10+3,1840,1606,Queen's Pawn
+1614,45,black,10+3,1589,1444,Pirc Defense #4
+1615,150,black,10+0,2513,2383,Pirc Defense #4
+1616,107,white,10+0,1817,1798,Four Knights Game: Italian Variation
+1617,154,black,30+0,1645,1737,Sicilian Defense
+1618,48,black,15+4,1641,1726,Sicilian Defense
+1619,16,white,15+8,1592,1500,French Defense
+1620,42,black,20+0,1500,1810,Ruy Lopez: Steinitz Defense
+1621,21,white,30+5,1257,1042,Scandinavian Defense
+1622,23,white,5+8,1214,994,Scandinavian Defense: Mieses-Kotroc Variation
+1623,55,white,6+20,1748,996,Queen's Gambit Declined
+1624,63,white,10+0,1127,1193,Scandinavian Defense
+1625,91,white,15+0,1386,1352,King's Pawn Game
+1626,91,white,10+0,2095,1991,English Opening: King's English Variation
+1627,125,white,10+0,2088,1974,English Opening: King's English Variation
+1628,118,black,10+0,1453,1380,Three Knights Opening
+1629,49,white,10+0,1446,1317,Four Knights Game: Italian Variation
+1630,64,black,10+0,1459,1392,Philidor Defense
+1631,19,white,5+5,1500,1161,English Opening: King's English Variation
+1632,43,white,20+60,1500,1710,English Opening: King's English Variation
+1633,64,black,30+30,1557,1500,Sicilian Defense
+1634,80,white,30+30,1500,1679,English Opening: King's English Variation
+1635,70,white,30+30,1500,2003,English Opening: King's English Variation
+1636,47,white,30+30,1500,1758,English Opening: King's English Variation
+1637,156,draw,5+5,1813,1834,French Defense
+1638,64,black,8+0,1819,1891,Owen Defense
+1639,55,white,10+0,1912,1827,Sicilian Defense
+1640,38,white,10+0,1253,1236,Caro-Kann Defense
+1641,60,black,10+0,1234,1235,Caro-Kann Defense
+1642,137,white,10+0,1277,1255,Scotch Game
+1643,58,black,10+0,1275,1286,Scandinavian Defense
+1644,22,black,10+0,1298,1244,Scandinavian Defense
+1645,67,white,10+0,1231,1311,Caro-Kann Defense
+1646,60,black,10+0,1291,1301,Caro-Kann Defense
+1647,58,white,10+0,1330,1320,Scotch Game
+1648,28,black,10+0,1318,1318,Scandinavian Defense
+1649,89,white,10+0,1378,1326,Queen's Gambit Refused: Marshall Defense
+1650,37,white,10+0,1325,1262,Sicilian Defense
+1651,45,white,10+0,1288,1254,Scandinavian Defense
+1652,96,black,10+0,1346,1276,Caro-Kann Defense
+1653,37,white,0+15,2013,1773,Sicilian Defense
+1654,46,black,14+0,1836,1741,Scotch Game
+1655,23,white,10+4,1754,2131,French Defense
+1656,51,white,10+0,1709,1703,Hungarian Opening
+1657,23,white,180+0,1618,1136,Sicilian Defense
+1658,61,white,5+8,1379,1746,Bishop's Opening
+1659,10,white,20+0,1657,1033,Queen's Pawn
+1660,23,white,15+15,1331,1025,King's Pawn Game
+1661,41,white,15+0,1470,1039,King's Pawn Game
+1662,6,draw,5+10,1414,983,King's Pawn Game
+1663,35,white,15+0,1256,937,Queen's Pawn
+1664,87,white,8+8,1418,1264,Queen's Pawn
+1665,63,white,10+6,1621,1268,French Defense
+1666,157,white,5+5,1546,1282,King's Pawn Game
+1667,35,white,6+10,1259,1472,Four Knights Game: Italian Variation
+1668,113,white,8+8,1573,1271,King's Pawn Game
+1669,9,white,8+8,1569,1276,King's Pawn Game
+1670,30,black,5+8,1298,1800,Four Knights Game: Italian Variation
+1671,39,white,5+8,1861,1299,Queen's Pawn
+1672,89,white,10+0,1268,1316,Giuoco Piano
+1673,18,white,8+10,1325,1500,Van't Kruijs Opening
+1674,3,black,15+0,1500,1866,Sicilian Defense
+1675,38,black,15+0,1866,1466,Philidor Defense
+1676,13,white,20+0,1866,1438,Italian Game
+1677,33,white,20+0,1500,1866,Queen's Pawn
+1678,28,black,15+0,1500,1866,Sicilian Defense
+1679,86,black,20+0,1817,1866,Sicilian Defense
+1680,17,white,10+0,1925,1457,Queen's Pawn
+1681,40,black,10+0,1457,1925,Pirc Defense #4
+1682,17,draw,30+0,2160,1925,Philidor Defense
+1683,127,draw,30+0,1986,1925,Italian Game
+1684,78,black,10+0,1777,1925,Scandinavian Defense: Mieses-Kotroc Variation
+1685,48,black,10+0,1932,2075,Queen's Pawn
+1686,24,black,10+0,1319,1932,Queen's Pawn
+1687,68,black,10+0,1941,2034,Queen's Pawn
+1688,43,white,10+0,1967,1411,Queen's Pawn
+1689,150,black,10+0,1972,1959,Indian Game
+1690,20,black,10+0,1970,1959,Philidor Defense
+1691,26,black,10+0,1955,1946,Philidor Defense
+1692,87,white,10+0,1929,2046,Caro-Kann Defense
+1693,21,white,10+0,1834,1930,Philidor Defense
+1694,57,white,10+0,1846,1947,Philidor Defense
+1695,105,draw,10+0,1938,1980,Queen's Pawn
+1696,85,white,10+0,1919,1994,Queen's Pawn
+1697,97,draw,10+0,1996,1916,Italian Game
+1698,62,black,10+0,1928,1988,Indian Game
+1699,36,black,10+0,1023,1821,Philidor Defense
+1700,28,black,10+0,1030,1501,Scandinavian Defense
+1701,63,black,11+11,1043,1701,Owen Defense
+1702,22,black,15+0,1049,1539,Sicilian Defense
+1703,9,white,15+0,1570,1750,Queen's Pawn
+1704,27,white,10+0,1661,1666,Italian Game
+1705,131,white,6+5,1575,1527,Four Knights Game: Italian Variation
+1706,30,white,6+5,1512,1254,French Defense
+1707,42,black,6+5,1626,1353,Queen's Pawn
+1708,39,black,10+10,1873,1884,Owen Defense
+1709,81,white,10+0,1873,1525,Scandinavian Defense: Mieses-Kotroc Variation
+1710,140,draw,10+0,1542,1537,Sicilian Defense
+1711,39,white,10+0,1518,1410,Four Knights Game: Italian Variation
+1712,48,black,10+0,1626,1503,Sicilian Defense
+1713,96,black,10+0,1519,1547,Italian Game
+1714,112,black,10+0,1521,1892,Queen's Pawn
+1715,71,white,10+0,1502,1635,Queen's Pawn
+1716,94,black,10+0,1351,1498,Sicilian Defense
+1717,35,white,10+0,1504,1509,Sicilian Defense
+1718,147,white,10+0,1651,1550,Sicilian Defense
+1719,35,white,10+0,1651,1740,French Defense
+1720,24,white,180+180,1681,1388,Sicilian Defense
+1721,47,white,15+5,1636,1364,Scandinavian Defense: Mieses-Kotroc Variation
+1722,15,white,10+0,1417,1213,Scotch Game
+1723,98,black,10+0,1013,1206,Bishop's Opening
+1724,43,white,10+0,1194,1356,Queen's Pawn
+1725,63,white,10+0,1171,1408,King's Pawn Game
+1726,9,white,10+0,1455,1177,Italian Game
+1727,99,black,10+0,1295,1153,King's Pawn Game
+1728,65,white,15+0,1307,1518,Sicilian Defense
+1729,38,black,15+0,1574,1260,Van't Kruijs Opening
+1730,38,black,15+0,1267,1552,Sicilian Defense
+1731,60,black,15+0,1279,1629,Queen's Gambit Declined
+1732,48,black,15+0,1285,1623,Four Knights Game: Italian Variation
+1733,136,black,15+0,1271,1549,Four Knights Game: Italian Variation
+1734,30,black,10+0,1217,1219,Horwitz Defense
+1735,34,black,10+0,1231,1205,Queen's Gambit Declined
+1736,49,white,10+0,1169,1276,French Defense
+1737,37,white,10+0,1385,1291,French Defense
+1738,31,white,10+0,1366,1308,French Defense
+1739,72,black,10+0,1303,1354,King's Pawn Game
+1740,85,white,10+0,1344,1313,French Defense
+1741,64,white,15+8,1819,1128,Italian Game
+1742,20,white,15+11,1242,1176,Four Knights Game: Italian Variation
+1743,20,black,10+8,1156,1297,Philidor Defense
+1744,11,white,10+0,1329,1166,King's Pawn Game
+1745,63,white,15+0,1445,1172,Scotch Game
+1746,129,white,15+0,1381,1163,King's Pawn Game
+1747,33,black,12+0,1171,1648,Four Knights Game: Italian Variation
+1748,22,black,20+7,1171,1500,French Defense
+1749,60,black,10+3,1172,1760,Scotch Game
+1750,62,black,15+0,1190,1337,Philidor Defense
+1751,40,black,20+5,1158,1521,Giuoco Piano
+1752,107,black,5+8,1162,1606,Philidor Defense
+1753,41,white,10+3,1561,1166,Scotch Game
+1754,37,white,8+3,1939,1167,King's Pawn Game
+1755,23,white,40+10,1510,1171,Queen's Gambit Refused: Marshall Defense
+1756,51,white,10+0,1573,1179,Italian Game
+1757,47,black,10+0,1184,1500,Van't Kruijs Opening
+1758,40,black,10+0,1420,1964,Giuoco Piano
+1759,146,black,10+0,1987,1900,Scotch Game
+1760,45,white,10+0,1983,1764,Sicilian Defense
+1761,29,white,10+3,1955,1454,French Defense
+1762,20,white,10+0,1971,1184,Sicilian Defense
+1763,39,white,10+0,1971,1317,Scandinavian Defense: Mieses-Kotroc Variation
+1764,57,white,10+0,1972,1643,Italian Game
+1765,48,black,10+0,1872,1973,Scotch Game
+1766,29,white,10+0,2007,2005,Owen Defense
+1767,33,white,15+15,1754,1500,Scandinavian Defense
+1768,63,white,5+8,1433,1508,Queen's Pawn
+1769,53,white,10+0,1750,1775,Hungarian Opening
+1770,29,white,10+0,1765,1761,Scotch Game
+1771,150,draw,15+3,1694,1709,Caro-Kann Defense
+1772,52,black,15+3,1716,1684,Queen's Pawn
+1773,107,white,15+3,1695,1708,Caro-Kann Defense
+1774,2,draw,180+0,1646,1696,Indian Game
+1775,33,draw,5+10,1696,1500,Queen's Pawn
+1776,84,black,5+8,1830,1694,Caro-Kann Defense
+1777,67,white,15+5,1679,1834,Italian Game
+1778,87,white,10+0,1536,1459,Sicilian Defense
+1779,74,black,10+0,1455,1442,Sicilian Defense
+1780,54,white,10+0,1858,1450,French Defense
+1781,24,black,10+0,1457,1510,Queen's Pawn
+1782,68,black,10+0,1363,1448,Sicilian Defense
+1783,33,white,10+0,1429,1377,Queen's Pawn
+1784,68,white,10+0,1555,1447,Sicilian Defense
+1785,46,white,10+0,1478,1458,Indian Game
+1786,84,black,10+0,1408,1448,Van't Kruijs Opening
+1787,40,white,10+0,1540,1446,Sicilian Defense
+1788,42,black,10+0,1438,1698,Giuoco Piano
+1789,39,white,10+0,2076,1450,Caro-Kann Defense
+1790,52,black,10+0,1423,1533,Queen's Pawn
+1791,41,white,10+0,1460,1153,Hungarian Opening
+1792,33,white,30+0,1672,1203,Queen's Pawn
+1793,37,white,14+14,1689,1500,Queen's Pawn
+1794,115,white,10+0,1349,1306,Philidor Defense
+1795,35,white,10+30,1500,1349,Queen's Gambit Accepted: Old Variation
+1796,88,black,10+3,1404,1326,Ruy Lopez: Steinitz Defense
+1797,77,white,10+0,1127,1108,Horwitz Defense
+1798,34,black,10+0,1172,1162,Italian Game
+1799,29,white,10+0,1264,1289,King's Pawn Game
+1800,10,black,20+0,1575,1640,Bishop's Opening
+1801,74,draw,20+0,1558,1657,Queen's Gambit Accepted: Old Variation
+1802,20,black,6+8,1678,1675,Ruy Lopez: Steinitz Defense
+1803,4,black,6+8,1645,1679,Sicilian Defense
+1804,64,black,10+0,2135,2118,French Defense
+1805,81,white,10+0,2110,2095,French Defense
+1806,137,white,8+2,2262,2104,Horwitz Defense
+1807,43,white,8+2,2081,2243,Pirc Defense #4
+1808,63,white,20+0,2062,2140,French Defense
+1809,54,black,10+15,1928,2051,French Defense
+1810,33,white,8+0,2105,2145,French Defense
+1811,43,white,6+5,2343,2259,Horwitz Defense
+1812,15,white,6+8,1620,1651,Four Knights Game: Italian Variation
+1813,45,white,6+8,1618,1630,Three Knights Opening
+1814,4,black,10+0,1650,1895,Van't Kruijs Opening
+1815,38,black,30+0,1221,1783,Van't Kruijs Opening
+1816,45,white,5+10,1706,1208,Queen's Pawn
+1817,6,black,10+0,1500,2113,Sicilian Defense
+1818,65,white,5+10,2489,1500,Queen's Gambit Refused: Marshall Defense
+1819,20,black,18+0,1252,1498,Sicilian Defense
+1820,47,white,18+0,1250,1475,Philidor Defense
+1821,109,white,15+30,1227,1191,Four Knights Game: Italian Variation
+1822,57,white,10+0,1210,1100,Scandinavian Defense: Mieses-Kotroc Variation
+1823,83,white,10+0,1034,1144,Sicilian Defense
+1824,32,draw,7+6,1154,1148,Bishop's Opening
+1825,108,black,10+9,1172,1137,Owen Defense
+1826,120,black,90+30,1184,1223,Sicilian Defense
+1827,85,white,90+30,1172,1329,Four Knights Game: Italian Variation
+1828,57,black,20+0,1424,1500,Italian Game
+1829,83,white,20+0,1424,1087,Scandinavian Defense: Mieses-Kotroc Variation
+1830,77,white,20+0,1424,1500,Philidor Defense
+1831,25,white,10+0,1500,1424,Three Knights Opening
+1832,116,draw,10+0,1424,1158,Bishop's Opening
+1833,53,white,10+0,1662,1424,Queen's Pawn
+1834,39,white,10+0,1500,1424,Queen's Pawn
+1835,69,white,10+0,1666,1424,Queen's Pawn
+1836,23,white,15+15,1414,1500,Owen Defense
+1837,78,black,10+0,1453,1414,Queen's Pawn
+1838,104,black,15+5,1477,1414,King's Pawn Game
+1839,21,white,10+0,1500,1414,Four Knights Game: Italian Variation
+1840,28,black,10+0,1414,1591,French Defense
+1841,119,white,10+0,1787,1414,Three Knights Opening
+1842,16,black,15+0,1570,1414,Queen's Gambit Declined
+1843,42,black,10+0,1500,2026,Queen's Gambit Declined
+1844,111,white,9+2,2045,1768,Ruy Lopez: Steinitz Defense
+1845,64,white,5+5,2045,1500,Ruy Lopez: Steinitz Defense
+1846,116,black,15+0,2045,1500,Philidor Defense
+1847,66,black,10+0,2045,2062,French Defense
+1848,19,white,10+0,2045,1435,French Defense
+1849,77,white,5+5,1500,1270,Scandinavian Defense: Mieses-Kotroc Variation
+1850,34,black,10+5,1500,1270,Scandinavian Defense
+1851,27,white,5+8,1500,1270,Scandinavian Defense: Mieses-Kotroc Variation
+1852,29,white,10+0,1270,1523,Sicilian Defense
+1853,41,white,5+6,1399,1270,Scandinavian Defense
+1854,24,black,5+8,1278,1568,Scandinavian Defense: Mieses-Kotroc Variation
+1855,87,white,5+8,1390,1286,Scandinavian Defense
+1856,48,black,5+8,1305,1462,King's Pawn Game
+1857,36,black,3+15,1305,1396,Queen's Pawn
+1858,112,black,5+8,1483,1287,Scandinavian Defense: Mieses-Kotroc Variation
+1859,76,black,5+8,1500,1272,Queen's Pawn
+1860,55,white,180+0,1808,1191,Van't Kruijs Opening
+1861,65,white,180+0,1808,1191,Van't Kruijs Opening
+1862,144,black,180+0,1808,1191,Scandinavian Defense
+1863,51,white,10+0,1808,1500,Scotch Game
+1864,36,black,10+0,1500,1808,Van't Kruijs Opening
+1865,28,white,15+0,1808,1500,Italian Game
+1866,72,black,10+0,1191,1808,Van't Kruijs Opening
+1867,59,white,15+0,1500,1808,French Defense
+1868,45,white,15+0,1782,1417,Italian Game
+1869,34,black,15+0,1500,1758,Sicilian Defense
+1870,42,black,15+0,1805,1680,French Defense
+1871,55,white,15+0,1641,1959,Scandinavian Defense: Mieses-Kotroc Variation
+1872,43,white,15+0,1586,1654,French Defense
+1873,38,black,15+0,1457,1567,Sicilian Defense
+1874,60,black,15+0,1567,1500,Sicilian Defense
+1875,37,white,20+0,1645,1567,Philidor Defense
+1876,10,black,10+3,1406,1655,Queen's Pawn
+1877,27,white,10+5,1405,1227,Queen's Pawn
+1878,40,white,10+5,1652,1229,Scandinavian Defense: Mieses-Kotroc Variation
+1879,71,white,10+5,1222,1240,Caro-Kann Defense
+1880,101,white,10+5,1183,1413,Philidor Defense
+1881,2,black,10+5,1392,1183,Queen's Pawn
+1882,68,black,20+0,1500,1160,Owen Defense
+1883,49,white,10+0,1427,1165,Sicilian Defense
+1884,93,white,15+10,1359,1177,Scandinavian Defense
+1885,23,black,10+5,1286,1160,Scandinavian Defense
+1886,104,draw,10+5,1160,1164,Scandinavian Defense
+1887,77,white,10+5,1451,1144,Modern Defense
+1888,36,white,10+5,1443,1152,Caro-Kann Defense
+1889,15,white,10+5,1328,1163,Queen's Pawn
+1890,58,black,10+3,1154,1240,Caro-Kann Defense
+1891,28,white,10+3,1441,1158,Owen Defense
+1892,23,white,8+5,1342,1163,Modern Defense
+1893,53,white,8+5,1397,1183,Modern Defense
+1894,32,black,8+5,1214,1448,Van't Kruijs Opening
+1895,95,white,8+5,1443,1219,Modern Defense
+1896,93,white,15+0,2119,2076,Sicilian Defense
+1897,36,draw,15+0,1908,2076,Sicilian Defense
+1898,84,black,15+0,2106,2031,Queen's Pawn
+1899,40,black,30+5,1904,2020,Sicilian Defense
+1900,74,black,10+0,1687,1557,Italian Game
+1901,51,white,10+0,1684,1394,Italian Game
+1902,53,black,10+0,1680,1799,Sicilian Defense
+1903,113,white,10+0,1748,1689,Sicilian Defense
+1904,57,black,10+0,1700,1684,Four Knights Game: Italian Variation
+1905,65,white,10+0,1699,1812,French Defense
+1906,10,black,10+0,1651,1690,Sicilian Defense
+1907,49,white,10+0,1680,1661,Scandinavian Defense: Mieses-Kotroc Variation
+1908,46,black,10+0,1573,1678,Sicilian Defense
+1909,64,black,10+0,1699,1706,Italian Game
+1910,36,black,10+0,1598,1703,Sicilian Defense
+1911,113,white,10+0,1661,1653,Giuoco Piano
+1912,53,white,10+0,1640,1881,Queen's Gambit Declined
+1913,27,white,8+0,1328,1500,Three Knights Opening
+1914,46,black,10+0,1331,2043,French Defense
+1915,60,black,10+0,1331,2209,Modern Defense
+1916,67,white,10+0,1709,1334,Sicilian Defense
+1917,50,white,15+0,1309,1347,Queen's Pawn
+1918,24,black,10+0,1365,1751,Ruy Lopez: Steinitz Defense
+1919,8,black,10+0,1348,1756,Italian Game
+1920,38,black,10+15,1361,1430,Italian Game
+1921,45,white,10+15,1349,1346,Caro-Kann Defense
+1922,64,black,12+9,1117,1312,Van't Kruijs Opening
+1923,19,white,30+0,1584,1500,Three Knights Opening
+1924,94,black,10+2,1538,1564,French Defense
+1925,112,black,10+0,1574,1678,Philidor Defense
+1926,41,black,15+15,1564,1761,Four Knights Game: Italian Variation
+1927,66,black,10+0,1606,1637,Scotch Game
+1928,106,black,8+0,1451,1585,Queen's Pawn
+1929,78,black,10+0,1593,1654,Giuoco Piano
+1930,64,black,15+0,1576,1719,Sicilian Defense
+1931,94,black,10+0,1857,1852,French Defense
+1932,94,black,15+5,1868,1675,French Defense
+1933,42,black,10+0,1319,2296,King's Pawn Game
+1934,35,white,10+0,2296,1319,Bishop's Opening
+1935,48,black,10+0,1319,2294,Queen's Pawn
+1936,32,black,10+0,1319,2294,Indian Game
+1937,19,white,10+0,2294,1319,Scotch Game
+1938,41,white,15+0,1357,1016,Queen's Pawn
+1939,8,white,20+0,1371,1016,Indian Game
+1940,54,black,5+8,1016,1766,Queen's Pawn
+1941,46,black,30+9,1016,1119,Queen's Pawn
+1942,48,black,15+0,1222,1400,Scandinavian Defense
+1943,41,white,20+5,1361,1293,Philidor Defense
+1944,26,black,5+8,1309,1770,French Defense
+1945,71,black,5+5,1415,1472,French Defense
+1946,25,black,30+0,1543,1517,Four Knights Game: Italian Variation
+1947,57,white,30+0,1517,1420,Queen's Gambit Declined
+1948,39,white,20+0,1547,1530,Queen's Pawn
+1949,78,black,20+0,1530,1516,Owen Defense
+1950,45,white,20+0,1530,1503,Queen's Gambit Declined
+1951,60,black,15+0,1543,1518,Van't Kruijs Opening
+1952,53,white,20+0,1436,1518,Sicilian Defense
+1953,30,black,20+0,1518,1593,Modern Defense
+1954,70,black,10+0,1669,1502,Queen's Gambit Refused: Marshall Defense
+1955,53,white,10+0,1487,1685,Caro-Kann Defense
+1956,136,black,10+0,1401,1618,Van't Kruijs Opening
+1957,74,black,10+0,1632,1533,Three Knights Opening
+1958,95,white,10+0,1647,1531,Three Knights Opening
+1959,108,black,10+0,1539,1632,Philidor Defense
+1960,55,white,10+0,1594,1608,Queen's Gambit Declined
+1961,100,black,10+0,1589,1928,Sicilian Defense
+1962,10,black,10+0,1248,1568,Queen's Pawn
+1963,59,white,10+0,1564,1318,Scandinavian Defense: Mieses-Kotroc Variation
+1964,92,black,10+0,1582,1590,Philidor Defense
+1965,210,black,10+0,1600,1571,Philidor Defense
+1966,120,black,10+0,1584,1543,Philidor Defense
+1967,63,draw,20+0,1546,1522,Philidor Defense
+1968,71,white,10+0,1575,1566,Sicilian Defense
+1969,116,black,20+0,1562,1554,Philidor Defense
+1970,2,white,30+20,2430,1566,Caro-Kann Defense
+1971,72,black,10+0,1538,1556,Hungarian Opening
+1972,82,black,30+10,2181,2153,Sicilian Defense
+1973,89,white,30+10,2098,1897,Queen's Pawn
+1974,132,draw,15+5,2109,1913,Horwitz Defense
+1975,77,white,20+5,2175,2231,Indian Game
+1976,82,black,10+0,2250,2091,Queen's Gambit Declined
+1977,48,black,15+0,1568,1987,Queen's Pawn
+1978,31,black,10+0,1987,1500,Sicilian Defense
+1979,56,white,15+20,1519,1987,Queen's Pawn
+1980,54,white,10+0,1559,1987,Queen's Pawn
+1981,29,white,10+0,1707,1858,Three Knights Opening
+1982,124,black,8+0,1404,1637,King's Pawn Game
+1983,30,white,10+0,1404,1312,King's Pawn Game
+1984,22,black,10+0,1312,1404,Scotch Game
+1985,43,white,10+0,1643,1355,Sicilian Defense
+1986,21,white,10+0,1368,1512,Italian Game
+1987,119,draw,10+10,1852,1836,Sicilian Defense
+1988,41,black,10+5,1847,1835,Horwitz Defense
+1989,77,white,15+15,1838,1798,Queen's Pawn
+1990,45,white,6+8,1793,1768,Queen's Pawn
+1991,57,white,15+0,1751,1805,Sicilian Defense
+1992,66,black,8+8,1814,1878,Indian Game
+1993,86,black,10+0,1853,1778,Horwitz Defense
+1994,107,white,10+0,1874,1863,Queen's Pawn
+1995,36,black,10+0,1575,1869,Sicilian Defense
+1996,117,white,10+0,1839,1743,Indian Game
+1997,84,black,10+0,1857,1565,Horwitz Defense
+1998,63,black,10+0,1868,1874,Queen's Pawn
+1999,96,black,10+0,1879,1844,Queen's Pawn
+2000,71,white,10+0,1609,1880,Sicilian Defense
+2001,60,black,10+0,1893,1830,Horwitz Defense
+2002,63,white,10+0,1962,1901,Sicilian Defense
+2003,40,white,15+15,1708,1918,Sicilian Defense
+2004,47,white,10+0,1907,1906,Indian Game
+2005,50,draw,10+0,1979,1905,Queen's Pawn
+2006,40,black,10+0,1916,1907,Indian Game
+2007,53,white,10+0,1904,1938,Modern Defense
+2008,41,white,10+0,1964,1913,Sicilian Defense
+2009,131,white,10+0,1904,1862,Queen's Pawn
+2010,48,black,10+0,1908,1832,Queen's Pawn
+2011,31,white,10+0,1881,1857,Horwitz Defense
+2012,61,white,10+0,1862,1825,Horwitz Defense
+2013,34,black,10+0,1874,1837,Queen's Pawn
+2014,31,white,15+5,1739,1319,Caro-Kann Defense
+2015,4,white,25+0,1589,1739,Sicilian Defense
+2016,57,white,15+5,1739,1500,Owen Defense
+2017,79,black,10+2,1342,1449,Philidor Defense
+2018,31,white,10+2,1605,1342,Sicilian Defense
+2019,49,white,10+5,1629,1047,Queen's Gambit Declined
+2020,105,white,10+0,1617,1575,Queen's Gambit Refused: Marshall Defense
+2021,73,white,15+0,1500,1453,Sicilian Defense
+2022,90,black,15+0,1133,1461,Sicilian Defense
+2023,70,black,15+0,1303,1471,Sicilian Defense
+2024,40,white,8+0,1385,1470,Sicilian Defense
+2025,43,white,10+0,1343,1470,Indian Game
+2026,36,black,11+4,1524,1414,Queen's Pawn
+2027,60,black,10+9,1525,1574,Queen's Pawn
+2028,23,white,5+8,1533,1525,Horwitz Defense
+2029,78,black,5+8,1525,1533,Queen's Pawn
+2030,33,white,8+0,1500,1547,Pirc Defense #4
+2031,57,white,5+5,1553,1485,Philidor Defense
+2032,50,black,8+0,1500,1553,Caro-Kann Defense
+2033,77,white,10+10,1514,1571,Caro-Kann Defense
+2034,59,white,5+8,1610,1571,Caro-Kann Defense
+2035,73,white,8+8,1418,1571,Queen's Pawn
+2036,81,white,15+8,1430,1581,Caro-Kann Defense
+2037,36,draw,11+0,1501,1255,French Defense
+2038,16,black,11+0,1269,1625,Scandinavian Defense
+2039,48,black,8+0,1312,1448,Italian Game
+2040,13,white,8+0,1173,1336,Modern Defense
+2041,20,white,9+0,1391,1202,Sicilian Defense
+2042,9,white,9+0,1443,1291,Van't Kruijs Opening
+2043,84,draw,16+0,1433,1315,Italian Game
+2044,111,white,60+0,1803,1500,Sicilian Defense
+2045,29,white,20+0,1491,1377,Italian Game
+2046,121,white,7+5,1483,1213,Caro-Kann Defense
+2047,43,white,10+5,1618,1652,Four Knights Game: Italian Variation
+2048,40,black,10+10,1500,1652,Hungarian Opening
+2049,26,draw,10+10,1652,1120,Indian Game
+2050,26,black,5+10,1450,1652,Indian Game
+2051,58,black,7+2,1657,1927,Giuoco Piano
+2052,50,black,10+5,1565,1659,Pirc Defense #4
+2053,14,black,5+5,1670,1881,Ruy Lopez: Steinitz Defense
+2054,73,black,7+2,1670,1543,Ruy Lopez: Steinitz Defense
+2055,44,black,7+2,1670,1966,Queen's Gambit Accepted: Old Variation
+2056,72,black,15+15,1673,1717,Queen's Gambit Declined
+2057,60,black,10+0,1723,1642,Owen Defense
+2058,78,black,15+0,2144,2001,Queen's Gambit Declined
+2059,126,black,2+15,1437,1370,Philidor Defense
+2060,41,black,60+5,1806,1786,Queen's Gambit Declined
+2061,37,white,10+2,1782,1884,Horwitz Defense
+2062,99,white,11+11,1881,1810,French Defense
+2063,82,black,5+5,1832,1873,Modern Defense
+2064,70,black,15+10,1841,1908,Modern Defense
+2065,48,black,10+0,1658,1835,French Defense
+2066,125,white,7+2,1756,1835,French Defense
+2067,44,black,10+0,1862,1823,Queen's Gambit Accepted: Old Variation
+2068,40,black,6+4,1748,1853,Queen's Pawn
+2069,100,white,5+5,1782,1864,French Defense
+2070,37,white,5+5,2048,1875,French Defense
+2071,118,black,12+10,1838,1846,Queen's Pawn
+2072,65,white,2+10,1831,2048,Modern Defense
+2073,90,black,13+5,1784,1834,Queen's Pawn
+2074,153,white,15+0,1817,1911,Queen's Pawn
+2075,59,white,8+0,1850,1812,French Defense
+2076,25,white,10+0,1845,1189,Modern Defense
+2077,61,white,20+8,1478,1295,Philidor Defense
+2078,122,black,15+10,1303,1284,Philidor Defense
+2079,56,black,15+0,1303,1307,Modern Defense
+2080,144,black,20+0,1327,1388,Queen's Pawn
+2081,43,white,20+4,1500,1332,Philidor Defense
+2082,33,white,10+5,1391,1342,Philidor Defense
+2083,69,white,5+5,1338,1322,Queen's Pawn
+2084,95,white,25+0,1374,1347,Philidor Defense
+2085,47,white,15+1,1336,1337,Queen's Pawn
+2086,115,draw,5+5,1437,1333,Philidor Defense
+2087,14,black,15+0,1422,1336,Bishop's Opening
+2088,46,black,8+0,1478,1319,Philidor Defense
+2089,35,white,10+2,1308,1330,Philidor Defense
+2090,90,black,12+5,1351,1459,Queen's Pawn
+2091,44,black,15+0,1443,1337,Philidor Defense
+2092,67,draw,5+8,1579,1331,Bishop's Opening
+2093,17,white,8+0,1445,1338,Philidor Defense
+2094,79,white,8+0,1426,1347,Queen's Pawn
+2095,108,black,8+0,1365,1409,Modern Defense
+2096,96,black,8+0,1267,1365,Philidor Defense
+2097,61,white,15+0,1347,1374,Philidor Defense
+2098,80,white,10+0,1346,1397,Scandinavian Defense: Mieses-Kotroc Variation
+2099,104,black,10+7,1408,1374,Horwitz Defense
+2100,64,black,8+0,1372,1398,Philidor Defense
+2101,40,black,8+0,1382,1388,Philidor Defense
+2102,94,black,15+0,1381,1377,Philidor Defense
+2103,82,black,40+1,1384,1658,Queen's Pawn
+2104,58,white,5+5,1688,1388,Philidor Defense
+2105,11,white,45+0,2048,1500,Pirc Defense #4
+2106,26,black,30+0,1500,2048,Indian Game
+2107,62,black,15+15,1645,1649,Caro-Kann Defense
+2108,34,black,15+5,1683,1640,Sicilian Defense
+2109,18,draw,15+15,1661,1661,Sicilian Defense
+2110,49,white,10+0,1647,1678,Sicilian Defense
+2111,61,white,10+0,1799,1684,Sicilian Defense
+2112,61,white,10+0,1500,1694,Sicilian Defense
+2113,54,black,10+0,1703,1735,English Opening: King's English Variation
+2114,41,white,15+0,1722,1773,English Opening: King's English Variation
+2115,56,black,15+1,1726,1789,English Opening: King's English Variation
+2116,76,black,10+10,1735,1753,English Opening: King's English Variation
+2117,60,black,10+10,1744,1748,English Opening: King's English Variation
+2118,42,black,10+10,1756,1737,English Opening: King's English Variation
+2119,93,white,9+12,1831,1765,Sicilian Defense
+2120,106,black,15+5,1796,1762,Queen's Pawn
+2121,86,black,20+0,1769,1838,English Opening: King's English Variation
+2122,47,white,20+0,1746,1745,English Opening: King's English Variation
+2123,70,black,10+10,1804,1736,Queen's Pawn
+2124,27,white,15+0,1254,1068,Pirc Defense #4
+2125,128,draw,5+5,2270,2451,Sicilian Defense
+2126,44,black,10+10,1750,2270,Indian Game
+2127,52,black,10+0,1974,2243,Sicilian Defense
+2128,46,black,6+6,1500,1510,Queen's Pawn
+2129,49,white,6+6,1510,1500,King's Pawn Game
+2130,52,black,6+6,1500,1683,Queen's Pawn
+2131,39,white,30+0,1370,1500,Philidor Defense
+2132,70,draw,30+0,1500,1370,King's Pawn Game
+2133,88,black,180+0,1500,1370,Scandinavian Defense
+2134,44,black,4+6,1298,1695,Indian Game
+2135,46,black,4+6,1348,1573,Horwitz Defense
+2136,77,white,6+5,1338,1607,Four Knights Game: Italian Variation
+2137,72,black,10+0,1322,1557,Sicilian Defense
+2138,117,white,10+0,1527,1329,Van't Kruijs Opening
+2139,80,black,10+0,1341,1398,Scandinavian Defense: Mieses-Kotroc Variation
+2140,62,black,10+0,1286,1328,King's Pawn Game
+2141,102,black,10+0,1331,1695,Philidor Defense
+2142,46,black,10+0,1353,1661,Caro-Kann Defense
+2143,85,white,10+0,1645,1353,Scotch Game
+2144,54,black,10+0,1356,1752,Four Knights Game: Italian Variation
+2145,57,white,10+0,1804,1358,Queen's Pawn
+2146,44,black,10+0,1359,2109,Caro-Kann Defense
+2147,113,white,10+0,1361,1373,King's Pawn Game
+2148,66,black,10+0,1381,1731,French Defense
+2149,2,black,10+0,1381,1651,Sicilian Defense
+2150,64,black,10+0,1389,1561,Caro-Kann Defense
+2151,37,white,10+0,1747,1392,Scotch Game
+2152,64,black,10+0,1422,1173,Modern Defense
+2153,74,black,7+2,1791,1867,Indian Game
+2154,40,black,7+2,1636,1784,Queen's Pawn
+2155,45,white,8+2,1699,1798,Scandinavian Defense: Mieses-Kotroc Variation
+2156,108,black,8+2,1813,1683,Queen's Pawn
+2157,41,white,10+0,1014,1287,Scandinavian Defense
+2158,17,white,10+8,1785,1132,Italian Game
+2159,22,black,5+7,1144,1601,Philidor Defense
+2160,43,white,10+0,1549,1536,English Opening: King's English Variation
+2161,174,black,15+8,1460,1514,Sicilian Defense
+2162,3,white,10+2,1329,1547,Queen's Pawn
+2163,106,black,10+0,1525,1370,Scandinavian Defense
+2164,33,white,5+5,2621,1122,Scandinavian Defense: Mieses-Kotroc Variation
+2165,34,black,10+0,1405,1420,Queen's Pawn
+2166,46,white,30+20,1309,1420,King's Pawn Game
+2167,13,white,7+5,1441,1442,Three Knights Opening
+2168,71,white,12+12,1420,1465,Sicilian Defense
+2169,51,white,5+8,1458,1478,Queen's Pawn
+2170,146,black,15+5,1456,1478,Sicilian Defense
+2171,156,black,15+0,1435,1456,Indian Game
+2172,53,white,10+1,1426,1456,Sicilian Defense
+2173,35,black,8+5,1521,1443,Sicilian Defense
+2174,172,black,7+3,1372,1434,Philidor Defense
+2175,81,white,25+15,2156,1511,Queen's Pawn
+2176,2,black,15+15,2156,2476,Queen's Pawn
+2177,76,black,20+15,1359,2156,Queen's Pawn
+2178,76,black,8+0,1889,1999,French Defense
+2179,21,white,8+0,1903,1898,Owen Defense
+2180,104,black,5+8,1868,1884,Sicilian Defense
+2181,19,white,11+8,1543,1006,Pirc Defense #4
+2182,37,white,12+8,1488,1015,Hungarian Opening
+2183,77,white,10+0,1869,1254,Sicilian Defense
+2184,34,white,5+5,1483,1270,Sicilian Defense
+2185,77,white,5+6,1689,1703,Sicilian Defense
+2186,50,black,10+0,1689,1748,French Defense
+2187,72,white,10+0,1720,1500,French Defense
+2188,105,white,8+8,1685,1666,Scandinavian Defense: Mieses-Kotroc Variation
+2189,119,white,15+0,1714,1479,Pirc Defense #4
+2190,63,white,10+0,1746,1403,French Defense
+2191,72,black,10+5,1482,1741,Scandinavian Defense: Mieses-Kotroc Variation
+2192,3,white,10+0,1775,1379,Modern Defense
+2193,116,black,10+0,1381,1772,Hungarian Opening
+2194,113,white,10+0,1769,1383,Modern Defense
+2195,64,black,10+0,1456,1765,Scandinavian Defense: Mieses-Kotroc Variation
+2196,71,white,5+5,1762,1361,Queen's Gambit Accepted: Old Variation
+2197,70,black,8+0,1387,1783,Queen's Pawn
+2198,116,black,10+6,1543,1772,Scandinavian Defense
+2199,24,draw,30+0,1500,1243,French Defense
+2200,54,black,30+0,1243,1500,Horwitz Defense
+2201,25,white,30+0,1500,1243,Indian Game
+2202,43,white,5+7,1805,1273,Philidor Defense
+2203,38,black,5+7,1277,1803,Horwitz Defense
+2204,113,white,5+7,1800,1282,Philidor Defense
+2205,33,white,5+5,1511,1309,King's Pawn Game
+2206,27,white,5+60,1500,1500,Scandinavian Defense: Mieses-Kotroc Variation
+2207,30,white,20+0,2473,1500,Scandinavian Defense: Mieses-Kotroc Variation
+2208,27,white,20+0,2401,1500,Scandinavian Defense: Mieses-Kotroc Variation
+2209,47,white,15+3,2326,1500,Scandinavian Defense: Mieses-Kotroc Variation
+2210,73,white,10+0,1398,1265,Sicilian Defense
+2211,22,draw,10+0,1194,1255,Sicilian Defense
+2212,43,white,10+0,1413,1263,Sicilian Defense
+2213,49,white,10+0,1771,1265,Sicilian Defense
+2214,56,black,10+0,1266,1556,Queen's Pawn
+2215,17,white,10+0,1552,1270,Sicilian Defense
+2216,7,white,10+0,1659,1268,Bishop's Opening
+2217,26,black,5+5,1268,1341,Queen's Pawn
+2218,61,white,5+5,1329,1279,Queen's Gambit Declined
+2219,55,black,6+5,1299,1400,Queen's Pawn
+2220,22,black,10+0,1963,1380,Owen Defense
+2221,3,white,10+13,1515,1412,Owen Defense
+2222,89,white,10+0,1746,1744,Three Knights Opening
+2223,143,white,10+0,1734,1738,Modern Defense
+2224,71,white,10+0,1708,1652,French Defense
+2225,64,black,10+0,1648,1698,King's Pawn Game
+2226,98,draw,10+0,1698,1720,French Defense
+2227,127,white,10+0,1702,1421,Scandinavian Defense: Mieses-Kotroc Variation
+2228,55,white,10+0,1676,1661,Italian Game
+2229,164,black,10+0,1484,1663,King's Pawn Game
+2230,42,black,10+0,1696,1695,French Defense
+2231,65,white,20+0,1670,1352,Italian Game
+2232,188,black,10+0,1478,1668,Caro-Kann Defense
+2233,65,black,10+0,1390,1730,Hungarian Opening
+2234,63,white,8+0,1734,1383,Scandinavian Defense
+2235,51,black,30+0,1380,1654,Queen's Pawn
+2236,55,black,30+0,1364,1738,King's Pawn Game
+2237,47,white,30+0,1738,1364,Queen's Gambit Refused: Marshall Defense
+2238,37,black,30+0,1364,1738,Sicilian Defense
+2239,40,black,25+0,1303,1654,Queen's Pawn
+2240,62,black,10+0,1110,1292,Van't Kruijs Opening
+2241,58,black,10+0,1220,1281,Sicilian Defense
+2242,36,black,5+10,1226,1287,Sicilian Defense
+2243,53,white,5+5,1273,1290,French Defense
+2244,39,white,25+3,1230,1563,Scandinavian Defense
+2245,43,white,25+3,1445,1576,Queen's Pawn
+2246,64,black,25+3,1588,1574,Modern Defense
+2247,54,black,25+3,1619,1595,Horwitz Defense
+2248,36,white,20+3,1482,1648,French Defense
+2249,49,white,20+3,1678,1658,French Defense
+2250,43,black,20+3,1691,1682,Queen's Gambit Accepted: Old Variation
+2251,116,black,20+3,1554,1689,French Defense
+2252,11,white,20+3,1681,1571,Queen's Gambit Refused: Marshall Defense
+2253,53,white,20+3,1668,1697,Queen's Gambit Refused: Marshall Defense
+2254,52,black,20+3,1151,1666,French Defense
+2255,123,white,20+3,1700,1673,Queen's Gambit Accepted: Old Variation
+2256,60,black,20+3,1689,1648,French Defense
+2257,125,draw,20+3,1677,1639,Queen's Pawn
+2258,45,white,20+3,1631,1665,French Defense
+2259,37,white,20+3,1659,1470,Horwitz Defense
+2260,33,white,20+3,1610,1672,French Defense
+2261,80,black,20+3,1615,1636,Van't Kruijs Opening
+2262,41,white,10+0,1850,1904,Ruy Lopez: Steinitz Defense
+2263,76,black,10+0,1696,1854,French Defense
+2264,7,white,10+0,1842,1703,Scandinavian Defense: Mieses-Kotroc Variation
+2265,119,white,10+0,1826,1772,Ruy Lopez: Steinitz Defense
+2266,95,white,10+0,1812,1691,Philidor Defense
+2267,143,white,15+0,1806,1823,French Defense
+2268,45,black,20+0,1298,1347,Caro-Kann Defense
+2269,15,white,10+5,1343,1061,Sicilian Defense
+2270,95,white,10+3,1195,1002,Four Knights Game: Italian Variation
+2271,116,black,10+3,1302,963,Van't Kruijs Opening
+2272,53,white,8+0,1174,955,Horwitz Defense
+2273,106,draw,20+0,1126,950,French Defense
+2274,23,white,10+0,1475,1177,Scotch Game
+2275,69,white,10+0,1308,1190,Scotch Game
+2276,35,white,10+0,1582,1199,Ruy Lopez: Steinitz Defense
+2277,75,white,10+0,1956,1574,Sicilian Defense
+2278,23,white,5+8,1500,1099,Queen's Pawn
+2279,7,white,20+3,1322,1142,Four Knights Game: Italian Variation
+2280,70,black,11+10,2116,2197,Queen's Pawn
+2281,65,white,15+15,2191,2041,French Defense
+2282,86,white,25+5,1354,1914,Van't Kruijs Opening
+2283,66,black,9+5,2021,1857,French Defense
+2284,37,white,13+0,1713,1848,Queen's Pawn
+2285,48,black,14+0,1701,1662,French Defense
+2286,23,white,14+0,1629,1713,Philidor Defense
+2287,23,white,5+20,1559,1577,Queen's Pawn
+2288,151,white,60+0,1788,1473,Horwitz Defense
+2289,42,black,7+35,1402,1682,Scotch Game
+2290,18,white,7+35,1677,1425,Italian Game
+2291,39,white,16+10,1231,1531,Sicilian Defense
+2292,112,black,25+0,1678,1395,Caro-Kann Defense
+2293,18,black,5+8,1459,1499,King's Pawn Game
+2294,101,white,5+8,1353,1406,Queen's Pawn
+2295,60,black,9+17,1340,1366,Queen's Pawn
+2296,42,black,10+10,1269,1162,Philidor Defense
+2297,58,black,10+10,1500,1258,Queen's Pawn
+2298,56,black,10+0,1560,1601,Philidor Defense
+2299,24,black,10+0,1570,1587,Scotch Game
+2300,53,white,10+0,1581,1581,Sicilian Defense
+2301,36,black,10+0,1590,1614,Giuoco Piano
+2302,47,white,10+0,1595,1539,Four Knights Game: Italian Variation
+2303,66,black,10+0,1504,1578,Sicilian Defense
+2304,69,black,10+0,1589,1573,Scotch Game
+2305,89,white,10+0,1579,1565,Scandinavian Defense: Mieses-Kotroc Variation
+2306,46,black,10+0,1576,1683,Scandinavian Defense: Mieses-Kotroc Variation
+2307,42,black,10+0,1588,1554,Italian Game
+2308,58,black,10+0,1564,1578,Sicilian Defense
+2309,56,black,10+0,1588,1595,Scotch Game
+2310,27,white,10+0,1515,1602,Queen's Pawn
+2311,21,white,10+0,1604,1613,Sicilian Defense
+2312,73,white,10+0,1614,1613,Sicilian Defense
+2313,62,black,10+0,1564,1621,Sicilian Defense
+2314,41,white,10+0,1617,1343,Philidor Defense
+2315,25,white,10+0,1611,1443,Scotch Game
+2316,56,black,10+0,1528,1603,Sicilian Defense
+2317,51,white,10+0,1738,1645,Queen's Pawn
+2318,61,white,10+0,1640,1436,Owen Defense
+2319,33,black,10+0,1365,1653,Queen's Pawn
+2320,49,white,10+0,1653,1684,Scotch Game
+2321,50,black,10+0,1641,1638,Scotch Game
+2322,57,white,10+0,1620,1632,Hungarian Opening
+2323,23,white,10+0,1623,1566,Philidor Defense
+2324,66,black,10+0,1634,1619,Scotch Game
+2325,93,white,10+0,1640,1644,Queen's Pawn
+2326,62,black,15+12,1906,2006,French Defense
+2327,37,white,10+0,1916,1562,Modern Defense
+2328,60,black,8+0,1539,1654,Sicilian Defense
+2329,30,black,10+0,1593,1474,Queen's Gambit Refused: Marshall Defense
+2330,72,black,10+0,1485,1470,Sicilian Defense
+2331,47,white,10+0,1482,1508,Italian Game
+2332,23,white,10+0,1508,1509,Philidor Defense
+2333,105,white,10+0,1481,1235,Pirc Defense #4
+2334,58,black,8+10,1345,1701,Modern Defense
+2335,27,white,14+14,1500,1500,Queen's Pawn
+2336,31,white,5+10,1544,1427,Queen's Pawn
+2337,28,black,5+10,1549,1504,Caro-Kann Defense
+2338,52,black,5+10,1746,1479,Pirc Defense #4
+2339,117,white,5+10,1560,1467,Caro-Kann Defense
+2340,17,white,5+10,1252,1387,Queen's Pawn
+2341,109,white,5+10,1384,1420,King's Pawn Game
+2342,152,black,5+10,1491,1383,Three Knights Opening
+2343,52,black,5+10,1477,2047,Queen's Pawn
+2344,50,black,5+10,1104,1430,Queen's Pawn
+2345,51,white,30+30,1744,1174,English Opening: King's English Variation
+2346,86,black,45+45,1185,1542,Caro-Kann Defense
+2347,59,white,30+30,1450,1195,Scandinavian Defense: Mieses-Kotroc Variation
+2348,159,white,15+0,1301,1204,Scandinavian Defense
+2349,62,black,7+8,1211,1354,Queen's Pawn
+2350,60,black,15+0,1558,1764,King's Pawn Game
+2351,69,white,10+12,1689,1630,Horwitz Defense
+2352,11,white,9+2,1752,1740,Scandinavian Defense: Mieses-Kotroc Variation
+2353,41,white,15+3,1500,1594,Scandinavian Defense
+2354,60,black,60+0,1423,1584,Queen's Pawn
+2355,25,white,20+20,1445,1649,Bishop's Opening
+2356,30,black,20+20,1445,1649,Four Knights Game: Italian Variation
+2357,52,black,20+20,1649,1445,Caro-Kann Defense
+2358,27,white,20+20,1649,1445,Scotch Game
+2359,105,black,20+20,1445,1649,Giuoco Piano
+2360,95,white,20+20,1649,1447,Modern Defense
+2361,31,white,19+20,1549,1427,Queen's Pawn
+2362,80,draw,20+20,1432,1568,Three Knights Opening
+2363,48,black,20+20,1449,1551,Four Knights Game: Italian Variation
+2364,67,white,15+3,1586,1500,King's Pawn Game
+2365,30,white,17+1,1586,1452,French Defense
+2366,182,black,25+1,1500,1500,Van't Kruijs Opening
+2367,49,white,10+0,1528,1517,Scotch Game
+2368,58,black,15+0,1473,1518,King's Pawn Game
+2369,10,white,20+20,1518,1545,French Defense
+2370,126,draw,10+5,1518,1438,Scotch Game
+2371,24,black,10+0,1471,1509,Giuoco Piano
+2372,86,black,10+0,1532,1597,Scotch Game
+2373,89,white,10+0,1359,1532,King's Pawn Game
+2374,50,black,10+5,1557,1409,Scotch Game
+2375,80,black,45+0,1500,1519,Owen Defense
+2376,23,white,15+5,1698,1612,Owen Defense
+2377,114,black,5+5,1236,1304,Three Knights Opening
+2378,67,white,10+0,1333,1302,Giuoco Piano
+2379,34,black,10+0,1336,1324,Scotch Game
+2380,67,white,15+0,1326,1141,Scotch Game
+2381,64,black,10+5,1052,1318,English Opening: King's English Variation
+2382,58,black,15+0,1500,1297,King's Pawn Game
+2383,27,white,10+10,1581,1298,King's Pawn Game
+2384,34,black,15+15,1434,1265,Four Knights Game: Italian Variation
+2385,13,white,15+0,1252,1360,Italian Game
+2386,62,white,15+0,1333,1272,Three Knights Opening
+2387,62,black,15+5,1077,1146,Three Knights Opening
+2388,32,black,15+5,982,1115,Horwitz Defense
+2389,54,black,15+0,1005,1072,King's Pawn Game
+2390,56,black,15+0,1026,916,King's Pawn Game
+2391,52,black,15+0,992,1017,Horwitz Defense
+2392,109,white,10+0,1483,1222,Queen's Pawn
+2393,34,black,10+0,1385,1531,Sicilian Defense
+2394,28,black,5+5,1520,1717,Three Knights Opening
+2395,33,white,5+5,1538,1531,Italian Game
+2396,88,black,5+5,1454,1532,King's Pawn Game
+2397,144,black,5+5,1512,1447,French Defense
+2398,69,white,10+0,1506,1605,Philidor Defense
+2399,57,white,20+1,1757,1040,Scandinavian Defense: Mieses-Kotroc Variation
+2400,103,white,25+3,1757,1809,Sicilian Defense
+2401,89,white,25+3,1741,1849,Sicilian Defense
+2402,70,black,25+3,1731,1832,Owen Defense
+2403,49,white,25+3,1731,1829,Queen's Pawn
+2404,82,white,25+3,1731,1811,Philidor Defense
+2405,82,black,25+3,1731,1866,Caro-Kann Defense
+2406,41,white,25+3,1944,1731,Queen's Pawn
+2407,31,white,35+3,1806,1731,French Defense
+2408,81,draw,35+3,1868,1701,French Defense
+2409,23,white,35+3,1822,1701,French Defense
+2410,78,black,30+3,1701,1807,Horwitz Defense
+2411,128,white,10+0,1428,1437,Sicilian Defense
+2412,58,black,10+0,1497,1437,Sicilian Defense
+2413,113,white,15+15,1507,1445,Sicilian Defense
+2414,90,black,15+15,1390,1435,Horwitz Defense
+2415,58,black,15+15,1451,1294,French Defense
+2416,45,white,15+15,1451,1450,Sicilian Defense
+2417,35,white,15+15,1362,1463,Sicilian Defense
+2418,83,white,10+0,1394,1521,Sicilian Defense
+2419,129,white,15+15,1531,1543,Queen's Gambit Refused: Marshall Defense
+2420,20,black,15+15,1253,1539,Sicilian Defense
+2421,46,black,15+15,1553,1677,Queen's Pawn
+2422,154,black,15+8,2057,1949,French Defense
+2423,25,white,8+5,1342,1075,Bishop's Opening
+2424,40,black,10+0,1068,1822,Indian Game
+2425,23,white,30+0,1553,1008,Philidor Defense
+2426,132,black,5+8,1015,1301,Queen's Pawn
+2427,83,white,10+0,1321,1826,Queen's Pawn
+2428,45,draw,20+20,1364,1422,Philidor Defense
+2429,74,black,5+10,1241,1430,Scandinavian Defense
+2430,69,white,5+8,1500,1022,Scandinavian Defense
+2431,75,white,13+0,1314,1196,Horwitz Defense
+2432,94,black,10+0,996,1191,French Defense
+2433,45,white,10+0,1185,1002,King's Pawn Game
+2434,95,white,9+0,1107,1201,French Defense
+2435,79,white,12+0,1287,1203,French Defense
+2436,82,black,10+0,1212,1359,Van't Kruijs Opening
+2437,24,black,10+0,1194,1201,French Defense
+2438,69,white,10+0,1356,1208,French Defense
+2439,62,black,9+0,1214,1359,Queen's Pawn
+2440,15,white,9+0,1206,1368,Queen's Pawn
+2441,65,white,9+0,1306,1214,French Defense
+2442,30,black,9+0,1218,1393,Van't Kruijs Opening
+2443,56,white,9+0,1386,1224,Horwitz Defense
+2444,49,white,9+0,1315,1239,French Defense
+2445,35,white,9+0,1264,1249,French Defense
+2446,60,black,9+0,1257,1343,Queen's Pawn
+2447,96,black,9+0,1264,1242,Van't Kruijs Opening
+2448,33,white,9+0,1352,1272,Horwitz Defense
+2449,22,black,9+0,1281,1342,Queen's Pawn
+2450,18,black,9+0,1380,1251,French Defense
+2451,123,white,9+0,1240,1047,Queen's Pawn
+2452,81,white,9+0,1233,1251,Pirc Defense #4
+2453,69,white,9+0,1281,1224,French Defense
+2454,63,white,9+0,1209,1337,Van't Kruijs Opening
+2455,57,white,9+0,1297,1217,French Defense
+2456,51,white,10+0,1997,1778,Queen's Pawn
+2457,33,white,10+0,1916,2001,Bishop's Opening
+2458,100,white,10+30,2010,2036,Queen's Pawn
+2459,29,white,8+0,2035,1492,Queen's Pawn
+2460,80,black,8+0,2046,2057,Modern Defense
+2461,88,black,5+8,2055,2155,Queen's Pawn
+2462,136,black,10+0,2046,2011,Horwitz Defense
+2463,221,draw,15+10,2111,2044,Giuoco Piano
+2464,33,white,15+10,2063,2065,Scandinavian Defense: Mieses-Kotroc Variation
+2465,44,white,8+0,2328,2031,Giuoco Piano
+2466,156,black,15+10,2005,2024,Scotch Game
+2467,168,black,10+0,2143,2032,Scandinavian Defense: Mieses-Kotroc Variation
+2468,125,white,40+15,2151,2046,Queen's Gambit Accepted: Old Variation
+2469,79,white,10+0,2294,2046,Scandinavian Defense: Mieses-Kotroc Variation
+2470,36,black,10+0,2046,2294,Queen's Pawn
+2471,55,white,10+1,2120,2055,Scandinavian Defense: Mieses-Kotroc Variation
+2472,130,black,15+0,2081,2082,Queen's Pawn
+2473,32,black,10+0,1407,1430,King's Pawn Game
+2474,117,white,10+0,1418,1419,Italian Game
+2475,5,white,15+0,1500,1418,Van't Kruijs Opening
+2476,38,black,5+5,1418,1465,Italian Game
+2477,83,white,1+10,1471,1412,Queen's Pawn
+2478,42,black,8+8,1104,1449,Four Knights Game: Italian Variation
+2479,61,white,30+0,1441,1316,French Defense
+2480,45,white,15+0,1424,1373,Philidor Defense
+2481,47,white,30+0,1424,1508,French Defense
+2482,28,white,20+15,1408,1255,French Defense
+2483,47,white,8+0,1392,1500,Scandinavian Defense: Mieses-Kotroc Variation
+2484,17,white,10+0,2043,1396,Queen's Gambit Refused: Marshall Defense
+2485,35,white,20+2,1385,1362,Philidor Defense
+2486,35,white,20+0,1500,1385,Queen's Pawn
+2487,33,white,60+0,1526,1385,Queen's Pawn
+2488,29,white,20+0,1500,1385,King's Pawn Game
+2489,23,white,10+0,1377,1804,Italian Game
+2490,49,white,8+2,1377,1073,Scandinavian Defense: Mieses-Kotroc Variation
+2491,61,white,10+0,1343,1377,Scotch Game
+2492,50,black,20+20,1635,1377,Queen's Pawn
+2493,88,black,5+15,1764,1590,Sicilian Defense
+2494,30,black,8+5,1804,1938,Sicilian Defense
+2495,79,white,10+0,1848,1814,Queen's Pawn
+2496,53,white,10+0,1806,1673,French Defense
+2497,47,white,5+8,1824,1817,Modern Defense
+2498,142,black,5+8,1829,1812,Philidor Defense
+2499,33,white,5+8,1831,1810,King's Pawn Game
+2500,42,white,20+0,1927,1840,Hungarian Opening
+2501,66,black,5+8,1870,1826,Horwitz Defense
+2502,147,white,11+0,1810,1933,Philidor Defense
+2503,38,black,10+0,2278,1800,Horwitz Defense
+2504,150,black,15+0,1823,2012,Philidor Defense
+2505,72,black,15+0,1846,1839,Scandinavian Defense
+2506,62,black,13+0,1500,1621,Ruy Lopez: Steinitz Defense
+2507,62,black,10+0,1655,1673,French Defense
+2508,49,white,15+0,1654,1693,Sicilian Defense
+2509,47,white,10+2,1705,1674,Queen's Gambit Refused: Marshall Defense
+2510,58,black,10+3,1717,1460,Owen Defense
+2511,55,white,8+0,1712,1499,Scandinavian Defense: Mieses-Kotroc Variation
+2512,50,black,10+0,1801,1717,Italian Game
+2513,57,white,14+0,1714,1718,Italian Game
+2514,69,white,15+0,1803,1723,Queen's Pawn
+2515,173,white,15+0,1719,1758,Ruy Lopez: Steinitz Defense
+2516,40,black,10+5,1232,1761,Queen's Pawn
+2517,34,white,15+0,1735,1763,Pirc Defense #4
+2518,108,black,14+0,1757,1709,Queen's Pawn
+2519,100,black,14+0,1720,1748,Scandinavian Defense: Mieses-Kotroc Variation
+2520,45,white,10+0,2247,1718,Italian Game
+2521,92,black,15+0,2295,2055,Owen Defense
+2522,27,draw,15+0,1436,1525,Bishop's Opening
+2523,28,black,5+8,1536,1353,Italian Game
+2524,74,black,10+0,1303,1613,Four Knights Game: Italian Variation
+2525,86,draw,25+0,1874,1754,Owen Defense
+2526,144,black,10+0,1604,1869,Sicilian Defense
+2527,40,black,25+0,1869,1628,Scandinavian Defense: Mieses-Kotroc Variation
+2528,104,draw,10+0,1359,1258,Philidor Defense
+2529,112,black,20+40,1334,1253,Scotch Game
+2530,6,black,20+40,1141,1328,Scotch Game
+2531,32,white,20+40,1321,1167,French Defense
+2532,37,white,20+40,1307,1381,Scotch Game
+2533,46,black,20+40,1315,1390,Scotch Game
+2534,100,draw,20+0,1289,1372,Philidor Defense
+2535,45,black,10+0,1290,1760,Sicilian Defense
+2536,46,black,30+10,1299,1356,Scandinavian Defense
+2537,57,white,30+10,1303,1294,French Defense
+2538,50,black,30+10,1314,1295,Scotch Game
+2539,46,black,30+10,1313,1383,Scotch Game
+2540,56,white,30+10,1269,1338,Scotch Game
+2541,54,white,30+10,1266,1307,Pirc Defense #4
+2542,9,black,10+10,1278,1135,Scandinavian Defense
+2543,39,white,30+10,1266,1295,Scotch Game
+2544,25,white,30+10,1249,1147,Four Knights Game: Italian Variation
+2545,80,black,15+20,1500,2154,Caro-Kann Defense
+2546,102,black,5+5,2075,2303,Queen's Gambit Declined
+2547,87,white,14+10,2303,1286,Owen Defense
+2548,90,black,13+14,1371,2282,Hungarian Opening
+2549,70,black,12+1,1433,2267,Scandinavian Defense
+2550,122,black,5+5,1540,2266,Queen's Pawn
+2551,80,black,10+0,1301,2266,Scandinavian Defense
+2552,58,black,5+5,2201,2266,Ruy Lopez: Steinitz Defense
+2553,38,black,10+2,1351,1360,Three Knights Opening
+2554,55,white,8+0,1508,1511,French Defense
+2555,69,white,12+0,1568,1517,Sicilian Defense
+2556,41,white,15+5,1594,1526,Queen's Gambit Refused: Marshall Defense
+2557,102,black,7+5,1548,1465,French Defense
+2558,50,black,8+3,1546,1595,Scotch Game
+2559,75,white,9+9,1532,1640,Scotch Game
+2560,32,black,8+4,1458,1524,Sicilian Defense
+2561,82,black,8+0,1535,1484,Scotch Game
+2562,79,black,6+3,1520,1524,Sicilian Defense
+2563,60,black,10+0,1568,1534,Scotch Game
+2564,88,black,10+0,1544,1558,Caro-Kann Defense
+2565,83,white,10+0,1547,1555,Scotch Game
+2566,58,black,15+10,1758,1530,Sicilian Defense
+2567,26,black,5+8,1540,1556,Scotch Game
+2568,70,black,10+10,1555,1570,Sicilian Defense
+2569,36,black,5+8,1563,1654,Scotch Game
+2570,86,black,5+5,1524,1567,Sicilian Defense
+2571,71,white,5+5,1541,1548,Sicilian Defense
+2572,68,black,15+0,1562,1480,Scotch Game
+2573,80,black,10+5,1316,1572,Sicilian Defense
+2574,53,white,5+5,1516,1598,Sicilian Defense
+2575,92,black,5+8,1460,1591,Indian Game
+2576,73,white,15+0,1847,1707,Philidor Defense
+2577,77,white,10+0,1956,1715,Queen's Pawn
+2578,53,white,10+0,1707,1596,Queen's Pawn
+2579,142,black,10+0,1726,1582,Horwitz Defense
+2580,58,black,10+0,1431,1735,Sicilian Defense
+2581,61,white,10+0,1741,1874,Queen's Pawn
+2582,81,white,10+0,1978,1746,Queen's Gambit Accepted: Old Variation
+2583,55,white,10+0,1712,1463,Queen's Gambit Refused: Marshall Defense
+2584,70,black,180+25,1500,1076,Van't Kruijs Opening
+2585,11,white,180+25,1500,1076,Van't Kruijs Opening
+2586,67,white,8+0,1774,1500,Sicilian Defense
+2587,43,draw,10+0,1774,1683,Three Knights Opening
+2588,72,black,10+0,1500,1774,Queen's Pawn
+2589,57,white,20+0,1753,1441,French Defense
+2590,59,white,20+0,1745,1598,Three Knights Opening
+2591,17,white,20+0,1742,1321,Italian Game
+2592,90,black,20+0,1577,1730,Queen's Pawn
+2593,20,black,10+0,1485,1720,King's Pawn Game
+2594,17,white,10+0,1278,1801,Italian Game
+2595,31,white,10+0,1139,1801,Four Knights Game: Italian Variation
+2596,73,white,10+0,1801,1500,Philidor Defense
+2597,99,white,10+0,1421,1801,Scotch Game
+2598,3,draw,5+8,1292,1339,Queen's Pawn
+2599,109,white,5+8,1329,1303,Scandinavian Defense: Mieses-Kotroc Variation
+2600,44,white,10+0,1449,1337,Queen's Pawn
+2601,15,white,8+0,1500,1346,Italian Game
+2602,26,black,10+0,1251,1354,Queen's Pawn
+2603,106,black,5+8,1407,1333,Horwitz Defense
+2604,75,white,6+4,1463,1341,Ruy Lopez: Steinitz Defense
+2605,53,white,8+2,1544,1332,Modern Defense
+2606,44,black,10+0,1341,1409,Sicilian Defense
+2607,90,black,8+0,1313,1330,Queen's Pawn
+2608,130,black,10+10,1364,1373,Sicilian Defense
+2609,26,black,10+15,1340,1353,King's Pawn Game
+2610,97,white,5+10,1476,1362,King's Pawn Game
+2611,125,black,15+0,1385,1277,French Defense
+2612,122,black,10+5,1392,1542,Italian Game
+2613,86,black,15+3,1299,1371,King's Pawn Game
+2614,24,black,15+3,1386,1285,Italian Game
+2615,189,white,8+8,1545,1393,Queen's Pawn
+2616,46,black,5+5,1404,1554,Italian Game
+2617,63,white,15+0,1393,1427,French Defense
+2618,74,black,5+8,1571,1389,Ruy Lopez: Steinitz Defense
+2619,48,black,9+0,1144,1384,Italian Game
+2620,17,white,7+7,1709,1404,Philidor Defense
+2621,56,black,10+0,1563,2258,Four Knights Game: Italian Variation
+2622,27,white,3+8,2228,1526,Sicilian Defense
+2623,86,black,10+0,1857,2247,Sicilian Defense
+2624,16,black,10+0,1575,2240,French Defense
+2625,28,black,10+0,1940,2220,Queen's Pawn
+2626,57,white,10+0,2208,1748,Queen's Pawn
+2627,101,white,10+0,1684,2239,French Defense
+2628,54,black,10+0,1228,1305,Sicilian Defense
+2629,40,black,10+0,1204,1447,Sicilian Defense
+2630,29,white,10+0,1682,1206,Scandinavian Defense: Mieses-Kotroc Variation
+2631,73,black,10+0,1211,1541,Sicilian Defense
+2632,85,black,10+0,1215,1546,Sicilian Defense
+2633,38,black,10+0,1223,1681,Sicilian Defense
+2634,37,white,15+0,1211,1264,Sicilian Defense
+2635,81,white,5+8,1256,1164,Scandinavian Defense: Mieses-Kotroc Variation
+2636,34,black,7+7,1266,1254,Scandinavian Defense
+2637,69,white,10+0,1069,1295,Modern Defense
+2638,51,white,5+8,1289,1199,Philidor Defense
+2639,115,draw,8+0,1752,1744,Van't Kruijs Opening
+2640,48,white,8+0,1740,1812,Van't Kruijs Opening
+2641,82,black,20+0,2139,1557,Four Knights Game: Italian Variation
+2642,95,draw,30+0,1509,1573,Ruy Lopez: Steinitz Defense
+2643,66,black,10+0,1498,1503,Queen's Pawn
+2644,99,white,10+0,1499,1468,Bishop's Opening
+2645,32,black,10+0,1498,1533,Sicilian Defense
+2646,11,white,10+0,1498,1509,Scandinavian Defense
+2647,61,white,10+0,1459,1547,Scandinavian Defense
+2648,71,white,10+0,1633,1524,Scandinavian Defense
+2649,28,black,10+0,1529,1729,Bishop's Opening
+2650,107,white,10+0,1520,1468,Queen's Pawn
+2651,40,black,10+0,1519,1671,Sicilian Defense
+2652,58,black,10+0,1526,1640,Caro-Kann Defense
+2653,76,black,12+10,1222,1234,Italian Game
+2654,38,black,10+10,1028,1212,French Defense
+2655,32,black,10+1,1033,1415,Scandinavian Defense
+2656,108,black,10+0,1037,1541,Scandinavian Defense: Mieses-Kotroc Variation
+2657,119,white,7+2,1245,1079,Hungarian Opening
+2658,82,draw,10+0,1075,1120,French Defense
+2659,23,black,10+8,1101,1114,Philidor Defense
+2660,11,white,8+0,1071,1191,Philidor Defense
+2661,31,white,7+7,1456,1467,Scandinavian Defense
+2662,99,white,10+0,1425,1481,Pirc Defense #4
+2663,77,black,5+10,1496,1543,Hungarian Opening
+2664,57,white,7+5,1521,1507,Pirc Defense #4
+2665,128,black,7+7,1711,1456,Owen Defense
+2666,68,black,2+20,1457,1466,Queen's Pawn
+2667,105,white,12+11,1450,1551,Horwitz Defense
+2668,113,white,7+7,1623,1442,French Defense
+2669,95,white,7+7,1372,1456,Modern Defense
+2670,63,white,7+7,1987,1456,Owen Defense
+2671,93,white,5+8,1470,1538,Queen's Pawn
+2672,70,black,5+8,1481,1464,Modern Defense
+2673,121,white,7+7,1415,1493,Queen's Pawn
+2674,93,white,10+12,1655,1499,Scotch Game
+2675,89,white,10+0,1487,1547,Queen's Pawn
+2676,45,white,7+7,1493,1498,Sicilian Defense
+2677,62,black,10+15,1495,1608,Hungarian Opening
+2678,70,black,7+7,1503,1591,King's Pawn Game
+2679,143,white,7+7,1494,1453,Queen's Gambit Refused: Marshall Defense
+2680,72,black,8+0,1895,1919,Sicilian Defense
+2681,35,white,10+0,1935,1631,Scotch Game
+2682,30,black,10+0,1838,1962,Sicilian Defense
+2683,76,black,10+0,1885,1952,Indian Game
+2684,53,white,10+0,1982,1644,Philidor Defense
+2685,21,white,10+0,1906,2004,Sicilian Defense
+2686,67,white,10+0,2009,2004,Sicilian Defense
+2687,87,white,5+8,1524,1500,French Defense
+2688,66,black,8+0,1595,1483,Queen's Pawn
+2689,114,black,8+0,1603,1727,Indian Game
+2690,115,white,5+8,1759,1608,Horwitz Defense
+2691,20,black,2+10,1617,2028,Queen's Pawn
+2692,55,white,5+8,2108,1623,Philidor Defense
+2693,103,white,8+0,1635,1436,Queen's Pawn
+2694,101,white,13+13,1263,1251,King's Pawn Game
+2695,106,black,10+8,1500,1500,Bishop's Opening
+2696,59,white,10+8,1500,1500,French Defense
+2697,52,draw,15+10,1309,1305,Scandinavian Defense
+2698,27,black,15+10,1834,2181,Sicilian Defense
+2699,55,white,7+25,1224,1133,French Defense
+2700,15,white,60+7,1720,1383,Philidor Defense
+2701,49,white,45+0,1716,1309,Philidor Defense
+2702,14,draw,180+0,1224,1148,Scandinavian Defense
+2703,28,black,180+0,1291,1320,Queen's Pawn
+2704,13,black,180+0,1493,1291,King's Pawn Game
+2705,47,white,30+0,1333,1291,Indian Game
+2706,119,draw,30+0,1291,1500,Modern Defense
+2707,57,white,60+0,1500,1574,Sicilian Defense
+2708,60,black,15+15,1405,1511,Hungarian Opening
+2709,46,black,11+4,1514,1512,Queen's Gambit Refused: Marshall Defense
+2710,24,white,5+8,1433,1509,Modern Defense
+2711,29,black,15+30,1222,1519,Van't Kruijs Opening
+2712,48,black,10+0,1268,1528,Sicilian Defense
+2713,99,white,20+8,1531,1475,Indian Game
+2714,62,black,15+0,1483,1533,Scotch Game
+2715,59,white,8+0,1432,1576,Sicilian Defense
+2716,31,white,8+0,1496,1568,Sicilian Defense
+2717,70,black,25+0,1527,1558,Sicilian Defense
+2718,80,black,10+1,1570,1538,Queen's Pawn
+2719,12,black,5+8,1500,1543,Sicilian Defense
+2720,70,black,20+0,1537,1532,Sicilian Defense
+2721,81,white,10+0,1529,1528,Philidor Defense
+2722,9,white,12+3,1422,1065,King's Pawn Game
+2723,7,white,8+10,1861,1066,Scandinavian Defense: Mieses-Kotroc Variation
+2724,32,black,10+0,1075,1524,Van't Kruijs Opening
+2725,6,black,10+0,1102,1323,Van't Kruijs Opening
+2726,42,black,10+0,1244,1273,Van't Kruijs Opening
+2727,47,white,10+0,1482,1311,French Defense
+2728,51,white,10+0,1759,1737,Sicilian Defense
+2729,116,draw,10+0,1832,1752,Modern Defense
+2730,126,black,10+0,1616,1826,Sicilian Defense
+2731,72,black,10+0,1627,1814,Sicilian Defense
+2732,60,black,10+0,1516,1860,Sicilian Defense
+2733,104,white,10+0,1816,1872,Sicilian Defense
+2734,84,black,10+0,1509,1859,Sicilian Defense
+2735,142,black,10+0,1522,1865,Sicilian Defense
+2736,58,black,5+5,1536,1796,Italian Game
+2737,118,black,10+0,1474,1839,Italian Game
+2738,24,black,15+0,1327,1450,Italian Game
+2739,14,black,15+0,1338,1356,King's Pawn Game
+2740,20,black,15+0,1355,1450,French Defense
+2741,11,black,15+0,1147,1355,King's Pawn Game
+2742,12,white,15+0,1341,1421,King's Pawn Game
+2743,36,white,15+0,1360,1388,King's Pawn Game
+2744,29,white,15+0,1333,1586,French Defense
+2745,38,black,15+0,1337,1720,King's Pawn Game
+2746,100,black,15+0,1351,1674,King's Pawn Game
+2747,63,white,15+0,1524,1358,Four Knights Game: Italian Variation
+2748,46,black,15+0,1362,1650,King's Pawn Game
+2749,35,black,15+0,1378,1447,King's Pawn Game
+2750,7,white,15+0,1353,1148,King's Pawn Game
+2751,22,black,15+7,1360,1332,Van't Kruijs Opening
+2752,70,black,15+7,1332,1372,King's Pawn Game
+2753,52,black,15+7,1363,1623,French Defense
+2754,44,white,20+60,2367,1760,Indian Game
+2755,67,black,10+0,1424,1421,Italian Game
+2756,42,black,7+7,1385,1740,Owen Defense
+2757,112,draw,10+0,2273,2225,Sicilian Defense
+2758,69,white,15+0,1330,1403,Sicilian Defense
+2759,34,black,15+0,1412,1492,Sicilian Defense
+2760,79,white,20+0,1548,1458,Sicilian Defense
+2761,49,white,15+0,1458,1459,Ruy Lopez: Steinitz Defense
+2762,77,black,30+0,1526,1443,Queen's Pawn
+2763,87,white,10+0,1629,1439,Queen's Pawn
+2764,103,white,10+0,1879,1441,Sicilian Defense
+2765,39,white,10+0,2003,1413,Queen's Pawn
+2766,44,white,10+0,1492,1407,Queen's Pawn
+2767,32,black,15+0,1500,1407,Van't Kruijs Opening
+2768,38,black,10+0,1417,1417,Sicilian Defense
+2769,32,black,10+0,1422,1706,Owen Defense
+2770,71,black,10+0,1864,1398,Sicilian Defense
+2771,31,white,10+0,1443,1410,Sicilian Defense
+2772,83,black,10+0,1409,1468,Philidor Defense
+2773,20,black,30+0,1679,1640,French Defense
+2774,42,black,10+0,1769,1624,Queen's Pawn
+2775,67,white,10+60,1615,1731,Queen's Gambit Accepted: Old Variation
+2776,112,black,10+0,1587,1604,French Defense
+2777,49,black,10+0,1520,1595,French Defense
+2778,66,black,10+10,1589,1604,Queen's Pawn
+2779,50,black,15+15,1616,1802,Queen's Gambit Declined
+2780,52,black,10+0,1631,1665,Queen's Gambit Refused: Marshall Defense
+2781,27,white,5+5,1631,1284,Queen's Gambit Refused: Marshall Defense
+2782,32,black,20+1,1743,1616,French Defense
+2783,39,white,20+1,1600,1761,Queen's Gambit Accepted: Old Variation
+2784,51,white,10+0,1590,1461,Queen's Pawn
+2785,94,black,10+0,1316,1586,French Defense
+2786,135,white,20+15,1555,1454,Queen's Gambit Accepted: Old Variation
+2787,55,white,30+2,1555,1576,Queen's Gambit Accepted: Old Variation
+2788,69,white,10+0,1812,1575,French Defense
+2789,31,white,10+0,1306,1409,Queen's Pawn
+2790,57,white,10+0,1764,1411,Scotch Game
+2791,57,white,10+0,1908,1414,Queen's Pawn
+2792,114,white,10+0,1570,1440,Queen's Gambit Declined
+2793,27,white,10+0,1405,1437,Queen's Pawn
+2794,26,black,10+0,1487,2097,Queen's Pawn
+2795,4,draw,150+8,1505,1500,Queen's Pawn
+2796,139,white,10+0,1714,1577,Queen's Gambit Refused: Marshall Defense
+2797,118,black,10+6,1077,1299,Van't Kruijs Opening
+2798,67,black,180+180,970,1065,French Defense
+2799,81,white,8+0,1348,1272,Four Knights Game: Italian Variation
+2800,76,black,10+0,1319,1343,Queen's Pawn
+2801,53,white,10+0,1500,1500,Scotch Game
+2802,23,black,5+8,1292,1947,Queen's Gambit Declined
+2803,62,black,5+8,1432,1895,Sicilian Defense
+2804,75,white,5+8,1916,1911,Queen's Pawn
+2805,17,white,5+8,1925,1698,Scandinavian Defense: Mieses-Kotroc Variation
+2806,29,white,5+8,1916,1072,French Defense
+2807,63,white,5+8,1913,1463,Owen Defense
+2808,74,black,5+8,1465,1910,Sicilian Defense
+2809,54,black,5+8,1941,1605,French Defense
+2810,45,black,10+0,1545,1658,Horwitz Defense
+2811,32,white,10+0,1607,1554,Sicilian Defense
+2812,61,white,10+0,1425,1589,Sicilian Defense
+2813,111,draw,10+0,1783,1595,Queen's Pawn
+2814,89,white,10+0,1583,1622,Queen's Gambit Refused: Marshall Defense
+2815,37,white,10+0,1370,1600,Sicilian Defense
+2816,38,white,10+0,1573,1604,Queen's Gambit Declined
+2817,19,white,10+0,1596,1502,Queen's Gambit Accepted: Old Variation
+2818,33,white,10+0,1500,1605,Sicilian Defense
+2819,112,black,10+0,1635,1593,Queen's Pawn
+2820,12,white,10+0,1625,1603,Queen's Pawn
+2821,92,black,10+0,1712,1563,Sicilian Defense
+2822,57,white,10+0,1540,1579,Queen's Gambit Declined
+2823,33,white,10+0,1532,1538,Queen's Gambit Declined
+2824,41,white,10+0,1491,1541,Sicilian Defense
+2825,63,white,8+0,1588,1632,Queen's Gambit Declined
+2826,71,white,5+5,1619,1644,Queen's Pawn
+2827,88,black,10+0,1751,1744,Indian Game
+2828,88,black,10+0,1768,1743,French Defense
+2829,19,white,8+0,1572,1454,Queen's Pawn
+2830,44,black,10+0,1606,1571,Queen's Pawn
+2831,24,black,10+0,1468,1553,Queen's Gambit Declined
+2832,39,white,17+0,1154,920,Owen Defense
+2833,58,black,20+0,930,1099,French Defense
+2834,19,white,10+8,1208,936,Modern Defense
+2835,7,white,15+0,1470,1001,Sicilian Defense
+2836,49,white,15+0,967,1491,Three Knights Opening
+2837,23,white,15+0,1490,969,Sicilian Defense
+2838,9,white,15+8,1240,982,Sicilian Defense
+2839,48,black,30+5,985,1172,Scandinavian Defense
+2840,20,white,15+5,1299,991,King's Pawn Game
+2841,102,black,10+0,1927,1718,French Defense
+2842,57,white,10+0,1706,1700,Queen's Gambit Accepted: Old Variation
+2843,41,white,10+0,1906,1702,French Defense
+2844,75,white,10+0,1716,1732,French Defense
+2845,36,black,10+0,1754,1263,Horwitz Defense
+2846,45,white,10+0,2021,1759,French Defense
+2847,61,white,10+0,1905,1738,French Defense
+2848,74,white,10+0,1731,1560,Queen's Gambit Refused: Marshall Defense
+2849,101,white,10+0,1912,1713,French Defense
+2850,44,black,10+0,1599,1716,Horwitz Defense
+2851,37,white,10+0,1757,1728,Queen's Gambit Declined
+2852,95,white,10+0,1724,1438,Queen's Gambit Declined
+2853,39,white,10+0,1770,1249,Queen's Gambit Accepted: Old Variation
+2854,108,black,10+0,1426,1764,French Defense
+2855,24,white,7+3,1387,1546,Italian Game
+2856,80,black,7+3,1346,1536,Van't Kruijs Opening
+2857,71,white,12+10,1451,1135,Philidor Defense
+2858,76,white,25+0,1364,1500,Sicilian Defense
+2859,137,white,180+180,1337,1662,Van't Kruijs Opening
+2860,59,white,180+180,1500,1500,King's Pawn Game
+2861,115,draw,10+0,1304,1287,Queen's Pawn
+2862,66,black,10+0,1277,1307,Philidor Defense
+2863,123,white,10+0,1296,1315,King's Pawn Game
+2864,89,white,10+0,1267,1307,Philidor Defense
+2865,74,black,10+0,1344,1294,Sicilian Defense
+2866,64,black,10+0,1235,1296,Van't Kruijs Opening
+2867,143,draw,10+0,1500,1429,Philidor Defense
+2868,110,black,5+6,1679,1705,Scotch Game
+2869,31,white,15+0,1662,1701,Queen's Gambit Declined
+2870,80,black,10+0,1711,1759,Modern Defense
+2871,7,white,10+0,1858,1718,Sicilian Defense
+2872,34,black,10+0,1252,1714,Queen's Pawn
+2873,74,black,10+0,1712,1848,Sicilian Defense
+2874,55,white,12+0,1640,1346,Four Knights Game: Italian Variation
+2875,50,white,13+0,1362,1312,French Defense
+2876,86,black,10+0,1336,1292,Three Knights Opening
+2877,31,white,15+0,1423,1357,Queen's Pawn
+2878,61,white,10+0,1330,1278,Philidor Defense
+2879,90,black,12+0,1351,1332,Three Knights Opening
+2880,58,white,12+0,1322,1340,Three Knights Opening
+2881,118,black,10+0,2057,2093,Scandinavian Defense: Mieses-Kotroc Variation
+2882,70,black,10+0,1839,2085,Scandinavian Defense
+2883,76,black,10+0,2054,2066,Scandinavian Defense: Mieses-Kotroc Variation
+2884,2,black,15+0,1500,1382,Queen's Pawn
+2885,26,black,15+0,1172,1500,Queen's Pawn
+2886,37,white,60+0,1614,1571,Scotch Game
+2887,50,draw,15+15,1580,1958,Giuoco Piano
+2888,40,white,15+15,1575,1545,Italian Game
+2889,72,black,15+5,1514,1578,Queen's Pawn
+2890,31,white,10+10,1545,1590,Queen's Pawn
+2891,40,black,15+5,1555,1256,Italian Game
+2892,33,white,15+5,1555,1256,Philidor Defense
+2893,60,white,15+15,1524,1565,Four Knights Game: Italian Variation
+2894,30,black,15+10,1567,1518,Giuoco Piano
+2895,120,black,20+5,1538,1652,Philidor Defense
+2896,91,white,10+0,1479,1344,French Defense
+2897,41,white,10+0,1329,1494,Van't Kruijs Opening
+2898,70,black,10+0,1505,1510,Scandinavian Defense: Mieses-Kotroc Variation
+2899,51,white,10+0,1519,1495,French Defense
+2900,58,black,10+0,1376,1462,Three Knights Opening
+2901,126,black,10+0,1447,1485,Bishop's Opening
+2902,44,black,10+0,1418,1432,Ruy Lopez: Steinitz Defense
+2903,31,white,10+0,1434,1357,Bishop's Opening
+2904,33,black,10+0,1444,1475,Pirc Defense #4
+2905,29,white,10+0,1373,1445,Ruy Lopez: Steinitz Defense
+2906,109,white,10+0,1434,1442,Bishop's Opening
+2907,38,white,10+0,1480,1462,Giuoco Piano
+2908,52,black,10+0,1472,1468,Bishop's Opening
+2909,67,white,10+0,1449,1529,Philidor Defense
+2910,57,white,10+0,1460,1460,Scotch Game
+2911,11,white,10+0,1439,1454,Modern Defense
+2912,30,black,10+0,1401,1429,Bishop's Opening
+2913,23,white,15+0,1500,1451,Scandinavian Defense: Mieses-Kotroc Variation
+2914,111,black,5+5,1671,1567,Modern Defense
+2915,64,black,10+15,1671,2014,Sicilian Defense
+2916,136,black,5+5,1692,1735,Sicilian Defense
+2917,13,white,5+5,1688,1421,Sicilian Defense
+2918,43,white,7+7,1667,1456,Sicilian Defense
+2919,50,black,15+8,1470,1698,Sicilian Defense
+2920,109,white,5+5,1791,1677,Caro-Kann Defense
+2921,143,draw,5+5,1639,1663,Indian Game
+2922,27,white,5+5,1790,1657,Giuoco Piano
+2923,43,white,8+0,1856,1651,Sicilian Defense
+2924,67,white,5+5,1516,1506,Philidor Defense
+2925,38,black,5+5,1489,1501,Scandinavian Defense: Mieses-Kotroc Variation
+2926,26,black,90+5,1891,1500,Sicilian Defense
+2927,72,black,15+0,1829,1707,Modern Defense
+2928,93,draw,15+0,1736,1832,French Defense
+2929,62,black,15+0,1847,1712,Indian Game
+2930,129,white,15+0,1825,1769,Queen's Pawn
+2931,78,black,15+0,1834,1723,Horwitz Defense
+2932,112,black,15+0,1650,1800,French Defense
+2933,33,white,30+0,1678,1785,French Defense
+2934,52,black,10+0,1827,1829,Queen's Gambit Accepted: Old Variation
+2935,89,white,10+0,2177,2024,Three Knights Opening
+2936,116,black,10+0,1984,1990,Indian Game
+2937,126,black,5+5,2173,1979,Queen's Pawn
+2938,74,black,10+0,1889,1837,Sicilian Defense
+2939,150,black,15+0,1500,1402,French Defense
+2940,68,black,10+5,1366,1500,Horwitz Defense
+2941,41,white,7+2,1585,1295,Queen's Gambit Declined
+2942,35,white,20+5,1638,1303,Queen's Pawn
+2943,57,white,10+0,1432,1298,Van't Kruijs Opening
+2944,24,black,10+0,1300,1912,Queen's Pawn
+2945,55,white,5+8,2012,2074,Four Knights Game: Italian Variation
+2946,118,black,20+0,2017,2232,Sicilian Defense
+2947,27,white,30+30,1681,1500,Philidor Defense
+2948,75,white,15+0,1723,1500,Pirc Defense #4
+2949,100,black,20+3,1500,1723,Sicilian Defense
+2950,81,white,20+3,1723,1500,French Defense
+2951,63,white,20+3,1723,1500,Owen Defense
+2952,15,white,5+5,1485,1557,Sicilian Defense
+2953,37,white,60+10,1635,1432,French Defense
+2954,91,white,9+6,1542,1500,Scandinavian Defense: Mieses-Kotroc Variation
+2955,29,white,10+0,1293,1234,Queen's Pawn
+2956,27,white,20+0,1543,1500,Owen Defense
+2957,86,black,10+0,1370,1327,Philidor Defense
+2958,33,white,5+5,1500,1267,Italian Game
+2959,57,white,10+10,1460,1277,King's Pawn Game
+2960,62,black,5+8,1303,1319,Sicilian Defense
+2961,37,white,15+0,1842,2013,Sicilian Defense
+2962,80,black,15+0,1688,1995,Sicilian Defense
+2963,58,black,10+0,2011,1828,Scotch Game
+2964,47,white,10+0,1977,1564,Scotch Game
+2965,58,black,15+0,1775,1946,Queen's Pawn
+2966,39,white,15+0,1939,1781,Scotch Game
+2967,104,draw,15+0,1542,1954,Sicilian Defense
+2968,37,white,15+0,1952,1507,Modern Defense
+2969,109,black,10+0,1728,1933,Queen's Pawn
+2970,42,black,10+0,1663,1924,Sicilian Defense
+2971,76,black,15+0,1515,1855,Van't Kruijs Opening
+2972,79,white,15+0,1852,1518,French Defense
+2973,69,white,10+0,1973,1808,English Opening: King's English Variation
+2974,30,black,10+0,1431,1800,Hungarian Opening
+2975,103,white,10+0,1384,1821,Hungarian Opening
+2976,32,black,8+0,1732,1839,Ruy Lopez: Steinitz Defense
+2977,66,black,11+0,1591,1834,King's Pawn Game
+2978,118,black,11+0,1620,1838,Philidor Defense
+2979,52,black,11+0,1607,1813,Italian Game
+2980,54,black,11+0,1359,1806,Hungarian Opening
+2981,150,black,11+0,1513,1802,Queen's Pawn
+2982,63,white,8+0,1796,1388,Bishop's Opening
+2983,91,white,8+0,1788,1665,Sicilian Defense
+2984,55,white,10+0,1517,1772,Italian Game
+2985,81,white,10+0,2150,1774,Philidor Defense
+2986,66,black,10+0,1754,1746,French Defense
+2987,77,white,10+0,1737,1674,Italian Game
+2988,68,black,10+0,1750,1660,Italian Game
+2989,83,white,10+0,1688,1745,King's Pawn Game
+2990,38,black,15+30,1621,1855,Giuoco Piano
+2991,3,white,10+0,1102,1069,Scandinavian Defense
+2992,49,white,15+8,1500,1500,Pirc Defense #4
+2993,87,white,11+8,1200,1200,Queen's Pawn
+2994,31,white,5+5,1424,1280,Hungarian Opening
+2995,22,black,5+5,1500,1415,French Defense
+2996,73,white,5+15,1724,1500,Scotch Game
+2997,7,white,5+8,1286,1225,Van't Kruijs Opening
+2998,42,black,8+0,1797,2199,Van't Kruijs Opening
+2999,64,black,8+0,1799,2196,Van't Kruijs Opening
+3000,56,black,8+0,1750,2195,Sicilian Defense
+3001,57,white,10+0,2191,1884,Sicilian Defense
+3002,65,white,10+0,2184,1891,Sicilian Defense
+3003,126,black,10+0,1718,1941,Indian Game
+3004,65,white,5+10,1865,1953,Indian Game
+3005,113,draw,5+10,1956,1862,Queen's Gambit Declined
+3006,37,white,10+5,1719,1341,Sicilian Defense
+3007,29,white,5+5,1667,1361,Sicilian Defense
+3008,98,black,20+20,1349,1653,French Defense
+3009,70,black,5+8,1065,1344,Caro-Kann Defense
+3010,104,black,5+8,1325,1617,Queen's Gambit Declined
+3011,65,white,3+8,1829,1324,Caro-Kann Defense
+3012,51,white,5+6,1676,1325,Caro-Kann Defense
+3013,99,white,5+6,1301,1697,Queen's Gambit Refused: Marshall Defense
+3014,52,black,10+15,1204,1083,Van't Kruijs Opening
+3015,23,black,15+0,1387,1390,King's Pawn Game
+3016,35,white,7+8,1428,1411,King's Pawn Game
+3017,93,white,7+8,1398,1445,Philidor Defense
+3018,22,black,15+10,1410,1337,Three Knights Opening
+3019,64,black,15+10,1421,1429,Scandinavian Defense: Mieses-Kotroc Variation
+3020,130,black,9+0,1435,1383,Scandinavian Defense: Mieses-Kotroc Variation
+3021,148,black,15+10,1312,1422,Scotch Game
+3022,77,white,15+10,1412,1321,Italian Game
+3023,66,black,15+10,1331,1401,Scotch Game
+3024,51,white,10+5,1390,1386,Scandinavian Defense: Mieses-Kotroc Variation
+3025,130,black,10+2,1401,1430,Sicilian Defense
+3026,48,black,10+2,1381,1377,Scotch Game
+3027,23,white,15+10,1269,1205,Scandinavian Defense: Mieses-Kotroc Variation
+3028,60,black,15+10,1274,1570,Philidor Defense
+3029,71,white,18+19,1850,1285,Giuoco Piano
+3030,46,black,11+11,1289,1825,Queen's Pawn
+3031,33,white,10+12,1250,1439,Queen's Pawn
+3032,117,white,9+0,1230,1297,Queen's Pawn
+3033,115,white,15+5,1365,1301,Horwitz Defense
+3034,52,black,30+0,1301,1571,Sicilian Defense
+3035,49,white,30+0,1301,1571,Sicilian Defense
+3036,81,white,30+0,1571,1301,Bishop's Opening
+3037,48,black,30+0,1500,1455,Van't Kruijs Opening
+3038,57,white,5+5,1791,1500,Queen's Gambit Accepted: Old Variation
+3039,31,black,5+5,1500,1791,Sicilian Defense
+3040,33,white,5+5,1791,1500,Queen's Gambit Refused: Marshall Defense
+3041,64,black,10+0,1629,2195,French Defense
+3042,94,black,10+0,1795,2215,French Defense
+3043,76,black,10+0,1555,2197,Queen's Pawn
+3044,56,black,10+0,1787,2194,French Defense
+3045,50,black,10+0,1467,2194,Van't Kruijs Opening
+3046,72,black,10+0,1897,2183,Scandinavian Defense: Mieses-Kotroc Variation
+3047,43,white,10+0,1718,2210,Queen's Pawn
+3048,7,white,10+0,2222,1382,Scandinavian Defense: Mieses-Kotroc Variation
+3049,34,white,10+0,1954,2249,French Defense
+3050,66,black,10+0,2063,2271,Scandinavian Defense
+3051,74,black,10+0,1915,2258,French Defense
+3052,49,white,10+0,2229,2134,English Opening: King's English Variation
+3053,40,black,10+0,1622,2212,Indian Game
+3054,2,white,20+10,1049,1275,Van't Kruijs Opening
+3055,49,white,10+0,1527,1341,Sicilian Defense
+3056,45,white,5+60,2177,1686,Queen's Gambit Declined
+3057,71,white,0+12,1516,1508,Ruy Lopez: Steinitz Defense
+3058,94,draw,0+12,1500,1516,Queen's Gambit Declined
+3059,63,white,10+0,1535,1528,Four Knights Game: Italian Variation
+3060,58,black,5+8,1360,1522,King's Pawn Game
+3061,72,black,5+8,1542,1213,Philidor Defense
+3062,34,white,5+5,1373,1518,Sicilian Defense
+3063,40,black,6+7,1397,1363,King's Pawn Game
+3064,104,black,5+8,1328,1393,Van't Kruijs Opening
+3065,141,white,5+8,1385,1274,King's Pawn Game
+3066,40,black,5+8,1397,1368,King's Pawn Game
+3067,85,white,5+8,1628,1402,Bishop's Opening
+3068,57,white,5+8,1401,1626,Sicilian Defense
+3069,57,black,5+8,1411,1422,Sicilian Defense
+3070,58,black,5+8,1422,1500,Sicilian Defense
+3071,98,black,5+8,1446,1489,King's Pawn Game
+3072,99,white,5+8,1429,1467,Scandinavian Defense: Mieses-Kotroc Variation
+3073,57,white,5+8,1417,1446,King's Pawn Game
+3074,2,black,5+8,1430,1366,French Defense
+3075,159,draw,5+10,1455,1510,King's Pawn Game
+3076,165,white,10+0,2104,1818,Queen's Pawn
+3077,76,black,10+10,1382,1552,Philidor Defense
+3078,59,white,10+0,1270,1408,King's Pawn Game
+3079,55,black,10+0,1062,923,Queen's Pawn
+3080,33,white,10+4,1369,1074,Owen Defense
+3081,67,white,20+60,1698,994,Queen's Pawn
+3082,60,white,30+0,971,1046,King's Pawn Game
+3083,54,black,5+5,1159,911,Queen's Pawn
+3084,46,black,15+0,1619,1483,Queen's Pawn
+3085,68,black,5+8,1257,991,Queen's Pawn
+3086,35,white,15+0,1794,1784,Queen's Gambit Refused: Marshall Defense
+3087,82,black,15+0,1803,1859,Queen's Gambit Declined
+3088,70,black,15+0,1784,1784,Indian Game
+3089,61,white,15+0,1773,1785,Queen's Gambit Accepted: Old Variation
+3090,122,black,15+0,1807,1769,Sicilian Defense
+3091,94,black,15+0,1777,1853,Horwitz Defense
+3092,123,white,15+0,1765,1841,Queen's Gambit Accepted: Old Variation
+3093,115,white,15+0,1773,1751,French Defense
+3094,69,white,15+0,1729,1706,Queen's Gambit Accepted: Old Variation
+3095,49,white,15+0,1699,1803,Queen's Gambit Refused: Marshall Defense
+3096,79,black,15+0,1758,1718,Horwitz Defense
+3097,12,white,10+0,1418,1302,Three Knights Opening
+3098,95,white,10+0,1397,1643,Sicilian Defense
+3099,31,white,10+0,2029,1389,Sicilian Defense
+3100,101,white,10+0,1399,1386,Philidor Defense
+3101,70,black,30+0,1766,1386,Modern Defense
+3102,54,black,10+0,1345,1363,Queen's Pawn
+3103,64,black,15+0,1239,1372,Sicilian Defense
+3104,64,black,30+0,1397,1766,King's Pawn Game
+3105,31,white,30+0,1766,1397,Indian Game
+3106,49,white,30+0,1397,1766,King's Pawn Game
+3107,39,white,10+0,1382,1406,English Opening: King's English Variation
+3108,15,white,10+0,1663,1391,Sicilian Defense
+3109,59,white,10+0,1480,1508,Horwitz Defense
+3110,76,black,10+0,1489,1580,Owen Defense
+3111,119,white,10+0,1527,1501,Sicilian Defense
+3112,42,white,10+0,1832,1520,Sicilian Defense
+3113,43,white,10+0,1846,1524,Queen's Gambit Declined
+3114,26,black,10+0,1530,1843,Queen's Gambit Declined
+3115,64,black,10+0,1511,1599,Van't Kruijs Opening
+3116,36,white,10+0,1772,1520,Sicilian Defense
+3117,65,white,7+10,1813,1999,Scandinavian Defense
+3118,132,black,7+15,1916,1996,Scandinavian Defense
+3119,120,black,7+15,1900,2010,Van't Kruijs Opening
+3120,24,black,7+15,1901,2024,Scandinavian Defense
+3121,2,black,15+5,1401,1612,Pirc Defense #4
+3122,135,white,10+0,1706,1405,Sicilian Defense
+3123,72,black,90+0,1418,1421,French Defense
+3124,53,white,90+0,1408,1432,Van't Kruijs Opening
+3125,29,white,25+10,1420,1591,Scotch Game
+3126,69,white,8+8,1783,1450,Sicilian Defense
+3127,120,black,20+0,1629,1410,Sicilian Defense
+3128,62,black,1+25,1450,1392,Queen's Pawn
+3129,52,black,5+8,1533,1435,Giuoco Piano
+3130,95,black,5+20,1450,1532,Horwitz Defense
+3131,58,black,10+0,1480,1533,Modern Defense
+3132,73,white,60+0,1485,1474,Queen's Pawn
+3133,63,white,8+0,1485,1490,Horwitz Defense
+3134,16,black,15+0,1479,1573,Modern Defense
+3135,76,black,10+0,1478,1461,Queen's Pawn
+3136,58,black,17+0,1488,1490,Queen's Pawn
+3137,56,white,30+8,1477,1483,Four Knights Game: Italian Variation
+3138,58,black,11+8,1492,1553,Indian Game
+3139,21,white,5+15,1500,1482,Sicilian Defense
+3140,128,draw,6+6,1469,1524,Queen's Pawn
+3141,20,draw,6+5,1376,1472,Four Knights Game: Italian Variation
+3142,67,white,10+0,1499,1493,Sicilian Defense
+3143,49,white,8+0,1482,1483,Queen's Pawn
+3144,52,white,10+0,1468,1592,Queen's Pawn
+3145,79,white,16+8,1457,1446,Queen's Pawn
+3146,45,white,15+8,1449,1377,Horwitz Defense
+3147,70,black,6+6,1458,1521,Horwitz Defense
+3148,62,black,15+15,1256,1395,Sicilian Defense
+3149,97,white,15+15,1470,1397,Sicilian Defense
+3150,16,black,15+15,1393,1539,Italian Game
+3151,63,white,15+15,1470,1409,Sicilian Defense
+3152,63,white,15+15,1445,1426,Indian Game
+3153,72,draw,15+15,1359,1440,Sicilian Defense
+3154,79,black,15+15,1269,1421,Sicilian Defense
+3155,62,black,15+15,1417,1417,Sicilian Defense
+3156,94,draw,15+15,1404,1418,Sicilian Defense
+3157,56,draw,15+8,1401,1296,Sicilian Defense
+3158,79,white,15+15,1541,1422,Sicilian Defense
+3159,42,black,15+15,1498,1391,Van't Kruijs Opening
+3160,46,black,10+15,1417,1386,Sicilian Defense
+3161,39,white,15+15,1405,1403,English Opening: King's English Variation
+3162,84,black,15+15,1319,1395,Sicilian Defense
+3163,56,black,15+15,1434,1383,Indian Game
+3164,32,black,15+15,1421,1371,Hungarian Opening
+3165,26,black,15+15,1054,1373,Hungarian Opening
+3166,103,white,10+10,1943,1839,Philidor Defense
+3167,80,black,15+0,1849,1968,French Defense
+3168,51,white,15+0,1960,1857,Philidor Defense
+3169,97,white,10+8,1909,1887,Philidor Defense
+3170,159,white,8+0,1954,1902,Philidor Defense
+3171,146,black,8+10,1950,1876,Philidor Defense
+3172,98,black,15+2,1891,1912,Sicilian Defense
+3173,41,white,15+0,2152,1895,Philidor Defense
+3174,58,black,12+12,1943,1882,Philidor Defense
+3175,16,black,20+5,1993,1868,Philidor Defense
+3176,35,white,10+10,2177,1858,Philidor Defense
+3177,65,white,10+5,2054,1876,Philidor Defense
+3178,23,white,5+8,1906,1869,Philidor Defense
+3179,41,white,5+5,1937,1870,Queen's Pawn
+3180,31,white,20+0,1276,1486,Queen's Pawn
+3181,41,white,10+0,1743,1504,Queen's Gambit Accepted: Old Variation
+3182,90,black,10+2,1504,1685,Three Knights Opening
+3183,55,white,10+2,1685,1504,Scandinavian Defense: Mieses-Kotroc Variation
+3184,3,white,8+10,1639,1504,Queen's Pawn
+3185,66,black,5+6,1739,1713,Four Knights Game: Italian Variation
+3186,39,black,5+5,1413,1430,Scandinavian Defense
+3187,27,white,10+0,1806,1413,Queen's Pawn
+3188,85,white,11+0,1388,1413,Queen's Pawn
+3189,24,black,8+4,1413,1425,Sicilian Defense
+3190,16,black,7+5,1413,1336,Scotch Game
+3191,29,black,8+8,1413,1820,Caro-Kann Defense
+3192,50,white,15+0,1852,1413,Queen's Pawn
+3193,51,white,6+3,1861,1413,Queen's Pawn
+3194,119,draw,12+12,1421,1413,Pirc Defense #4
+3195,68,black,12+12,1423,1432,Philidor Defense
+3196,49,black,12+12,1424,1441,Philidor Defense
+3197,68,draw,12+10,1428,1527,French Defense
+3198,39,black,12+10,1439,1426,Scotch Game
+3199,44,black,13+12,1587,1423,Philidor Defense
+3200,50,black,13+12,1390,1413,Pirc Defense #4
+3201,47,white,13+12,1470,1395,Philidor Defense
+3202,55,black,13+12,1406,1391,Caro-Kann Defense
+3203,73,white,13+12,1411,1303,French Defense
+3204,105,black,13+12,1387,1401,Pirc Defense #4
+3205,77,black,13+12,1418,1574,Philidor Defense
+3206,48,black,15+15,1429,1432,Modern Defense
+3207,49,white,15+15,1492,1438,Queen's Pawn
+3208,35,black,15+15,1447,1499,Scotch Game
+3209,119,white,15+15,1436,1472,Scotch Game
+3210,8,draw,15+15,1518,1431,Pirc Defense #4
+3211,141,white,15+15,1352,1444,Pirc Defense #4
+3212,70,black,15+0,1710,1911,Scandinavian Defense
+3213,30,black,7+5,1733,1875,Four Knights Game: Italian Variation
+3214,58,black,20+10,1791,1851,Philidor Defense
+3215,76,white,10+5,1774,1772,Caro-Kann Defense
+3216,85,white,9+3,1329,1876,Queen's Pawn
+3217,3,draw,7+6,1880,1886,Bishop's Opening
+3218,64,black,25+0,1541,1817,Sicilian Defense
+3219,48,black,5+8,1500,1500,Pirc Defense #4
+3220,27,white,8+8,1329,1061,Philidor Defense
+3221,115,white,10+8,1392,1500,King's Pawn Game
+3222,91,white,8+0,1404,1013,Sicilian Defense
+3223,81,white,15+0,1619,1017,Four Knights Game: Italian Variation
+3224,37,white,15+0,1617,1022,Sicilian Defense
+3225,76,white,30+8,1173,1022,Sicilian Defense
+3226,92,black,8+5,1240,1507,Modern Defense
+3227,43,white,9+6,1504,1139,Hungarian Opening
+3228,80,black,9+6,1148,1500,Van't Kruijs Opening
+3229,73,white,13+0,1513,1156,Hungarian Opening
+3230,59,white,12+0,1507,1248,Hungarian Opening
+3231,53,white,8+8,1502,1227,Hungarian Opening
+3232,23,white,10+0,1498,1147,Hungarian Opening
+3233,44,black,30+8,1248,1492,Modern Defense
+3234,49,white,30+0,1485,1298,Hungarian Opening
+3235,63,white,30+8,1500,1329,French Defense
+3236,48,black,10+0,1382,1644,Van't Kruijs Opening
+3237,71,black,15+0,1642,1847,Owen Defense
+3238,89,white,30+0,1855,1675,King's Pawn Game
+3239,24,white,20+0,1921,1685,Queen's Gambit Refused: Marshall Defense
+3240,60,white,20+0,1886,1688,Four Knights Game: Italian Variation
+3241,56,black,14+8,1707,2021,Philidor Defense
+3242,25,white,10+5,2037,1677,Four Knights Game: Italian Variation
+3243,71,black,180+0,1896,1644,Scotch Game
+3244,52,white,15+1,1860,1657,Queen's Gambit Refused: Marshall Defense
+3245,40,black,20+0,1793,1640,Four Knights Game: Italian Variation
+3246,112,black,10+0,1642,1585,French Defense
+3247,74,black,6+3,1135,1125,Scandinavian Defense
+3248,31,white,4+8,1126,1094,Caro-Kann Defense
+3249,87,white,5+9,1328,1146,Queen's Pawn
+3250,102,black,4+8,1188,1415,Philidor Defense
+3251,50,black,5+8,1135,1709,Queen's Pawn
+3252,165,white,10+0,1869,1724,Indian Game
+3253,139,draw,10+0,1727,1627,Indian Game
+3254,3,draw,10+0,1677,1716,Queen's Pawn
+3255,52,black,8+0,1707,2000,Indian Game
+3256,115,white,10+0,1694,1755,Queen's Gambit Declined
+3257,164,draw,10+0,1862,1698,Queen's Pawn
+3258,121,draw,10+0,1500,1677,Van't Kruijs Opening
+3259,54,black,10+0,1687,1732,Queen's Gambit Accepted: Old Variation
+3260,61,white,5+5,1504,1398,Scandinavian Defense: Mieses-Kotroc Variation
+3261,11,white,5+8,1342,1553,French Defense
+3262,102,black,11+0,1623,1530,Horwitz Defense
+3263,48,black,11+0,1511,1614,Scandinavian Defense
+3264,49,white,12+0,1606,1101,Queen's Pawn
+3265,47,white,15+0,1596,1535,Horwitz Defense
+3266,66,black,10+0,1607,1771,Indian Game
+3267,90,black,10+0,1619,1593,Indian Game
+3268,44,black,10+0,1634,1526,Modern Defense
+3269,61,white,15+10,1627,1661,Sicilian Defense
+3270,13,white,15+1,1629,1858,Horwitz Defense
+3271,122,black,15+0,1675,1895,Sicilian Defense
+3272,117,white,15+0,1853,1895,Caro-Kann Defense
+3273,44,black,10+0,1631,1500,Caro-Kann Defense
+3274,58,black,10+1,1600,1595,Queen's Gambit Refused: Marshall Defense
+3275,88,black,10+4,1328,1607,Sicilian Defense
+3276,77,white,10+0,1448,1632,Sicilian Defense
+3277,47,white,10+0,1636,1601,Scandinavian Defense: Mieses-Kotroc Variation
+3278,29,black,10+0,1650,1585,Ruy Lopez: Steinitz Defense
+3279,41,white,10+0,1766,1655,Indian Game
+3280,22,black,10+0,1672,1706,Scandinavian Defense: Mieses-Kotroc Variation
+3281,76,black,10+0,1680,1673,Philidor Defense
+3282,81,white,7+7,1939,2011,Italian Game
+3283,102,black,8+0,1965,1940,Caro-Kann Defense
+3284,57,white,5+5,1514,2032,Pirc Defense #4
+3285,45,black,5+6,1531,1514,Giuoco Piano
+3286,7,white,15+0,1554,1104,Philidor Defense
+3287,69,white,30+0,1033,1500,King's Pawn Game
+3288,51,white,12+9,1437,1060,Scandinavian Defense
+3289,39,white,10+0,1842,1060,Scandinavian Defense: Mieses-Kotroc Variation
+3290,85,white,14+5,1362,1076,Queen's Pawn
+3291,10,black,20+0,1137,1383,Modern Defense
+3292,21,white,20+0,1363,1299,Queen's Pawn
+3293,31,white,5+8,1605,1352,Philidor Defense
+3294,65,white,5+8,1559,1500,Philidor Defense
+3295,162,black,8+0,1878,2005,Sicilian Defense
+3296,45,white,10+2,1209,1237,Sicilian Defense
+3297,115,white,5+5,1504,1241,Horwitz Defense
+3298,71,white,10+5,1225,1378,Ruy Lopez: Steinitz Defense
+3299,62,white,15+8,1328,1215,Pirc Defense #4
+3300,62,black,7+5,1121,1212,Horwitz Defense
+3301,34,black,5+8,1216,1523,Philidor Defense
+3302,22,black,10+5,1242,1402,Sicilian Defense
+3303,99,white,30+0,1222,1314,Scandinavian Defense: Mieses-Kotroc Variation
+3304,16,black,30+0,1329,1206,Sicilian Defense
+3305,115,white,8+3,1196,1112,Philidor Defense
+3306,31,white,8+3,1081,1213,Sicilian Defense
+3307,32,black,10+2,1528,1192,Sicilian Defense
+3308,54,black,10+7,1199,1359,French Defense
+3309,18,white,5+8,1829,1420,Philidor Defense
+3310,37,white,5+8,1830,1830,King's Pawn Game
+3311,40,black,4+7,1223,1333,Modern Defense
+3312,58,black,10+0,1628,1532,King's Pawn Game
+3313,109,white,5+8,1802,1662,Queen's Pawn
+3314,65,white,8+0,1683,1627,Bishop's Opening
+3315,64,white,8+0,1672,1663,Bishop's Opening
+3316,119,white,7+7,1526,1536,French Defense
+3317,79,white,5+8,1342,1580,Scotch Game
+3318,32,white,8+8,1500,1394,Queen's Pawn
+3319,75,white,10+0,1747,1962,Sicilian Defense
+3320,151,white,10+0,1605,2114,Sicilian Defense
+3321,75,white,8+0,2074,2013,Ruy Lopez: Steinitz Defense
+3322,57,black,8+0,1982,2042,Sicilian Defense
+3323,152,draw,8+0,1978,2061,Sicilian Defense
+3324,114,black,8+0,1689,2201,Sicilian Defense
+3325,55,white,8+0,2192,1357,Philidor Defense
+3326,33,white,5+8,1467,1305,Caro-Kann Defense
+3327,58,black,11+11,1333,1289,Caro-Kann Defense
+3328,49,white,11+11,1271,1346,Queen's Gambit Refused: Marshall Defense
+3329,88,black,8+1,1642,1273,Queen's Pawn
+3330,76,black,10+0,1529,1247,Caro-Kann Defense
+3331,71,white,10+0,1515,1253,Caro-Kann Defense
+3332,49,white,5+8,1233,1289,Caro-Kann Defense
+3333,103,white,5+6,1542,1295,Caro-Kann Defense
+3334,69,black,10+8,1295,1733,Horwitz Defense
+3335,77,white,5+8,1282,1394,Queen's Gambit Declined
+3336,79,white,15+15,1655,1286,Caro-Kann Defense
+3337,68,draw,10+0,1608,1591,Sicilian Defense
+3338,50,black,10+0,1699,1581,Philidor Defense
+3339,51,white,10+0,1562,1714,Philidor Defense
+3340,23,white,10+0,1730,1603,Italian Game
+3341,48,black,10+0,1611,1775,Sicilian Defense
+3342,76,black,10+0,1500,1588,King's Pawn Game
+3343,28,white,15+8,1588,1203,Scandinavian Defense: Mieses-Kotroc Variation
+3344,38,black,5+5,1662,1586,Queen's Gambit Refused: Marshall Defense
+3345,3,white,6+8,1362,1265,Scandinavian Defense
+3346,3,white,6+8,1362,1265,Scandinavian Defense
+3347,50,black,19+30,1265,1500,Queen's Pawn
+3348,50,black,19+30,1265,1500,Van't Kruijs Opening
+3349,10,black,8+0,1099,1574,Scandinavian Defense
+3350,41,white,15+5,1293,1411,Philidor Defense
+3351,19,black,10+8,1230,1402,Three Knights Opening
+3352,65,white,45+0,1611,1410,Philidor Defense
+3353,78,black,9+9,1292,1419,Hungarian Opening
+3354,56,black,10+6,1257,1389,King's Pawn Game
+3355,34,black,15+0,1188,1381,Queen's Pawn
+3356,101,white,29+30,1399,1399,Queen's Gambit Refused: Marshall Defense
+3357,74,black,10+15,1279,1386,King's Pawn Game
+3358,62,black,8+8,1485,1362,Scotch Game
+3359,19,white,15+9,1373,1286,Queen's Pawn
+3360,24,black,15+5,1348,1353,Van't Kruijs Opening
+3361,53,white,5+8,1347,1455,Queen's Pawn
+3362,41,white,10+1,1426,1317,Queen's Pawn
+3363,69,white,20+0,1479,1334,Four Knights Game: Italian Variation
+3364,41,white,3+10,1464,1403,King's Pawn Game
+3365,50,black,5+5,1438,1497,Modern Defense
+3366,66,white,10+0,1499,1478,Sicilian Defense
+3367,55,white,180+5,1366,1483,Sicilian Defense
+3368,43,white,10+0,1184,1485,Van't Kruijs Opening
+3369,24,black,7+8,1464,1479,Sicilian Defense
+3370,4,white,5+8,1500,1479,Van't Kruijs Opening
+3371,66,black,10+0,1479,1810,Sicilian Defense
+3372,49,black,12+7,1444,1642,Sicilian Defense
+3373,81,white,10+0,1776,1829,Ruy Lopez: Steinitz Defense
+3374,69,white,8+0,1747,1902,Caro-Kann Defense
+3375,40,black,20+10,1576,1687,Italian Game
+3376,58,black,20+10,1582,1773,Owen Defense
+3377,106,black,20+10,1581,1667,Italian Game
+3378,40,black,20+10,1583,1820,Italian Game
+3379,136,black,20+10,1623,1473,Giuoco Piano
+3380,55,white,20+10,1612,1582,Caro-Kann Defense
+3381,131,draw,20+10,1613,1406,Italian Game
+3382,65,white,20+10,1602,1572,Philidor Defense
+3383,97,white,20+10,1593,1509,Scandinavian Defense
+3384,65,white,20+10,1582,1260,Four Knights Game: Italian Variation
+3385,29,white,20+10,1578,1277,Owen Defense
+3386,124,white,20+10,1564,1461,Italian Game
+3387,100,white,20+10,1557,1500,Four Knights Game: Italian Variation
+3388,70,black,20+10,1566,1643,Giuoco Piano
+3389,55,white,20+5,1602,1343,Giuoco Piano
+3390,19,white,20+5,1587,1347,Philidor Defense
+3391,37,white,20+5,1565,1548,Italian Game
+3392,30,white,20+5,1561,1275,Giuoco Piano
+3393,26,white,10+8,1377,1500,French Defense
+3394,49,white,20+0,1327,1364,Three Knights Opening
+3395,36,black,5+8,1070,1802,Owen Defense
+3396,68,black,7+7,1097,1171,French Defense
+3397,7,white,8+0,1271,1130,King's Pawn Game
+3398,10,black,12+2,1130,1455,Sicilian Defense
+3399,10,black,11+0,1240,1602,Sicilian Defense
+3400,16,black,180+180,1240,1422,King's Pawn Game
+3401,18,black,180+180,1240,1587,King's Pawn Game
+3402,112,black,15+5,1271,1624,Bishop's Opening
+3403,44,black,12+0,1500,1404,Scandinavian Defense
+3404,41,white,10+0,1677,1672,Queen's Gambit Refused: Marshall Defense
+3405,65,white,10+0,1674,1657,Sicilian Defense
+3406,84,black,10+0,1664,1810,Scandinavian Defense: Mieses-Kotroc Variation
+3407,21,white,10+0,1262,1236,Four Knights Game: Italian Variation
+3408,88,black,10+0,1571,1784,Queen's Gambit Declined
+3409,111,draw,10+0,1875,1589,Pirc Defense #4
+3410,45,white,10+0,1636,1601,Pirc Defense #4
+3411,72,black,10+0,1657,1584,Van't Kruijs Opening
+3412,82,black,10+0,1606,1644,Queen's Pawn
+3413,55,white,10+0,1581,1566,Queen's Pawn
+3414,57,white,10+0,1495,1500,Scandinavian Defense: Mieses-Kotroc Variation
+3415,77,white,15+8,1040,1215,French Defense
+3416,62,black,30+5,1215,1500,Van't Kruijs Opening
+3417,56,black,20+0,1289,1442,King's Pawn Game
+3418,39,white,20+0,1434,1500,Italian Game
+3419,48,black,10+0,1270,1372,Horwitz Defense
+3420,94,black,8+0,1336,1372,Van't Kruijs Opening
+3421,56,black,10+1,1372,1500,French Defense
+3422,34,black,10+0,1372,1500,French Defense
+3423,57,white,5+8,1710,1376,Sicilian Defense
+3424,53,black,5+5,1245,1336,Sicilian Defense
+3425,48,white,15+0,1599,2051,French Defense
+3426,52,black,15+0,1446,1556,Sicilian Defense
+3427,92,draw,10+2,1418,1589,Sicilian Defense
+3428,105,white,15+0,1512,1465,Three Knights Opening
+3429,55,white,15+0,1470,1195,Van't Kruijs Opening
+3430,75,white,11+11,1420,1483,Philidor Defense
+3431,113,white,180+180,1421,1315,King's Pawn Game
+3432,27,black,10+10,1757,1866,Sicilian Defense
+3433,16,black,15+0,1371,1575,Hungarian Opening
+3434,49,white,15+0,1377,1451,Queen's Pawn
+3435,33,white,15+0,1245,1260,Van't Kruijs Opening
+3436,36,black,15+0,1260,1222,Philidor Defense
+3437,34,black,15+0,1279,1716,Queen's Pawn
+3438,54,black,15+0,1500,1591,Philidor Defense
+3439,74,black,15+0,1591,1500,English Opening: King's English Variation
+3440,79,white,15+0,1591,1500,English Opening: King's English Variation
+3441,107,white,15+0,1591,1500,English Opening: King's English Variation
+3442,64,black,150+60,1492,1500,Sicilian Defense
+3443,2,black,18+18,1500,1500,Sicilian Defense
+3444,46,black,5+8,1500,1696,Van't Kruijs Opening
+3445,60,black,20+1,1250,1208,Van't Kruijs Opening
+3446,15,white,10+5,1626,1217,Scotch Game
+3447,87,white,16+8,1937,1221,Scotch Game
+3448,25,white,10+0,1508,1237,Scandinavian Defense: Mieses-Kotroc Variation
+3449,27,white,16+0,1393,1251,Italian Game
+3450,41,white,5+10,1512,1261,Bishop's Opening
+3451,33,black,18+10,1266,1669,King's Pawn Game
+3452,59,white,5+8,1426,1282,King's Pawn Game
+3453,76,black,5+10,1640,1290,King's Pawn Game
+3454,87,white,20+4,1443,1313,King's Pawn Game
+3455,89,white,15+0,1847,1287,Scandinavian Defense: Mieses-Kotroc Variation
+3456,61,black,10+2,1500,1298,Queen's Pawn
+3457,33,white,5+5,1323,1318,Queen's Pawn
+3458,29,white,5+8,1457,1327,King's Pawn Game
+3459,39,white,9+0,1189,1410,Caro-Kann Defense
+3460,96,black,20+15,1189,1366,Bishop's Opening
+3461,20,black,8+0,1161,1465,King's Pawn Game
+3462,2,black,0+16,2073,2257,Scandinavian Defense
+3463,2,black,0+16,2159,1500,Scandinavian Defense
+3464,2,black,0+16,1816,2230,Scandinavian Defense
+3465,39,draw,0+16,2002,2302,French Defense
+3466,23,white,0+16,2276,2111,Three Knights Opening
+3467,2,black,0+16,1836,2340,Queen's Pawn
+3468,2,black,0+16,1921,2322,Queen's Pawn
+3469,2,black,0+16,1654,2314,Scandinavian Defense
+3470,2,black,0+16,1513,2312,Scandinavian Defense
+3471,27,white,6+3,1591,1348,Bishop's Opening
+3472,19,white,10+0,1531,1354,Bishop's Opening
+3473,45,white,12+5,1336,1364,Giuoco Piano
+3474,18,black,6+7,1415,1437,French Defense
+3475,75,white,20+0,1624,1427,Bishop's Opening
+3476,48,black,10+0,1439,1422,Philidor Defense
+3477,33,white,10+0,1413,1441,Pirc Defense #4
+3478,42,black,10+0,1444,1400,Scotch Game
+3479,37,white,10+0,1518,1408,Giuoco Piano
+3480,22,black,10+5,1500,1369,Four Knights Game: Italian Variation
+3481,47,white,15+4,1359,1323,Philidor Defense
+3482,39,white,5+5,1752,1363,Four Knights Game: Italian Variation
+3483,86,black,10+0,1373,2007,Four Knights Game: Italian Variation
+3484,62,draw,10+0,1197,1379,Giuoco Piano
+3485,33,white,8+0,1497,1500,French Defense
+3486,56,black,20+8,1500,1563,Queen's Pawn
+3487,42,black,7+8,1500,1563,Bishop's Opening
+3488,71,white,3+8,1485,1352,Scotch Game
+3489,84,white,10+2,1702,1375,Queen's Gambit Accepted: Old Variation
+3490,63,white,5+5,1394,1228,Queen's Gambit Refused: Marshall Defense
+3491,86,black,5+15,1511,1500,King's Pawn Game
+3492,120,black,10+0,1600,2015,Modern Defense
+3493,73,white,10+0,1942,1845,Queen's Pawn
+3494,114,black,10+0,1846,1910,Indian Game
+3495,69,white,10+0,1890,1846,Queen's Pawn
+3496,40,black,30+10,1121,1355,English Opening: King's English Variation
+3497,57,white,5+17,1339,1500,King's Pawn Game
+3498,21,white,30+5,1794,951,Queen's Pawn
+3499,52,black,30+5,951,1793,Van't Kruijs Opening
+3500,16,white,180+0,1496,954,Queen's Pawn
+3501,3,white,10+0,1146,996,French Defense
+3502,53,white,5+8,1518,1050,Philidor Defense
+3503,61,black,6+6,1068,1304,Van't Kruijs Opening
+3504,15,white,5+25,1216,1191,Queen's Pawn
+3505,12,black,180+180,895,1164,Scandinavian Defense: Mieses-Kotroc Variation
+3506,19,black,5+5,957,1058,French Defense
+3507,57,white,11+4,1334,880,King's Pawn Game
+3508,50,black,10+20,1500,1392,Indian Game
+3509,123,white,180+180,1392,1500,Scandinavian Defense
+3510,68,black,10+0,1500,1669,Queen's Pawn
+3511,34,black,10+5,1497,1521,Owen Defense
+3512,64,white,10+5,1475,1165,French Defense
+3513,46,black,10+5,1411,1584,Scandinavian Defense
+3514,29,white,10+0,1555,1500,Horwitz Defense
+3515,35,white,45+0,1564,1503,Scandinavian Defense: Mieses-Kotroc Variation
+3516,112,black,5+5,1473,1414,Owen Defense
+3517,28,black,5+5,1486,1412,Scandinavian Defense: Mieses-Kotroc Variation
+3518,39,white,5+5,1398,1544,Hungarian Opening
+3519,73,white,5+5,1511,1405,Owen Defense
+3520,88,black,5+8,1679,1342,Scandinavian Defense: Mieses-Kotroc Variation
+3521,36,black,5+5,1462,1500,Scandinavian Defense
+3522,56,black,7+4,1711,1652,Queen's Pawn
+3523,64,black,7+4,1722,1723,Queen's Pawn
+3524,81,white,7+4,1704,1551,Indian Game
+3525,54,black,12+0,1713,1768,Indian Game
+3526,46,black,7+15,1713,1668,Indian Game
+3527,57,white,7+15,1703,1678,Modern Defense
+3528,56,white,7+15,1695,1600,Modern Defense
+3529,54,black,7+15,1709,1610,Horwitz Defense
+3530,45,white,7+15,1700,1620,Indian Game
+3531,140,black,7+15,1705,1616,Indian Game
+3532,27,black,7+15,1724,1771,Indian Game
+3533,87,white,7+15,1720,1481,Horwitz Defense
+3534,39,white,7+15,1719,1856,Horwitz Defense
+3535,77,white,10+3,1458,1738,Queen's Pawn
+3536,32,white,10+3,1717,1699,Queen's Pawn
+3537,78,white,7+5,1721,1450,Queen's Pawn
+3538,83,white,7+5,1709,1695,Indian Game
+3539,60,white,7+5,1697,1718,Queen's Pawn
+3540,127,draw,7+5,1691,1626,Queen's Pawn
+3541,43,white,7+5,1681,1733,Queen's Pawn
+3542,46,black,7+5,1685,1946,Indian Game
+3543,89,white,7+5,1682,1350,Horwitz Defense
+3544,90,black,7+5,1697,1546,Modern Defense
+3545,64,black,7+5,1714,1553,Modern Defense
+3546,55,white,7+5,1693,1521,Horwitz Defense
+3547,99,white,7+5,1680,1713,Queen's Pawn
+3548,79,white,7+5,1674,1491,Modern Defense
+3549,161,draw,5+10,1846,1669,Queen's Pawn
+3550,48,black,8+2,1675,1858,Indian Game
+3551,12,black,7+5,1551,1667,Italian Game
+3552,40,white,7+5,1651,1629,Queen's Pawn
+3553,107,draw,7+5,1663,1300,Queen's Pawn
+3554,101,white,7+5,1655,1518,Queen's Pawn
+3555,144,black,7+2,1749,1716,Four Knights Game: Italian Variation
+3556,37,white,7+2,1735,1500,French Defense
+3557,30,black,7+2,1425,1754,Owen Defense
+3558,57,black,7+2,1799,1500,Owen Defense
+3559,65,white,7+2,1760,1711,Philidor Defense
+3560,31,white,5+8,1383,1500,Scandinavian Defense: Mieses-Kotroc Variation
+3561,47,white,20+60,1342,1299,Queen's Pawn
+3562,47,black,10+5,1357,904,French Defense
+3563,11,white,10+0,1341,1259,Queen's Pawn
+3564,102,black,10+5,1280,1341,Queen's Pawn
+3565,49,white,12+8,1336,1099,Queen's Pawn
+3566,27,white,15+15,1336,1190,Modern Defense
+3567,38,black,10+5,1336,1259,Queen's Pawn
+3568,59,white,5+8,1336,944,Queen's Pawn
+3569,54,white,10+5,1336,1217,Queen's Pawn
+3570,47,white,10+5,1202,1336,Scandinavian Defense: Mieses-Kotroc Variation
+3571,10,black,10+5,1354,1680,Queen's Pawn
+3572,41,white,10+8,1354,1289,Queen's Pawn
+3573,12,black,15+12,1084,1099,Hungarian Opening
+3574,32,white,10+10,1362,1094,Sicilian Defense
+3575,15,black,10+0,1116,1247,Caro-Kann Defense
+3576,9,white,10+8,1099,1290,Van't Kruijs Opening
+3577,16,black,9+0,1199,1503,Hungarian Opening
+3578,3,black,25+0,1148,1614,Sicilian Defense
+3579,2,black,25+17,1149,1672,Scandinavian Defense
+3580,102,black,180+180,1500,1430,English Opening: King's English Variation
+3581,54,black,8+0,2022,2226,Modern Defense
+3582,47,white,8+0,2202,1965,French Defense
+3583,51,white,30+0,1503,1500,Queen's Pawn
+3584,96,black,10+0,1613,2237,English Opening: King's English Variation
+3585,80,black,7+2,1737,2257,Van't Kruijs Opening
+3586,23,black,30+0,1408,1690,Queen's Gambit Declined
+3587,69,white,30+0,1695,1702,Van't Kruijs Opening
+3588,31,white,30+0,1675,1722,Scotch Game
+3589,53,black,30+0,1696,1711,Scotch Game
+3590,77,white,30+0,1552,1713,Scotch Game
+3591,29,white,30+0,1703,1679,Sicilian Defense
+3592,53,white,30+0,1685,1579,Sicilian Defense
+3593,101,white,30+0,1670,1522,Bishop's Opening
+3594,101,draw,30+0,1665,1684,Sicilian Defense
+3595,44,white,30+0,1650,1574,Bishop's Opening
+3596,34,black,30+0,1687,1657,Italian Game
+3597,35,white,30+0,1670,1542,Bishop's Opening
+3598,73,white,30+0,1502,1687,Queen's Gambit Refused: Marshall Defense
+3599,28,black,30+0,1706,1482,Scandinavian Defense
+3600,54,draw,10+0,1837,1426,Scandinavian Defense: Mieses-Kotroc Variation
+3601,2,black,180+0,856,1423,Queen's Pawn
+3602,2,white,180+0,1417,861,Van't Kruijs Opening
+3603,2,black,180+0,864,1414,Van't Kruijs Opening
+3604,2,black,180+0,867,1410,Van't Kruijs Opening
+3605,3,white,180+0,1407,871,Van't Kruijs Opening
+3606,2,white,180+0,1403,874,Van't Kruijs Opening
+3607,2,black,180+0,877,1399,Van't Kruijs Opening
+3608,3,white,180+180,1390,885,Van't Kruijs Opening
+3609,3,white,180+0,1386,889,Van't Kruijs Opening
+3610,3,white,180+180,1381,893,Van't Kruijs Opening
+3611,2,black,180+0,897,1375,Pirc Defense #4
+3612,3,white,180+180,1369,902,Van't Kruijs Opening
+3613,2,black,180+180,908,1363,Van't Kruijs Opening
+3614,2,white,180+180,1356,913,Van't Kruijs Opening
+3615,2,white,180+0,1348,919,Van't Kruijs Opening
+3616,2,black,180+180,926,1340,Van't Kruijs Opening
+3617,3,white,180+180,1330,934,Pirc Defense #4
+3618,2,black,180+180,943,1319,Van't Kruijs Opening
+3619,2,white,180+180,1306,953,Pirc Defense #4
+3620,2,white,180+180,1291,965,Scandinavian Defense
+3621,2,white,180+180,1271,979,Scandinavian Defense
+3622,18,black,0+180,1271,1500,Queen's Gambit Refused: Marshall Defense
+3623,43,white,20+0,1387,1228,Scandinavian Defense
+3624,40,black,20+0,1369,1062,Philidor Defense
